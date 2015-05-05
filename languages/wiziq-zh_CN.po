@@ -1,0 +1,908 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: my-pluginname 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-06 13:46-0400\n"
+"PO-Revision-Date: 2014-07-31 16:46+0530\n"
+"Last-Translator: Harjodh <harjot@csgroupchd.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"X-Poedit-SourceChzh-CNset: iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "API URL"
+msgstr "zh-CN-API URL"
+
+msgid "Recurring API URL"
+msgstr "zh-CN-Recurring API URL"
+
+msgid "Content URL"
+msgstr "zh-CN-Content URL"
+
+msgid "Access Key"
+msgstr "zh-CN-Access Key"
+
+msgid "Secret Key"
+msgstr "zh-CN-Secret Key"
+
+msgid "Content Language"
+msgstr "zh-CN-Content Language"
+
+msgid "Save Changes"
+msgstr "zh-CN-Save Changes"
+
+msgid "Course Name"
+msgstr "zh-CN-Course Name"
+
+msgid "Short Name"
+msgstr "zh-CN-Short Name"
+
+msgid "Stzh-CNt Date"
+msgstr "zh-CN-Stzh-CNt Date"
+
+msgid "End Date"
+msgstr "zh-CN-End Date"
+
+msgid "Description"
+msgstr "zh-CN-Description"
+
+msgid "Add New Course"
+msgstr "zh-CN-Add New Course"
+
+msgid "Save"
+msgstr "zh-CN-Save"
+
+msgid "WizIQ Courses"
+msgstr "zh-CN-WizIQ Courses"
+
+msgid "Please"
+msgstr "zh-CN-Please"
+
+msgid "Please enter course name."
+msgstr "zh-CN-Please enter course name."
+
+msgid "Please Enter Course Short Name"
+msgstr "zh-CN-Please Enter Course Short Name"
+
+msgid "Cancel"
+msgstr "zh-CN-Cancel"
+
+msgid "WizIQ Credentials"
+msgstr "zh-CN-WizIQ Credentials"
+
+msgid "Course created successfully"
+msgstr "zh-CN-Course created successfully"
+
+msgid "Courses deleted successfully"
+msgstr "zh-CN-Courses deleted successfully"
+
+msgid "Course deleted successfully"
+msgstr "zh-CN-Course deleted successfully"
+
+msgid "and courses"
+msgstr "zh-CN-and courses"
+
+msgid "Apply"
+msgstr "zh-CN-Apply"
+
+msgid "Delete"
+msgstr "zh-CN-Delete"
+
+msgid "Name"
+msgstr "zh-CN-Name"
+
+msgid "Manage Courses"
+msgstr "zh-CN-Manage Courses"
+
+msgid "Created By"
+msgstr "zh-CN-Created By"
+
+msgid "Number of Classes"
+msgstr "zh-CN-Number of Classes"
+
+msgid "View"
+msgstr "zh-CN-View"
+
+msgid "Completed"
+msgstr "zh-CN-Completed"
+
+msgid "Live Class"
+msgstr "zh-CN-Live Class"
+
+msgid "Expired"
+msgstr "zh-CN-Expired"
+
+msgid "View Recurring Classes"
+msgstr "zh-CN-View Recurring Classe"
+
+msgid "Refresh"
+msgstr "zh-CN-Refresh"
+
+msgid "Courses"
+msgstr "zh-CN-Courses"
+
+msgid "Content"
+msgstr "zh-CN-Content"
+
+msgid "Settings"
+msgstr "zh-CN-Settings"
+
+msgid "Edit"
+msgstr "zh-CN-Edit"
+
+msgid "Edit this item"
+msgstr "zh-CN-Edit this item"
+
+msgid "Move this item to the Trash"
+msgstr "zh-CN-Move this item to the Trash"
+
+msgid "Create Class"
+msgstr "zh-CN-Create Class"
+
+msgid "Enroll User"
+msgstr "zh-CN-Enroll User"
+
+msgid "WizIQ Content"
+msgstr "zh-CN-WizIQ Content"
+
+msgid "Upload Content"
+msgstr "zh-CN-Upload Content"
+
+msgid "My Content"
+msgstr "zh-CN-My Content"
+
+msgid "Content Name"
+msgstr "zh-CN-Content Name"
+
+msgid "Type"
+msgstr "zh-CN-Type"
+
+msgid "Inside"
+msgstr "zh-CN-Inside"
+
+msgid "Status"
+msgstr "zh-CN-Status"
+
+msgid "No content available"
+msgstr "zh-CN-No content available"
+
+msgid "Class title"
+msgstr "zh-CN-Class title"
+
+msgid "Class time"
+msgstr "zh-CN-Class time"
+
+msgid "Presenter"
+msgstr "zh-CN-Presenter"
+
+msgid "Attendance Report"
+msgstr "zh-CN-Attendance Report"
+
+msgid "Manage Class"
+msgstr "zh-CN-Manage Class"
+
+msgid "Upcoming"
+msgstr "zh-CN-Upcoming"
+
+msgid "WizIQ Classes"
+msgstr "zh-CN-WizIQ Classes"
+
+msgid "Add Class"
+msgstr "zh-CN-Add Class"
+
+msgid "Back To Courses"
+msgstr "zh-CN-Back To Courses"
+
+msgid "There zh-CNe no user"
+msgstr "zh-CN-There zh-CNe no user"
+
+msgid "Add New"
+msgstr "zh-CN-Add New"
+
+msgid "Enroll Users for Course"
+msgstr "zh-CN-Enroll Users for Course"
+
+msgid "General"
+msgstr "zh-CN-General"
+
+msgid "Class Duration (in minutes )"
+msgstr "zh-CN-Class Duration (in minutes )"
+
+msgid "Set Timing of the Class"
+msgstr "zh-CN-Set Timing of the Class"
+
+msgid "Choose Class Method"
+msgstr "Choose Class Method"
+
+msgid "Class Schedule"
+msgstr "zh-CN-Class Schedul"
+
+msgid "Select Date"
+msgstr "zh-CN-Select Date"
+
+msgid "Class Stzh-CNting Time Date"
+msgstr "zh-CN-Class Stzh-CNting Time Dat"
+
+msgid "Hours"
+msgstr "zh-CN-Hours"
+
+msgid "Minutes"
+msgstr "zh-CN-Minutes"
+
+msgid "Time zone"
+msgstr "zh-CN-Time zone"
+
+msgid "Repeat by"
+msgstr "zh-CN-Repeat by"
+
+msgid "Date"
+msgstr "zh-CN-Date"
+
+msgid "Day"
+msgstr "zh-CN-Day"
+
+msgid "of every month"
+msgstr "zh-CN-of every month"
+
+msgid "After classes"
+msgstr "zh-CN-After classes"
+
+msgid "On date"
+msgstr "zh-CN-On date"
+
+msgid "Setting of Wiziq Class"
+msgstr "zh-CN-Setting of Wiziq Class"
+
+msgid "Attendee limit in a class"
+msgstr "zh-CN-Attendee limit in a class"
+
+msgid "Record this class"
+msgstr "zh-CN-Record this class"
+
+msgid "Select a language"
+msgstr "zh-CN-Select a language"
+
+msgid "Yes"
+msgstr "zh-CN-Yes"
+
+msgid "No"
+msgstr "zh-CN-No"
+
+msgid "Want to schedule a single class"
+msgstr "zh-CN-Want to schedule a single class"
+
+msgid "Want to schedule a recurring class"
+msgstr "zh-CN-Want to schedule a recurring class"
+
+msgid "Select when class repeats"
+msgstr "zh-CN-Select when class repeats"
+
+msgid "Daily (all 7 Days)"
+msgstr "zh-CN-Daily (all 7 Days)"
+
+msgid "6 Days (Mon-Sat)"
+msgstr "zh-CN-6 Days (Mon-Sat)"
+
+msgid "5 Days (Mon-Fri)"
+msgstr "zh-CN-5 Days (Mon-Fri)"
+
+msgid "Weekly"
+msgstr "zh-CN-Weekly"
+
+msgid "Monthly"
+msgstr "zh-CN-Monthly"
+
+msgid "Please enter duration between 30 to 300 minutes."
+msgstr "zh-CN-Please enter duration between 30 to 300 minutes."
+
+msgid "No users enrolled in this course"
+msgstr "zh-CN-No users enrolled in this course"
+
+msgid "User Name"
+msgstr "zh-CN-User Name"
+
+msgid "Add"
+msgstr "zh-CN-Add"
+
+msgid "Remove"
+msgstr "zh-CN-Remove"
+
+msgid "User Permissions"
+msgstr "zh-CN-User Permissions"
+
+msgid "Download Recording"
+msgstr "zh-CN-Download Recording"
+
+msgid "Minimun 30 min and maximum 300 min"
+msgstr "zh-CN-Minimun 30 min and maximum 300 min"
+
+msgid "Schdelude right now"
+msgstr "zh-CN-Schdelude right now"
+
+msgid "You can add upto 60 classes"
+msgstr "zh-CN-You can add upto 60 classes"
+
+msgid "Please Select Week Days"
+msgstr "zh-CN-Please Select Week Days"
+
+msgid "Please enter number"
+msgstr "zh-CN-Please enter number"
+
+msgid "You can add upto 1000 attendees in a course"
+msgstr "zh-CN-You can add upto 1000 attendees in a course"
+
+msgid "Please enter number of classes"
+msgstr "zh-CN-Please enter number of classes"
+
+msgid "Please enter end date"
+msgstr "zh-CN-Please Enter end date"
+
+msgid "Stzh-CNt date required"
+msgstr "zh-CN-Stzh-CNt date required"
+
+msgid "Class name required"
+msgstr "zh-CN-Class name required"
+
+msgid "Back To Classes"
+msgstr "zh-CN-Back To Classes"
+
+msgid "Class updated successfully"
+msgstr "zh-CN-Class updated successfully"
+
+msgid "Class Detail"
+msgstr "zh-CN-Class Detail"
+
+msgid "Class name"
+msgstr "zh-CN-Class name"
+
+msgid "Teacher"
+msgstr "zh-CN-Teacher"
+
+msgid "You"
+msgstr "zh-CN-You"
+
+msgid "Class status"
+msgstr "zh-CN-Class status"
+
+msgid "Timing of class"
+msgstr "zh-CN-Timing of class"
+
+msgid "Duration (in minutes)"
+msgstr "zh-CN-Duration (in minutes)"
+
+msgid "Language in Classroom"
+msgstr "zh-CN-Language in Classroom"
+
+msgid "Recording opted"
+msgstr "zh-CN-Recording opted"
+
+msgid "Launch Class"
+msgstr "zh-CN-Launch Class"
+
+msgid "Go Back"
+msgstr "zh-CN-Go Back"
+
+msgid "Recording not opted"
+msgstr "zh-CN-Recording not opted"
+
+msgid "View list Of attendees"
+msgstr "zh-CN-View list Of attendees"
+
+msgid "View recording"
+msgstr "zh-CN-View recording"
+
+msgid "Download"
+msgstr "zh-CN-Download"
+
+msgid "Attendee report"
+msgstr "zh-CN-Attendee report"
+
+msgid "Attendee Detail"
+msgstr "zh-CN-Attendee Detail"
+
+msgid "Attendee Name"
+msgstr "zh-CN-Attendee Name"
+
+msgid "Entry Time"
+msgstr "zh-CN-Entry Time"
+
+msgid "Exit Time"
+msgstr "zh-CN-Exit Time"
+
+msgid "Attended Time"
+msgstr "zh-CN-Attended Time"
+
+msgid "Close"
+msgstr "zh-CN-Close"
+
+msgid "Cancelled"
+msgstr "zh-CN-Cancelled"
+
+msgid "Upload content in folder"
+msgstr "zh-CN-Upload content in folder"
+
+msgid "Create Folder"
+msgstr "zh-CN-Create Folder"
+
+msgid "Upload File"
+msgstr "zh-CN-Upload File"
+
+msgid "Allowed file type"
+msgstr "zh-CN-Allowed file type"
+
+msgid "Folder(s)"
+msgstr "zh-CN-Folder(s)"
+
+msgid "File(s)"
+msgstr "zh-CN-File (s)"
+
+msgid "Folder created successfully"
+msgstr "zh-CN-Folder created successfully"
+
+msgid "Inprogress"
+msgstr "zh-CN-Inprogress"
+
+msgid "Schedule for right now"
+msgstr "zh-CN-Schedule for right now"
+
+msgid "There is an error while processing your request please contact to wiziq support"
+msgstr "zh-CN-There is an error while processing your request please contact to wiziq support"
+
+msgid "There is an  error while processing your request please contact to wiziq support or try later"
+msgstr "zh-CN-There is an  error while processing your request please contact to wiziq support or try later"
+
+msgid "Stzh-CNt_time pzh-CNameter cannot precede current datetime"
+msgstr "zh-CN-Stzh-CNt_time pzh-CNameter cannot precede current datetime"
+
+msgid "There is  1005 error while processing your request. Invalid stzh-CNt_time pzh-CNameter"
+msgstr "zh-CN-There is  1005 error while processing your request. Invalid stzh-CNt_time pzh-CNameter"
+
+msgid "There is  1017 error while processing your request. Cannot modify an expired class"
+msgstr "zh-CN-There is  1017 error while processing your request. Cannot modify an expired class"
+
+msgid "The file type is not allowed"
+msgstr "zh-CN-The file type is not allowed"
+
+msgid "There is  1000 error while processing your request"
+msgstr "zh-CN-There is  1000 error while processing your request"
+
+msgid "Class API URL"
+msgstr "zh-CN-Class API URL"
+
+msgid "Content API URL"
+msgstr "zh-CN-Content API URL"
+
+msgid "VC Language Interface"
+msgstr "zh-CN-VC Language Interface"
+
+msgid " Please Enter Access Key"
+msgstr "zh-CN-Please Enter Access Key"
+
+msgid "Please Enter Secret Key"
+msgstr "zh-CN-Please Enter Secret Key"
+
+msgid "Alias"
+msgstr "zh-CN-Alias"
+
+msgid "You can enter upto 1000 chzh-CNacters."
+msgstr "zh-CN-You can enter upto 1000 chzh-CNacters."
+
+msgid "End date can not be empty"
+msgstr "zh-CN-End date can not be empty"
+
+msgid "End date should be one day greater than stzh-CNt date"
+msgstr "zh-CN-End date should be one day greater than stzh-CNt dat"
+
+msgid "Stzh-CNt date can not be empty"
+msgstr "zh-CN-Stzh-CNt date can not be empty"
+
+msgid "Edit Course"
+msgstr "zh-CN-Edit Course"
+
+msgid "zh-CNe you sure, you want to delete!"
+msgstr "zh-CN-zh-CNe you sure, you want to delete!"
+
+msgid "Please select classes to delete"
+msgstr "zh-CN-Please select classes to delete"
+
+msgid "Schedule right now"
+msgstr "zh-CN-Schedule right now"
+
+msgid "Schedule and Continue"
+msgstr "zh-CN-Schedule and Continue"
+
+msgid "Class Time"
+msgstr "zh-CN-Class Time"
+
+msgid "Ends"
+msgstr "zh-CN-Ends"
+
+msgid "Week"
+msgstr "zh-CN-Week"
+
+msgid "Repeat every week"
+msgstr "zh-CN-Repeat every week"
+
+msgid "View Classes"
+msgstr "zh-CN-View Classesn"
+
+msgid "Courses List"
+msgstr "zh-CN-Courses List"
+
+msgid "Create Course"
+msgstr "zh-CN-Create Course"
+
+msgid "Delete this course"
+msgstr "zh-CN-Delete this course"
+
+msgid "Edit this course"
+msgstr "zh-CN-Edit this course"
+
+msgid "View complete schedule"
+msgstr "zh-CN-View Complete Schedule"
+
+msgid "Edit this class"
+msgstr "zh-CN-Edit this class"
+
+msgid "Delete this class"
+msgstr "zh-CN-Delete this classe"
+
+msgid "Description not added"
+msgstr "zh-CN-Description not added"
+
+msgid "Stzh-CNt date not mentioned"
+msgstr "zh-CN-Stzh-CNt date not mentioned"
+
+msgid "End date not mentioned"
+msgstr "zh-CN-End date not mentioned"
+
+msgid "No Classes available for this course"
+msgstr "zh-CN-No Classes available for this course"
+
+msgid "Course"
+msgstr "zh-CN-Course"
+
+msgid "Please delete inner classes first"
+msgstr "zh-CN-Please delete inner classes first"
+
+msgid "Recurring classes"
+msgstr "zh-CN-Recurring classes"
+
+msgid "Classes"
+msgstr "zh-CN-Classes"
+
+msgid "ERROR"
+msgstr "zh-CN-ERROR"
+
+msgid "No course available"
+msgstr "zh-CN-No course available"
+
+msgid "Please select courses to delete"
+msgstr "zh-CN-Please select courses to delete"
+
+msgid "Please select content to delete"
+msgstr "zh-CN-Please select content to delete"
+
+msgid "Settings Updated"
+msgstr "zh-CN-Settings Updated"
+
+msgid "Please enter correct access key & secret key"
+msgstr "zh-CN-Please enter correct access key & secret key"
+
+msgid "zh-CNe you sure, you want to delete"
+msgstr "zh-CN-zh-CNe you sure, you want to delete"
+
+msgid "Please delete inner content first"
+msgstr "zh-CN-Please delete inner content first"
+
+msgid "Content List"
+msgstr "zh-CN-Content List"
+
+msgid "Folder Name"
+msgstr "zh-CN-Folder Name"
+
+msgid "Manage Content"
+msgstr "zh-CN-Manage Content"
+
+msgid "Update"
+msgstr "zh-CN-update"
+
+msgid "Teacher Name"
+msgstr "zh-CN-Teacher Name"
+
+msgid "Teacher Email"
+msgstr "zh-CN-Teacher Email"
+
+msgid "Teacher Password"
+msgstr "zh-CN-Teacher Password"
+
+msgid "Can Schedule Class"
+msgstr "zh-CN-Can Schedule Class"
+
+msgid "Activate"
+msgstr "zh-CN-Activate"
+
+msgid "Manage Teacher"
+msgstr "zh-CN-Manage Teacher"
+
+msgid "WizIQ Teachers"
+msgstr "zh-CN-WizIQ Teachers"
+
+msgid "Add Teachers"
+msgstr "zh-CN-Add Teachers"
+
+msgid "Select user"
+msgstr "zh-CN-Select user"
+
+msgid "Password"
+msgstr "zh-CN-Password"
+
+msgid "Active"
+msgstr "zh-CN-Active"
+
+msgid "About the teacher"
+msgstr "zh-CN-About the teacher"
+
+msgid "Add Teacher"
+msgstr "zh-CN-Add Teacher"
+
+msgid "Edit this teacher"
+msgstr "zh-CN-Edit this teacher"
+
+msgid "Teacher updated succesffully"
+msgstr "zh-CN-Teacher updated succesffully"
+
+msgid "Teacher added succesffully"
+msgstr "zh-CN-Teacher added succesffully"
+
+msgid "Please enter password"
+msgstr "zh-CN-Please enter password"
+
+msgid "Password length between 6 - 15 chzh-CNacter"
+msgstr "zh-CN- Password length between 6 - 15 chzh-CNacter"
+
+msgid "Add Course"
+msgstr "zh-CN-Add Course"
+
+msgid "Language of instruction"
+msgstr "zh-CN-Language of instruction"
+
+msgid "Course name"
+msgstr "zh-CN-Course name"
+
+msgid "Stzh-CNt date"
+msgstr "zh-CN-Stzh-CNt Date"
+
+msgid "End date"
+msgstr "zh-CN-End Date"
+
+msgid "My content"
+msgstr "zh-CN-My content"
+
+msgid "Select date"
+msgstr "zh-CN-Select date"
+
+msgid "Class title can't be empty."
+msgstr "zh-CN-Class title can't be empty."
+
+msgid "Stzh-CNt date required."
+msgstr "zh-CN-Stzh-CNt date required."
+
+msgid "Select teacher"
+msgstr "zh-CN-Select teacher"
+
+msgid "Class duration (in minutes )"
+msgstr "zh-CN-Class duration (in minutes )"
+
+msgid "View Recording"
+msgstr "zh-CN-View Recording"
+
+msgid "Time Zone"
+msgstr "zh-CN-Time Zone"
+
+msgid "Select User"
+msgstr "zh-CN-Select User"
+
+msgid "Bulk Actions"
+msgstr "zh-CN-Bulk Actions"
+
+msgid "Add new class"
+msgstr "zh-CN-Add new class"
+
+msgid "Enroll user"
+msgstr "zh-CN-Enroll user"
+
+msgid "Time Zone API URL"
+msgstr "zh-CN-Time Zone API URL"
+
+msgid "Clezh-CN"
+msgstr "zh-CN-Clezh-CN"
+
+msgid "Manage Course"
+msgstr "zh-CN-Manage Course"
+
+msgid "Add New Class"
+msgstr "zh-CN-Add New Class"
+
+msgid "Class Title"
+msgstr "zh-CN-Class Title"
+
+msgid "Minimum 30 min and maximum 300 min"
+msgstr "zh-CN-Minimum 30 min and maximum 300 min"
+
+msgid "Minimum 30 min and maximum 300 min."
+msgstr "zh-CN-Minimum 30 min and maximum 300 min."
+
+msgid "in minutes"
+msgstr "zh-CN-in minutes"
+
+msgid "Class duration"
+msgstr "zh-CN-Class duration"
+
+msgid "Please select when this class repeats."
+msgstr "zh-CN-Please select when this class repeats."
+
+msgid "Please enter number of classes."
+msgstr "zh-CN-Please enter number of classes."
+
+msgid "Class schedule"
+msgstr "zh-CN-Class schedule"
+
+msgid "Duration"
+msgstr "zh-CN-Duration"
+
+msgid "Language in classroom"
+msgstr "zh-CN-Language in classroom"
+
+msgid "Content name"
+msgstr "zh-CN-Content name"
+
+msgid "Upload file"
+msgstr "zh-CN-Upload file"
+
+msgid "Folder name"
+msgstr "zh-CN-Folder name"
+
+msgid "Please select file to upload."
+msgstr "zh-CN-Please select file to upload."
+
+msgid "The request has been successfully completed."
+msgstr "zh-CN-The request has been successfully completed."
+
+msgid "Not Modified: Operation ok. There was no new data to return."
+msgstr "zh-CN-Not Modified: Operation ok. There was no new data to return."
+
+msgid "Bad Request: The request is invalid. Error messages zh-CNe returned for explanation purposes."
+msgstr "zh-CN-Bad Request: The request is invalid. Error messages zh-CNe returned for explanation purposes."
+
+msgid "Not Authorized: The credentials provided zh-CNe invalid or zh-CNe needed for the operation."
+msgstr "zh-CN-Not Authorized: The credentials provided zh-CNe invalid or zh-CNe needed for the operation."
+
+msgid "Forbidden: The request is refused by the API."
+msgstr "zh-CN-Forbidden: The request is refused by the API."
+
+msgid "Not Found: The resource requested doesn’t exist. Ex: The provided czh-CN_id in the url doesn’t exist."
+msgstr "zh-CN-Not Found: The resource requested doesn’t exist. Ex: The provided czh-CN_id in the url doesn’t exist."
+
+msgid "Internal Server Error: An unrecoverable error has occurred at server side."
+msgstr "zh-CN-Internal Server Error: An unrecoverable error has occurred at server side."
+
+msgid "Bad Gateway: The API service is down or being upgraded."
+msgstr "zh-CN-Bad Gateway: The API service is down or being upgraded."
+
+msgid "Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+msgstr "zh-CN-Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+
+msgid "There is some error while processing your request."
+msgstr "zh-CN-There is some error while processing your request."
+
+msgid "presenter_id pzh-CNameter is missing."
+msgstr "zh-CN-presenter_id pzh-CNameter is missing."
+
+msgid "presenter_name pzh-CNameter is missing."
+msgstr "zh-CN-presenter_name pzh-CNameter is missing."
+
+msgid "Specified time_zone pzh-CNameter is not available."
+msgstr "zh-CN-Specified time_zone pzh-CNameter is not available."
+
+msgid "stzh-CNt_time pzh-CNameter cannot precede current datetime."
+msgstr "zh-CN-stzh-CNt_time pzh-CNameter cannot precede current datetime."
+
+msgid "Invalid stzh-CNt_time pzh-CNameter."
+msgstr "zh-CN-Invalid stzh-CNt_time pzh-CNameter."
+
+msgid "time_zone pzh-CNameter is missing."
+msgstr "zh-CN-time_zone pzh-CNameter is missing."
+
+msgid "Attendees can be  added only in an upcoming class."
+msgstr "zh-CN-Attendees can be  added only in an upcoming class."
+
+msgid "This class has been cancelled."
+msgstr "zh-CN-This class has been cancelled."
+
+msgid "class_id is invalid."
+msgstr "zh-CN-class_id is invalid."
+
+msgid "duration pzh-CNameter cannot exceed  #MaxClassMinutes# minutes."
+msgstr "zh-CN-duration pzh-CNameter cannot exceed  #MaxClassMinutes# minutes."
+
+msgid "attendee_limit pzh-CNameter cannot exceed #MaxUserPerClass# attendees."
+msgstr "zh-CN-attendee_limit pzh-CNameter cannot exceed #MaxUserPerClass# attendees."
+
+msgid "Only #MaxConcurrentClass# simultaneous classes zh-CNe allowed."
+msgstr "zh-CN-Only #MaxConcurrentClass# simultaneous classes zh-CNe allowed."
+
+msgid "No record found."
+msgstr "zh-CN-No record found."
+
+msgid "title pzh-CNameter is missing."
+msgstr "zh-CN-title pzh-CNameter is missing."
+
+msgid "Cannot modify an in-progress class."
+msgstr "zh-CN-Cannot modify an in-progress class."
+
+msgid "Cannot modify a completed class."
+msgstr "zh-CN-Cannot modify a completed class."
+
+msgid "Cannot modify an expired class."
+msgstr "zh-CN-Cannot modify an expired class."
+
+msgid "Cannot modify a deleted class."
+msgstr "zh-CN-Cannot modify a deleted class."
+
+msgid "stzh-CNt_time pzh-CNameter is missing."
+msgstr "zh-CN-stzh-CNt_time pzh-CNameter is missing."
+
+msgid "class_id pzh-CNameter is missing."
+msgstr "zh-CN-class_id pzh-CNameter is missing."
+
+msgid "attendee_list pzh-CNameter is missing."
+msgstr "zh-CN-attendee_list pzh-CNameter is missing."
+
+msgid "Datetime is not in valid format."
+msgstr "zh-CN-Datetime is not in valid format."
+
+msgid "screen_name is missing."
+msgstr "zh-CN-screen_name is missing."
+
+msgid "Please enter folder name."
+msgstr "zh-CN-Please enter folder name."
+
+msgid "Can schedule class"
+msgstr "zh-CN-Can schedule class"
+
+msgid "Teacher name"
+msgstr "zh-CN-Teacher name"
+
+msgid "Edit Teacher"
+msgstr "zh-CN-Edit Teacher"
+
+msgid "Please enter end date."
+msgstr "zh-CN-Please enter end date."
+
+msgid "TEACHER"
+msgstr "zh-CN-TEACHER"
+
+msgid "Class deleted successfully"
+msgstr "zh-CN-Class deleted successfully"
+
+msgid "Please select user from right panel"
+msgstr "zh-CN-Please select user from right panel"
+
+msgid "No classes available for this course"
+msgstr "zh-CN-No classes available for this course"
+
+msgid "required"
+msgstr "zh-CN-required"
+
+msgid "Please select week days."
+msgstr "zh-CN-Please select week days."
+

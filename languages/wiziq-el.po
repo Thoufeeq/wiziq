@@ -1,0 +1,908 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: my-pluginname 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-06 13:46-0400\n"
+"PO-Revision-Date: 2014-07-31 15:29+0530\n"
+"Last-Translator: Harjodh <harjot@csgroupchd.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "API URL"
+msgstr "el-API URL"
+
+msgid "Recurring API URL"
+msgstr "el-Recurring API URL"
+
+msgid "Content URL"
+msgstr "el-Content URL"
+
+msgid "Access Key"
+msgstr "el-Access Key"
+
+msgid "Secret Key"
+msgstr "el-Secret Key"
+
+msgid "Content Language"
+msgstr "el-Content Language"
+
+msgid "Save Changes"
+msgstr "el-Save Changes"
+
+msgid "Course Name"
+msgstr "el-Course Name"
+
+msgid "Short Name"
+msgstr "el-Short Name"
+
+msgid "Start Date"
+msgstr "el-Start Date"
+
+msgid "End Date"
+msgstr "el-End Date"
+
+msgid "Description"
+msgstr "el-Description"
+
+msgid "Add New Course"
+msgstr "el-Add New Course"
+
+msgid "Save"
+msgstr "el-Save"
+
+msgid "WizIQ Courses"
+msgstr "el-WizIQ Courses"
+
+msgid "Please"
+msgstr "el-Please"
+
+msgid "Please enter course name."
+msgstr "el-Please enter course name."
+
+msgid "Please Enter Course Short Name"
+msgstr "el-Please Enter Course Short Name"
+
+msgid "Cancel"
+msgstr "el-Cancel"
+
+msgid "WizIQ Credentials"
+msgstr "el-WizIQ Credentials"
+
+msgid "Course created successfully"
+msgstr "el-Course created successfully"
+
+msgid "Courses deleted successfully"
+msgstr "el-Courses deleted successfully"
+
+msgid "Course deleted successfully"
+msgstr "el-Course deleted successfully"
+
+msgid "and courses"
+msgstr "el-and courses"
+
+msgid "Apply"
+msgstr "el-Apply"
+
+msgid "Delete"
+msgstr "el-Delete"
+
+msgid "Name"
+msgstr "el-Name"
+
+msgid "Manage Courses"
+msgstr "el-Manage Courses"
+
+msgid "Created By"
+msgstr "el-Created By"
+
+msgid "Number of Classes"
+msgstr "el-Number of Classes"
+
+msgid "View"
+msgstr "el-View"
+
+msgid "Completed"
+msgstr "el-Completed"
+
+msgid "Live Class"
+msgstr "el-Live Class"
+
+msgid "Expired"
+msgstr "el-Expired"
+
+msgid "View Recurring Classes"
+msgstr "el-View Recurring Classe"
+
+msgid "Refresh"
+msgstr "el-Refresh"
+
+msgid "Courses"
+msgstr "el-Courses"
+
+msgid "Content"
+msgstr "el-Content"
+
+msgid "Settings"
+msgstr "el-Settings"
+
+msgid "Edit"
+msgstr "el-Edit"
+
+msgid "Edit this item"
+msgstr "el-Edit this item"
+
+msgid "Move this item to the Trash"
+msgstr "el-Move this item to the Trash"
+
+msgid "Create Class"
+msgstr "el-Create Class"
+
+msgid "Enroll User"
+msgstr "el-Enroll User"
+
+msgid "WizIQ Content"
+msgstr "el-WizIQ Content"
+
+msgid "Upload Content"
+msgstr "el-Upload Content"
+
+msgid "My Content"
+msgstr "el-My Content"
+
+msgid "Content Name"
+msgstr "el-Content Name"
+
+msgid "Type"
+msgstr "el-Type"
+
+msgid "Inside"
+msgstr "el-Inside"
+
+msgid "Status"
+msgstr "el-Status"
+
+msgid "No content available"
+msgstr "el-No content available"
+
+msgid "Class title"
+msgstr "el-Class title"
+
+msgid "Class time"
+msgstr "el-Class time"
+
+msgid "Presenter"
+msgstr "el-Presenter"
+
+msgid "Attendance Report"
+msgstr "el-Attendance Report"
+
+msgid "Manage Class"
+msgstr "el-Manage Class"
+
+msgid "Upcoming"
+msgstr "el-Upcoming"
+
+msgid "WizIQ Classes"
+msgstr "el-WizIQ Classes"
+
+msgid "Add Class"
+msgstr "el-Add Class"
+
+msgid "Back To Courses"
+msgstr "el-Back To Courses"
+
+msgid "There are no user"
+msgstr "el-There are no user"
+
+msgid "Add New"
+msgstr "el-Add New"
+
+msgid "Enroll Users for Course"
+msgstr "el-Enroll Users for Course"
+
+msgid "General"
+msgstr "el-General"
+
+msgid "Class Duration (in minutes )"
+msgstr "el-Class Duration (in minutes )"
+
+msgid "Set Timing of the Class"
+msgstr "el-Set Timing of the Class"
+
+msgid "Choose Class Method"
+msgstr "Choose Class Method"
+
+msgid "Class Schedule"
+msgstr "el-Class Schedul"
+
+msgid "Select Date"
+msgstr "el-Select Date"
+
+msgid "Class Starting Time Date"
+msgstr "el-Class Starting Time Dat"
+
+msgid "Hours"
+msgstr "el-Hours"
+
+msgid "Minutes"
+msgstr "el-Minutes"
+
+msgid "Time zone"
+msgstr "el-Time zone"
+
+msgid "Repeat by"
+msgstr "el-Repeat by"
+
+msgid "Date"
+msgstr "el-Date"
+
+msgid "Day"
+msgstr "el-Day"
+
+msgid "of every month"
+msgstr "el-of every month"
+
+msgid "After classes"
+msgstr "el-After classes"
+
+msgid "On date"
+msgstr "el-On date"
+
+msgid "Setting of Wiziq Class"
+msgstr "el-Setting of Wiziq Class"
+
+msgid "Attendee limit in a class"
+msgstr "el-Attendee limit in a class"
+
+msgid "Record this class"
+msgstr "el-Record this class"
+
+msgid "Select a language"
+msgstr "el-Select a language"
+
+msgid "Yes"
+msgstr "el-Yes"
+
+msgid "No"
+msgstr "el-No"
+
+msgid "Want to schedule a single class"
+msgstr "el-Want to schedule a single class"
+
+msgid "Want to schedule a recurring class"
+msgstr "el-Want to schedule a recurring class"
+
+msgid "Select when class repeats"
+msgstr "el-Select when class repeats"
+
+msgid "Daily (all 7 Days)"
+msgstr "el-Daily (all 7 Days)"
+
+msgid "6 Days (Mon-Sat)"
+msgstr "el-6 Days (Mon-Sat)"
+
+msgid "5 Days (Mon-Fri)"
+msgstr "el-5 Days (Mon-Fri)"
+
+msgid "Weekly"
+msgstr "el-Weekly"
+
+msgid "Monthly"
+msgstr "el-Monthly"
+
+msgid "Please enter duration between 30 to 300 minutes."
+msgstr "el-Please enter duration between 30 to 300 minutes."
+
+msgid "No users enrolled in this course"
+msgstr "el-No users enrolled in this course"
+
+msgid "User Name"
+msgstr "el-User Name"
+
+msgid "Add"
+msgstr "el-Add"
+
+msgid "Remove"
+msgstr "el-Remove"
+
+msgid "User Permissions"
+msgstr "el-User Permissions"
+
+msgid "Download Recording"
+msgstr "el-Download Recording"
+
+msgid "Minimun 30 min and maximum 300 min"
+msgstr "el-Minimun 30 min and maximum 300 min"
+
+msgid "Schdelude right now"
+msgstr "el-Schdelude right now"
+
+msgid "You can add upto 60 classes"
+msgstr "el-You can add upto 60 classes"
+
+msgid "Please Select Week Days"
+msgstr "el-Please Select Week Days"
+
+msgid "Please enter number"
+msgstr "el-Please enter number"
+
+msgid "You can add upto 1000 attendees in a course"
+msgstr "el-You can add upto 1000 attendees in a course"
+
+msgid "Please enter number of classes"
+msgstr "el-Please enter number of classes"
+
+msgid "Please enter end date"
+msgstr "el-Please Enter end date"
+
+msgid "Start date required"
+msgstr "el-Start date required"
+
+msgid "Class name required"
+msgstr "el-Class name required"
+
+msgid "Back To Classes"
+msgstr "el-Back To Classes"
+
+msgid "Class updated successfully"
+msgstr "el-Class updated successfully"
+
+msgid "Class Detail"
+msgstr "el-Class Detail"
+
+msgid "Class name"
+msgstr "el-Class name"
+
+msgid "Teacher"
+msgstr "el-Teacher"
+
+msgid "You"
+msgstr "el-You"
+
+msgid "Class status"
+msgstr "el-Class status"
+
+msgid "Timing of class"
+msgstr "el-Timing of class"
+
+msgid "Duration (in minutes)"
+msgstr "el-Duration (in minutes)"
+
+msgid "Language in Classroom"
+msgstr "el-Language in Classroom"
+
+msgid "Recording opted"
+msgstr "el-Recording opted"
+
+msgid "Launch Class"
+msgstr "el-Launch Class"
+
+msgid "Go Back"
+msgstr "el-Go Back"
+
+msgid "Recording not opted"
+msgstr "el-Recording not opted"
+
+msgid "View list Of attendees"
+msgstr "el-View list Of attendees"
+
+msgid "View recording"
+msgstr "el-View recording"
+
+msgid "Download"
+msgstr "el-Download"
+
+msgid "Attendee report"
+msgstr "el-Attendee report"
+
+msgid "Attendee Detail"
+msgstr "el-Attendee Detail"
+
+msgid "Attendee Name"
+msgstr "el-Attendee Name"
+
+msgid "Entry Time"
+msgstr "el-Entry Time"
+
+msgid "Exit Time"
+msgstr "el-Exit Time"
+
+msgid "Attended Time"
+msgstr "el-Attended Time"
+
+msgid "Close"
+msgstr "el-Close"
+
+msgid "Cancelled"
+msgstr "el-Cancelled"
+
+msgid "Upload content in folder"
+msgstr "el-Upload content in folder"
+
+msgid "Create Folder"
+msgstr "el-Create Folder"
+
+msgid "Upload File"
+msgstr "el-Upload File"
+
+msgid "Allowed file type"
+msgstr "el-Allowed file type"
+
+msgid "Folder(s)"
+msgstr "el-Folder(s)"
+
+msgid "File(s)"
+msgstr "el-File (s)"
+
+msgid "Folder created successfully"
+msgstr "el-Folder created successfully"
+
+msgid "Inprogress"
+msgstr "el-Inprogress"
+
+msgid "Schedule for right now"
+msgstr "el-Schedule for right now"
+
+msgid "There is an error while processing your request please contact to wiziq support"
+msgstr "el-There is an error while processing your request please contact to wiziq support"
+
+msgid "There is an  error while processing your request please contact to wiziq support or try later"
+msgstr "el-There is an  error while processing your request please contact to wiziq support or try later"
+
+msgid "Start_time parameter cannot precede current datetime"
+msgstr "el-Start_time parameter cannot precede current datetime"
+
+msgid "There is  1005 error while processing your request. Invalid start_time parameter"
+msgstr "el-There is  1005 error while processing your request. Invalid start_time parameter"
+
+msgid "There is  1017 error while processing your request. Cannot modify an expired class"
+msgstr "el-There is  1017 error while processing your request. Cannot modify an expired class"
+
+msgid "The file type is not allowed"
+msgstr "el-The file type is not allowed"
+
+msgid "There is  1000 error while processing your request"
+msgstr "el-There is  1000 error while processing your request"
+
+msgid "Class API URL"
+msgstr "el-Class API URL"
+
+msgid "Content API URL"
+msgstr "el-Content API URL"
+
+msgid "VC Language Interface"
+msgstr "el-VC Language Interface"
+
+msgid " Please Enter Access Key"
+msgstr "el-Please Enter Access Key"
+
+msgid "Please Enter Secret Key"
+msgstr "el-Please Enter Secret Key"
+
+msgid "Alias"
+msgstr "el-Alias"
+
+msgid "You can enter upto 1000 characters."
+msgstr "el-You can enter upto 1000 characters."
+
+msgid "End date can not be empty"
+msgstr "el-End date can not be empty"
+
+msgid "End date should be one day greater than start date"
+msgstr "el-End date should be one day greater than start dat"
+
+msgid "Start date can not be empty"
+msgstr "el-Start date can not be empty"
+
+msgid "Edit Course"
+msgstr "el-Edit Course"
+
+msgid "Are you sure, you want to delete!"
+msgstr "el-Are you sure, you want to delete!"
+
+msgid "Please select classes to delete"
+msgstr "el-Please select classes to delete"
+
+msgid "Schedule right now"
+msgstr "el-Schedule right now"
+
+msgid "Schedule and Continue"
+msgstr "el-Schedule and Continue"
+
+msgid "Class Time"
+msgstr "el-Class Time"
+
+msgid "Ends"
+msgstr "el-Ends"
+
+msgid "Week"
+msgstr "el-Week"
+
+msgid "Repeat every week"
+msgstr "el-Repeat every week"
+
+msgid "View Classes"
+msgstr "el-View Classesn"
+
+msgid "Courses List"
+msgstr "el-Courses List"
+
+msgid "Create Course"
+msgstr "el-Create Course"
+
+msgid "Delete this course"
+msgstr "el-Delete this course"
+
+msgid "Edit this course"
+msgstr "el-Edit this course"
+
+msgid "View complete schedule"
+msgstr "el-View Complete Schedule"
+
+msgid "Edit this class"
+msgstr "el-Edit this class"
+
+msgid "Delete this class"
+msgstr "el-Delete this classe"
+
+msgid "Description not added"
+msgstr "el-Description not added"
+
+msgid "Start date not mentioned"
+msgstr "el-Start date not mentioned"
+
+msgid "End date not mentioned"
+msgstr "el-End date not mentioned"
+
+msgid "No Classes available for this course"
+msgstr "el-No Classes available for this course"
+
+msgid "Course"
+msgstr "el-Course"
+
+msgid "Please delete inner classes first"
+msgstr "el-Please delete inner classes first"
+
+msgid "Recurring classes"
+msgstr "el-Recurring classes"
+
+msgid "Classes"
+msgstr "el-Classes"
+
+msgid "ERROR"
+msgstr "el-ERROR"
+
+msgid "No course available"
+msgstr "el-No course available"
+
+msgid "Please select courses to delete"
+msgstr "el-Please select courses to delete"
+
+msgid "Please select content to delete"
+msgstr "el-Please select content to delete"
+
+msgid "Settings Updated"
+msgstr "el-Settings Updated"
+
+msgid "Please enter correct access key & secret key"
+msgstr "el-Please enter correct access key & secret key"
+
+msgid "Are you sure, you want to delete"
+msgstr "el-Are you sure, you want to delete"
+
+msgid "Please delete inner content first"
+msgstr "el-Please delete inner content first"
+
+msgid "Content List"
+msgstr "el-Content List"
+
+msgid "Folder Name"
+msgstr "el-Folder Name"
+
+msgid "Manage Content"
+msgstr "el-Manage Content"
+
+msgid "Update"
+msgstr "el-update"
+
+msgid "Teacher Name"
+msgstr "el-Teacher Name"
+
+msgid "Teacher Email"
+msgstr "el-Teacher Email"
+
+msgid "Teacher Password"
+msgstr "el-Teacher Password"
+
+msgid "Can Schedule Class"
+msgstr "el-Can Schedule Class"
+
+msgid "Activate"
+msgstr "el-Activate"
+
+msgid "Manage Teacher"
+msgstr "el-Manage Teacher"
+
+msgid "WizIQ Teachers"
+msgstr "el-WizIQ Teachers"
+
+msgid "Add Teachers"
+msgstr "el-Add Teachers"
+
+msgid "Select user"
+msgstr "el-Select user"
+
+msgid "Password"
+msgstr "el-Password"
+
+msgid "Active"
+msgstr "el-Active"
+
+msgid "About the teacher"
+msgstr "el-About the teacher"
+
+msgid "Add Teacher"
+msgstr "el-Add Teacher"
+
+msgid "Edit this teacher"
+msgstr "el-Edit this teacher"
+
+msgid "Teacher updated succesffully"
+msgstr "el-Teacher updated succesffully"
+
+msgid "Teacher added succesffully"
+msgstr "el-Teacher added succesffully"
+
+msgid "Please enter password"
+msgstr "el-Please enter password"
+
+msgid "Password length between 6 - 15 character"
+msgstr "el- Password length between 6 - 15 character"
+
+msgid "Add Course"
+msgstr "el-Add Course"
+
+msgid "Language of instruction"
+msgstr "el-Language of instruction"
+
+msgid "Course name"
+msgstr "el-Course name"
+
+msgid "Start date"
+msgstr "el-Start Date"
+
+msgid "End date"
+msgstr "el-End Date"
+
+msgid "My content"
+msgstr "el-My content"
+
+msgid "Select date"
+msgstr "el-Select date"
+
+msgid "Class title can't be empty."
+msgstr "el-Class title can't be empty."
+
+msgid "Start date required."
+msgstr "el-Start date required."
+
+msgid "Select teacher"
+msgstr "el-Select teacher"
+
+msgid "Class duration (in minutes )"
+msgstr "el-Class duration (in minutes )"
+
+msgid "View Recording"
+msgstr "el-View Recording"
+
+msgid "Time Zone"
+msgstr "el-Time Zone"
+
+msgid "Select User"
+msgstr "el-Select User"
+
+msgid "Bulk Actions"
+msgstr "el-Bulk Actions"
+
+msgid "Add new class"
+msgstr "el-Add new class"
+
+msgid "Enroll user"
+msgstr "el-Enroll user"
+
+msgid "Time Zone API URL"
+msgstr "el-Time Zone API URL"
+
+msgid "Clear"
+msgstr "el-Clear"
+
+msgid "Manage Course"
+msgstr "el-Manage Course"
+
+msgid "Add New Class"
+msgstr "el-Add New Class"
+
+msgid "Class Title"
+msgstr "el-Class Title"
+
+msgid "Minimum 30 min and maximum 300 min"
+msgstr "el-Minimum 30 min and maximum 300 min"
+
+msgid "Minimum 30 min and maximum 300 min."
+msgstr "el-Minimum 30 min and maximum 300 min."
+
+msgid "in minutes"
+msgstr "el-in minutes"
+
+msgid "Class duration"
+msgstr "el-Class duration"
+
+msgid "Please select when this class repeats."
+msgstr "el-Please select when this class repeats."
+
+msgid "Please enter number of classes."
+msgstr "el-Please enter number of classes."
+
+msgid "Class schedule"
+msgstr "el-Class schedule"
+
+msgid "Duration"
+msgstr "el-Duration"
+
+msgid "Language in classroom"
+msgstr "el-Language in classroom"
+
+msgid "Content name"
+msgstr "el-Content name"
+
+msgid "Upload file"
+msgstr "el-Upload file"
+
+msgid "Folder name"
+msgstr "el-Folder name"
+
+msgid "Please select file to upload."
+msgstr "el-Please select file to upload."
+
+msgid "The request has been successfully completed."
+msgstr "el-The request has been successfully completed."
+
+msgid "Not Modified: Operation ok. There was no new data to return."
+msgstr "el-Not Modified: Operation ok. There was no new data to return."
+
+msgid "Bad Request: The request is invalid. Error messages are returned for explanation purposes."
+msgstr "el-Bad Request: The request is invalid. Error messages are returned for explanation purposes."
+
+msgid "Not Authorized: The credentials provided are invalid or are needed for the operation."
+msgstr "el-Not Authorized: The credentials provided are invalid or are needed for the operation."
+
+msgid "Forbidden: The request is refused by the API."
+msgstr "el-Forbidden: The request is refused by the API."
+
+msgid "Not Found: The resource requested doesn’t exist. Ex: The provided car_id in the url doesn’t exist."
+msgstr "el-Not Found: The resource requested doesn’t exist. Ex: The provided car_id in the url doesn’t exist."
+
+msgid "Internal Server Error: An unrecoverable error has occurred at server side."
+msgstr "el-Internal Server Error: An unrecoverable error has occurred at server side."
+
+msgid "Bad Gateway: The API service is down or being upgraded."
+msgstr "el-Bad Gateway: The API service is down or being upgraded."
+
+msgid "Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+msgstr "el-Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+
+msgid "There is some error while processing your request."
+msgstr "el-There is some error while processing your request."
+
+msgid "presenter_id parameter is missing."
+msgstr "el-presenter_id parameter is missing."
+
+msgid "presenter_name parameter is missing."
+msgstr "el-presenter_name parameter is missing."
+
+msgid "Specified time_zone parameter is not available."
+msgstr "el-Specified time_zone parameter is not available."
+
+msgid "start_time parameter cannot precede current datetime."
+msgstr "el-start_time parameter cannot precede current datetime."
+
+msgid "Invalid start_time parameter."
+msgstr "el-Invalid start_time parameter."
+
+msgid "time_zone parameter is missing."
+msgstr "el-time_zone parameter is missing."
+
+msgid "Attendees can be  added only in an upcoming class."
+msgstr "el-Attendees can be  added only in an upcoming class."
+
+msgid "This class has been cancelled."
+msgstr "el-This class has been cancelled."
+
+msgid "class_id is invalid."
+msgstr "el-class_id is invalid."
+
+msgid "duration parameter cannot exceed  #MaxClassMinutes# minutes."
+msgstr "el-duration parameter cannot exceed  #MaxClassMinutes# minutes."
+
+msgid "attendee_limit parameter cannot exceed #MaxUserPerClass# attendees."
+msgstr "el-attendee_limit parameter cannot exceed #MaxUserPerClass# attendees."
+
+msgid "Only #MaxConcurrentClass# simultaneous classes are allowed."
+msgstr "el-Only #MaxConcurrentClass# simultaneous classes are allowed."
+
+msgid "No record found."
+msgstr "el-No record found."
+
+msgid "title parameter is missing."
+msgstr "el-title parameter is missing."
+
+msgid "Cannot modify an in-progress class."
+msgstr "el-Cannot modify an in-progress class."
+
+msgid "Cannot modify a completed class."
+msgstr "el-Cannot modify a completed class."
+
+msgid "Cannot modify an expired class."
+msgstr "el-Cannot modify an expired class."
+
+msgid "Cannot modify a deleted class."
+msgstr "el-Cannot modify a deleted class."
+
+msgid "start_time parameter is missing."
+msgstr "el-start_time parameter is missing."
+
+msgid "class_id parameter is missing."
+msgstr "el-class_id parameter is missing."
+
+msgid "attendee_list parameter is missing."
+msgstr "el-attendee_list parameter is missing."
+
+msgid "Datetime is not in valid format."
+msgstr "el-Datetime is not in valid format."
+
+msgid "screen_name is missing."
+msgstr "el-screen_name is missing."
+
+msgid "Please enter folder name."
+msgstr "el-Please enter folder name."
+
+msgid "Can schedule class"
+msgstr "el-Can schedule class"
+
+msgid "Teacher name"
+msgstr "el-Teacher name"
+
+msgid "Edit Teacher"
+msgstr "el-Edit Teacher"
+
+msgid "Please enter end date."
+msgstr "el-Please enter end date."
+
+msgid "TEACHER"
+msgstr "el-TEACHER"
+
+msgid "Class deleted successfully"
+msgstr "el-Class deleted successfully"
+
+msgid "Please select user from right panel"
+msgstr "el-Please select user from right panel"
+
+msgid "No classes available for this course"
+msgstr "el-No classes available for this course"
+
+msgid "required"
+msgstr "el-required"
+
+msgid "Please select week days."
+msgstr "el-Please select week days."
+

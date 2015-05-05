@@ -1,0 +1,32 @@
+/**********WizIQ Admin dashboard CSS **************/
+
+.regular-text.wiziq-text-disable {background: none repeat scroll 0 0 #D3D3D3;border-color: #9E9E9E; }
+.wiziq_error { color: #DD3D36; font-size: 13px;  padding: 2px;}
+.wiziq_required { color: #DD3D36; font-size: 13px;  padding: 2px;}
+.wiziq_hide { display:none; }
+.wiziq_show{ display:inline-block;}
+.wiziq_display { display: block; }
+.pagination > a {padding: 3px 5px; }
+.delete-image { vertical-align: middle; margin-left:4px; }
+.clearfix { clear: both; }
+.ui-tooltip { padding: 10px 20px; font: 12px; }
+#wiziq_class_weekly li { float: left; padding:3px; }
+.wiziq_weekly_class .weekly_class {   display: block; }
+.classes-images { vertical-align: middle;  width: 20px;}
+.sorting-up:before { background: none repeat scroll 0 0 rgba(0, 0, 0, 0); color: #444444; content: "";  display: inline-block;  font: 400 20px/10px dashicons;  padding: 0;  position: relative; text-decoration: none !important; vertical-align: top; top:4px; }
+.sorting-down:before { background: none repeat scroll 0 0 rgba(0, 0, 0, 0); color: #444444; content: "";  display: inline-block; font: 400 20px/10px dashicons; padding: 0;  position: relative; text-decoration: none !important; vertical-align: top; top:4px; }
+#add_class_form #class_attendee_limit { width: 25%; }
+#add_class_form #class_start_date { background-color: #FFFFFF; }
+#add_class_form #wiziq_class_end_date { background-color: #FFFFFF; }
+#add_course_form #course_start_date { background-color: #FFFFFF; }
+#add_course_form #course_end_date { background-color: #FFFFFF; }
+.wiziq_end_class .wiziq_class_end_class { width: 25%; }
+.button.button-primary.wiziq-button { margin: 5px; }
+.wiziq_scheuling { display: inline; padding-left: 10px; vertical-align: bottom; }
+table tr .wiziq-content-upload {  width: 50%; }
+.supported-img { width: 96%; }
+.wrap .add-content-form { min-height: 600px; }
+#enroll_users table tr td select { width: 100%; }
+.create_class.permission_disable { cursor: auto; }
+.upload_content permission_disable { cursor: auto; }
+.wiziq_description{ font-size: 13px;font-style: italic; }

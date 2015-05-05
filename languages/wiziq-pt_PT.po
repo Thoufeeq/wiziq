@@ -1,0 +1,908 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: my-pluginname 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-06 13:46-0400\n"
+"PO-Revision-Date: 2014-07-31 16:25+0530\n"
+"Last-Translator: Harjodh <harjot@csgroupchd.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "API URL"
+msgstr "pt_PT-API URL"
+
+msgid "Recurring API URL"
+msgstr "pt_PT-Recurring API URL"
+
+msgid "Content URL"
+msgstr "pt_PT-Content URL"
+
+msgid "Access Key"
+msgstr "pt_PT-Access Key"
+
+msgid "Secret Key"
+msgstr "pt_PT-Secret Key"
+
+msgid "Content Language"
+msgstr "pt_PT-Content Language"
+
+msgid "Save Changes"
+msgstr "pt_PT-Save Changes"
+
+msgid "Course Name"
+msgstr "pt_PT-Course Name"
+
+msgid "Short Name"
+msgstr "pt_PT-Short Name"
+
+msgid "Start Date"
+msgstr "pt_PT-Start Date"
+
+msgid "End Date"
+msgstr "pt_PT-End Date"
+
+msgid "Description"
+msgstr "pt_PT-Description"
+
+msgid "Add New Course"
+msgstr "pt_PT-Add New Course"
+
+msgid "Save"
+msgstr "pt_PT-Save"
+
+msgid "WizIQ Courses"
+msgstr "pt_PT-WizIQ Courses"
+
+msgid "Please"
+msgstr "pt_PT-Please"
+
+msgid "Please enter course name."
+msgstr "pt_PT-Please enter course name."
+
+msgid "Please Enter Course Short Name"
+msgstr "pt_PT-Please Enter Course Short Name"
+
+msgid "Cancel"
+msgstr "pt_PT-Cancel"
+
+msgid "WizIQ Credentials"
+msgstr "pt_PT-WizIQ Credentials"
+
+msgid "Course created successfully"
+msgstr "pt_PT-Course created successfully"
+
+msgid "Courses deleted successfully"
+msgstr "pt_PT-Courses deleted successfully"
+
+msgid "Course deleted successfully"
+msgstr "pt_PT-Course deleted successfully"
+
+msgid "and courses"
+msgstr "pt_PT-and courses"
+
+msgid "Apply"
+msgstr "pt_PT-Apply"
+
+msgid "Delete"
+msgstr "pt_PT-Delete"
+
+msgid "Name"
+msgstr "pt_PT-Name"
+
+msgid "Manage Courses"
+msgstr "pt_PT-Manage Courses"
+
+msgid "Created By"
+msgstr "pt_PT-Created By"
+
+msgid "Number of Classes"
+msgstr "pt_PT-Number of Classes"
+
+msgid "View"
+msgstr "pt_PT-View"
+
+msgid "Completed"
+msgstr "pt_PT-Completed"
+
+msgid "Live Class"
+msgstr "pt_PT-Live Class"
+
+msgid "Expired"
+msgstr "pt_PT-Expired"
+
+msgid "View Recurring Classes"
+msgstr "pt_PT-View Recurring Classe"
+
+msgid "Refresh"
+msgstr "pt_PT-Refresh"
+
+msgid "Courses"
+msgstr "pt_PT-Courses"
+
+msgid "Content"
+msgstr "pt_PT-Content"
+
+msgid "Settings"
+msgstr "pt_PT-Settings"
+
+msgid "Edit"
+msgstr "pt_PT-Edit"
+
+msgid "Edit this item"
+msgstr "pt_PT-Edit this item"
+
+msgid "Move this item to the Trash"
+msgstr "pt_PT-Move this item to the Trash"
+
+msgid "Create Class"
+msgstr "pt_PT-Create Class"
+
+msgid "Enroll User"
+msgstr "pt_PT-Enroll User"
+
+msgid "WizIQ Content"
+msgstr "pt_PT-WizIQ Content"
+
+msgid "Upload Content"
+msgstr "pt_PT-Upload Content"
+
+msgid "My Content"
+msgstr "pt_PT-My Content"
+
+msgid "Content Name"
+msgstr "pt_PT-Content Name"
+
+msgid "Type"
+msgstr "pt_PT-Type"
+
+msgid "Inside"
+msgstr "pt_PT-Inside"
+
+msgid "Status"
+msgstr "pt_PT-Status"
+
+msgid "No content available"
+msgstr "pt_PT-No content available"
+
+msgid "Class title"
+msgstr "pt_PT-Class title"
+
+msgid "Class time"
+msgstr "pt_PT-Class time"
+
+msgid "Presenter"
+msgstr "pt_PT-Presenter"
+
+msgid "Attendance Report"
+msgstr "pt_PT-Attendance Report"
+
+msgid "Manage Class"
+msgstr "pt_PT-Manage Class"
+
+msgid "Upcoming"
+msgstr "pt_PT-Upcoming"
+
+msgid "WizIQ Classes"
+msgstr "pt_PT-WizIQ Classes"
+
+msgid "Add Class"
+msgstr "pt_PT-Add Class"
+
+msgid "Back To Courses"
+msgstr "pt_PT-Back To Courses"
+
+msgid "There are no user"
+msgstr "pt_PT-There are no user"
+
+msgid "Add New"
+msgstr "pt_PT-Add New"
+
+msgid "Enroll Users for Course"
+msgstr "pt_PT-Enroll Users for Course"
+
+msgid "General"
+msgstr "pt_PT-General"
+
+msgid "Class Duration (in minutes )"
+msgstr "pt_PT-Class Duration (in minutes )"
+
+msgid "Set Timing of the Class"
+msgstr "pt_PT-Set Timing of the Class"
+
+msgid "Choose Class Method"
+msgstr "Choose Class Method"
+
+msgid "Class Schedule"
+msgstr "pt_PT-Class Schedul"
+
+msgid "Select Date"
+msgstr "pt_PT-Select Date"
+
+msgid "Class Starting Time Date"
+msgstr "pt_PT-Class Starting Time Dat"
+
+msgid "Hours"
+msgstr "pt_PT-Hours"
+
+msgid "Minutes"
+msgstr "pt_PT-Minutes"
+
+msgid "Time zone"
+msgstr "pt_PT-Time zone"
+
+msgid "Repeat by"
+msgstr "pt_PT-Repeat by"
+
+msgid "Date"
+msgstr "pt_PT-Date"
+
+msgid "Day"
+msgstr "pt_PT-Day"
+
+msgid "of every month"
+msgstr "pt_PT-of every month"
+
+msgid "After classes"
+msgstr "pt_PT-After classes"
+
+msgid "On date"
+msgstr "pt_PT-On date"
+
+msgid "Setting of Wiziq Class"
+msgstr "pt_PT-Setting of Wiziq Class"
+
+msgid "Attendee limit in a class"
+msgstr "pt_PT-Attendee limit in a class"
+
+msgid "Record this class"
+msgstr "pt_PT-Record this class"
+
+msgid "Select a language"
+msgstr "pt_PT-Select a language"
+
+msgid "Yes"
+msgstr "pt_PT-Yes"
+
+msgid "No"
+msgstr "pt_PT-No"
+
+msgid "Want to schedule a single class"
+msgstr "pt_PT-Want to schedule a single class"
+
+msgid "Want to schedule a recurring class"
+msgstr "pt_PT-Want to schedule a recurring class"
+
+msgid "Select when class repeats"
+msgstr "pt_PT-Select when class repeats"
+
+msgid "Daily (all 7 Days)"
+msgstr "pt_PT-Daily (all 7 Days)"
+
+msgid "6 Days (Mon-Sat)"
+msgstr "pt_PT-6 Days (Mon-Sat)"
+
+msgid "5 Days (Mon-Fri)"
+msgstr "pt_PT-5 Days (Mon-Fri)"
+
+msgid "Weekly"
+msgstr "pt_PT-Weekly"
+
+msgid "Monthly"
+msgstr "pt_PT-Monthly"
+
+msgid "Please enter duration between 30 to 300 minutes."
+msgstr "pt_PT-Please enter duration between 30 to 300 minutes."
+
+msgid "No users enrolled in this course"
+msgstr "pt_PT-No users enrolled in this course"
+
+msgid "User Name"
+msgstr "pt_PT-User Name"
+
+msgid "Add"
+msgstr "pt_PT-Add"
+
+msgid "Remove"
+msgstr "pt_PT-Remove"
+
+msgid "User Permissions"
+msgstr "pt_PT-User Permissions"
+
+msgid "Download Recording"
+msgstr "pt_PT-Download Recording"
+
+msgid "Minimun 30 min and maximum 300 min"
+msgstr "pt_PT-Minimun 30 min and maximum 300 min"
+
+msgid "Schdelude right now"
+msgstr "pt_PT-Schdelude right now"
+
+msgid "You can add upto 60 classes"
+msgstr "pt_PT-You can add upto 60 classes"
+
+msgid "Please Select Week Days"
+msgstr "pt_PT-Please Select Week Days"
+
+msgid "Please enter number"
+msgstr "pt_PT-Please enter number"
+
+msgid "You can add upto 1000 attendees in a course"
+msgstr "pt_PT-You can add upto 1000 attendees in a course"
+
+msgid "Please enter number of classes"
+msgstr "pt_PT-Please enter number of classes"
+
+msgid "Please enter end date"
+msgstr "pt_PT-Please Enter end date"
+
+msgid "Start date required"
+msgstr "pt_PT-Start date required"
+
+msgid "Class name required"
+msgstr "pt_PT-Class name required"
+
+msgid "Back To Classes"
+msgstr "pt_PT-Back To Classes"
+
+msgid "Class updated successfully"
+msgstr "pt_PT-Class updated successfully"
+
+msgid "Class Detail"
+msgstr "pt_PT-Class Detail"
+
+msgid "Class name"
+msgstr "pt_PT-Class name"
+
+msgid "Teacher"
+msgstr "pt_PT-Teacher"
+
+msgid "You"
+msgstr "pt_PT-You"
+
+msgid "Class status"
+msgstr "pt_PT-Class status"
+
+msgid "Timing of class"
+msgstr "pt_PT-Timing of class"
+
+msgid "Duration (in minutes)"
+msgstr "pt_PT-Duration (in minutes)"
+
+msgid "Language in Classroom"
+msgstr "pt_PT-Language in Classroom"
+
+msgid "Recording opted"
+msgstr "pt_PT-Recording opted"
+
+msgid "Launch Class"
+msgstr "pt_PT-Launch Class"
+
+msgid "Go Back"
+msgstr "pt_PT-Go Back"
+
+msgid "Recording not opted"
+msgstr "pt_PT-Recording not opted"
+
+msgid "View list Of attendees"
+msgstr "pt_PT-View list Of attendees"
+
+msgid "View recording"
+msgstr "pt_PT-View recording"
+
+msgid "Download"
+msgstr "pt_PT-Download"
+
+msgid "Attendee report"
+msgstr "pt_PT-Attendee report"
+
+msgid "Attendee Detail"
+msgstr "pt_PT-Attendee Detail"
+
+msgid "Attendee Name"
+msgstr "pt_PT-Attendee Name"
+
+msgid "Entry Time"
+msgstr "pt_PT-Entry Time"
+
+msgid "Exit Time"
+msgstr "pt_PT-Exit Time"
+
+msgid "Attended Time"
+msgstr "pt_PT-Attended Time"
+
+msgid "Close"
+msgstr "pt_PT-Close"
+
+msgid "Cancelled"
+msgstr "pt_PT-Cancelled"
+
+msgid "Upload content in folder"
+msgstr "pt_PT-Upload content in folder"
+
+msgid "Create Folder"
+msgstr "pt_PT-Create Folder"
+
+msgid "Upload File"
+msgstr "pt_PT-Upload File"
+
+msgid "Allowed file type"
+msgstr "pt_PT-Allowed file type"
+
+msgid "Folder(s)"
+msgstr "pt_PT-Folder(s)"
+
+msgid "File(s)"
+msgstr "pt_PT-File (s)"
+
+msgid "Folder created successfully"
+msgstr "pt_PT-Folder created successfully"
+
+msgid "Inprogress"
+msgstr "pt_PT-Inprogress"
+
+msgid "Schedule for right now"
+msgstr "pt_PT-Schedule for right now"
+
+msgid "There is an error while processing your request please contact to wiziq support"
+msgstr "pt_PT-There is an error while processing your request please contact to wiziq support"
+
+msgid "There is an  error while processing your request please contact to wiziq support or try later"
+msgstr "pt_PT-There is an  error while processing your request please contact to wiziq support or try later"
+
+msgid "Start_time parameter cannot precede current datetime"
+msgstr "pt_PT-Start_time parameter cannot precede current datetime"
+
+msgid "There is  1005 error while processing your request. Invalid start_time parameter"
+msgstr "pt_PT-There is  1005 error while processing your request. Invalid start_time parameter"
+
+msgid "There is  1017 error while processing your request. Cannot modify an expired class"
+msgstr "pt_PT-There is  1017 error while processing your request. Cannot modify an expired class"
+
+msgid "The file type is not allowed"
+msgstr "pt_PT-The file type is not allowed"
+
+msgid "There is  1000 error while processing your request"
+msgstr "pt_PT-There is  1000 error while processing your request"
+
+msgid "Class API URL"
+msgstr "pt_PT-Class API URL"
+
+msgid "Content API URL"
+msgstr "pt_PT-Content API URL"
+
+msgid "VC Language Interface"
+msgstr "pt_PT-VC Language Interface"
+
+msgid " Please Enter Access Key"
+msgstr "pt_PT-Please Enter Access Key"
+
+msgid "Please Enter Secret Key"
+msgstr "pt_PT-Please Enter Secret Key"
+
+msgid "Alias"
+msgstr "pt_PT-Alias"
+
+msgid "You can enter upto 1000 characters."
+msgstr "pt_PT-You can enter upto 1000 characters."
+
+msgid "End date can not be empty"
+msgstr "pt_PT-End date can not be empty"
+
+msgid "End date should be one day greater than start date"
+msgstr "pt_PT-End date should be one day greater than start dat"
+
+msgid "Start date can not be empty"
+msgstr "pt_PT-Start date can not be empty"
+
+msgid "Edit Course"
+msgstr "pt_PT-Edit Course"
+
+msgid "Are you sure, you want to delete!"
+msgstr "pt_PT-Are you sure, you want to delete!"
+
+msgid "Please select classes to delete"
+msgstr "pt_PT-Please select classes to delete"
+
+msgid "Schedule right now"
+msgstr "pt_PT-Schedule right now"
+
+msgid "Schedule and Continue"
+msgstr "pt_PT-Schedule and Continue"
+
+msgid "Class Time"
+msgstr "pt_PT-Class Time"
+
+msgid "Ends"
+msgstr "pt_PT-Ends"
+
+msgid "Week"
+msgstr "pt_PT-Week"
+
+msgid "Repeat every week"
+msgstr "pt_PT-Repeat every week"
+
+msgid "View Classes"
+msgstr "pt_PT-View Classesn"
+
+msgid "Courses List"
+msgstr "pt_PT-Courses List"
+
+msgid "Create Course"
+msgstr "pt_PT-Create Course"
+
+msgid "Delete this course"
+msgstr "pt_PT-Delete this course"
+
+msgid "Edit this course"
+msgstr "pt_PT-Edit this course"
+
+msgid "View complete schedule"
+msgstr "pt_PT-View Complete Schedule"
+
+msgid "Edit this class"
+msgstr "pt_PT-Edit this class"
+
+msgid "Delete this class"
+msgstr "pt_PT-Delete this classe"
+
+msgid "Description not added"
+msgstr "pt_PT-Description not added"
+
+msgid "Start date not mentioned"
+msgstr "pt_PT-Start date not mentioned"
+
+msgid "End date not mentioned"
+msgstr "pt_PT-End date not mentioned"
+
+msgid "No Classes available for this course"
+msgstr "pt_PT-No Classes available for this course"
+
+msgid "Course"
+msgstr "pt_PT-Course"
+
+msgid "Please delete inner classes first"
+msgstr "pt_PT-Please delete inner classes first"
+
+msgid "Recurring classes"
+msgstr "pt_PT-Recurring classes"
+
+msgid "Classes"
+msgstr "pt_PT-Classes"
+
+msgid "ERROR"
+msgstr "pt_PT-ERROR"
+
+msgid "No course available"
+msgstr "pt_PT-No course available"
+
+msgid "Please select courses to delete"
+msgstr "pt_PT-Please select courses to delete"
+
+msgid "Please select content to delete"
+msgstr "pt_PT-Please select content to delete"
+
+msgid "Settings Updated"
+msgstr "pt_PT-Settings Updated"
+
+msgid "Please enter correct access key & secret key"
+msgstr "pt_PT-Please enter correct access key & secret key"
+
+msgid "Are you sure, you want to delete"
+msgstr "pt_PT-Are you sure, you want to delete"
+
+msgid "Please delete inner content first"
+msgstr "pt_PT-Please delete inner content first"
+
+msgid "Content List"
+msgstr "pt_PT-Content List"
+
+msgid "Folder Name"
+msgstr "pt_PT-Folder Name"
+
+msgid "Manage Content"
+msgstr "pt_PT-Manage Content"
+
+msgid "Update"
+msgstr "pt_PT-update"
+
+msgid "Teacher Name"
+msgstr "pt_PT-Teacher Name"
+
+msgid "Teacher Email"
+msgstr "pt_PT-Teacher Email"
+
+msgid "Teacher Password"
+msgstr "pt_PT-Teacher Password"
+
+msgid "Can Schedule Class"
+msgstr "pt_PT-Can Schedule Class"
+
+msgid "Activate"
+msgstr "pt_PT-Activate"
+
+msgid "Manage Teacher"
+msgstr "pt_PT-Manage Teacher"
+
+msgid "WizIQ Teachers"
+msgstr "pt_PT-WizIQ Teachers"
+
+msgid "Add Teachers"
+msgstr "pt_PT-Add Teachers"
+
+msgid "Select user"
+msgstr "pt_PT-Select user"
+
+msgid "Password"
+msgstr "pt_PT-Password"
+
+msgid "Active"
+msgstr "pt_PT-Active"
+
+msgid "About the teacher"
+msgstr "pt_PT-About the teacher"
+
+msgid "Add Teacher"
+msgstr "pt_PT-Add Teacher"
+
+msgid "Edit this teacher"
+msgstr "pt_PT-Edit this teacher"
+
+msgid "Teacher updated succesffully"
+msgstr "pt_PT-Teacher updated succesffully"
+
+msgid "Teacher added succesffully"
+msgstr "pt_PT-Teacher added succesffully"
+
+msgid "Please enter password"
+msgstr "pt_PT-Please enter password"
+
+msgid "Password length between 6 - 15 character"
+msgstr "pt_PT- Password length between 6 - 15 character"
+
+msgid "Add Course"
+msgstr "pt_PT-Add Course"
+
+msgid "Language of instruction"
+msgstr "pt_PT-Language of instruction"
+
+msgid "Course name"
+msgstr "pt_PT-Course name"
+
+msgid "Start date"
+msgstr "pt_PT-Start Date"
+
+msgid "End date"
+msgstr "pt_PT-End Date"
+
+msgid "My content"
+msgstr "pt_PT-My content"
+
+msgid "Select date"
+msgstr "pt_PT-Select date"
+
+msgid "Class title can't be empty."
+msgstr "pt_PT-Class title can't be empty."
+
+msgid "Start date required."
+msgstr "pt_PT-Start date required."
+
+msgid "Select teacher"
+msgstr "pt_PT-Select teacher"
+
+msgid "Class duration (in minutes )"
+msgstr "pt_PT-Class duration (in minutes )"
+
+msgid "View Recording"
+msgstr "pt_PT-View Recording"
+
+msgid "Time Zone"
+msgstr "pt_PT-Time Zone"
+
+msgid "Select User"
+msgstr "pt_PT-Select User"
+
+msgid "Bulk Actions"
+msgstr "pt_PT-Bulk Actions"
+
+msgid "Add new class"
+msgstr "pt_PT-Add new class"
+
+msgid "Enroll user"
+msgstr "pt_PT-Enroll user"
+
+msgid "Time Zone API URL"
+msgstr "pt_PT-Time Zone API URL"
+
+msgid "Clear"
+msgstr "pt_PT-Clear"
+
+msgid "Manage Course"
+msgstr "pt_PT-Manage Course"
+
+msgid "Add New Class"
+msgstr "pt_PT-Add New Class"
+
+msgid "Class Title"
+msgstr "pt_PT-Class Title"
+
+msgid "Minimum 30 min and maximum 300 min"
+msgstr "pt_PT-Minimum 30 min and maximum 300 min"
+
+msgid "Minimum 30 min and maximum 300 min."
+msgstr "pt_PT-Minimum 30 min and maximum 300 min."
+
+msgid "in minutes"
+msgstr "pt_PT-in minutes"
+
+msgid "Class duration"
+msgstr "pt_PT-Class duration"
+
+msgid "Please select when this class repeats."
+msgstr "pt_PT-Please select when this class repeats."
+
+msgid "Please enter number of classes."
+msgstr "pt_PT-Please enter number of classes."
+
+msgid "Class schedule"
+msgstr "pt_PT-Class schedule"
+
+msgid "Duration"
+msgstr "pt_PT-Duration"
+
+msgid "Language in classroom"
+msgstr "pt_PT-Language in classroom"
+
+msgid "Content name"
+msgstr "pt_PT-Content name"
+
+msgid "Upload file"
+msgstr "pt_PT-Upload file"
+
+msgid "Folder name"
+msgstr "pt_PT-Folder name"
+
+msgid "Please select file to upload."
+msgstr "pt_PT-Please select file to upload."
+
+msgid "The request has been successfully completed."
+msgstr "pt_PT-The request has been successfully completed."
+
+msgid "Not Modified: Operation ok. There was no new data to return."
+msgstr "pt_PT-Not Modified: Operation ok. There was no new data to return."
+
+msgid "Bad Request: The request is invalid. Error messages are returned for explanation purposes."
+msgstr "pt_PT-Bad Request: The request is invalid. Error messages are returned for explanation purposes."
+
+msgid "Not Authorized: The credentials provided are invalid or are needed for the operation."
+msgstr "pt_PT-Not Authorized: The credentials provided are invalid or are needed for the operation."
+
+msgid "Forbidden: The request is refused by the API."
+msgstr "pt_PT-Forbidden: The request is refused by the API."
+
+msgid "Not Found: The resource requested doesn’t exist. Ex: The provided car_id in the url doesn’t exist."
+msgstr "pt_PT-Not Found: The resource requested doesn’t exist. Ex: The provided car_id in the url doesn’t exist."
+
+msgid "Internal Server Error: An unrecoverable error has occurred at server side."
+msgstr "pt_PT-Internal Server Error: An unrecoverable error has occurred at server side."
+
+msgid "Bad Gateway: The API service is down or being upgraded."
+msgstr "pt_PT-Bad Gateway: The API service is down or being upgraded."
+
+msgid "Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+msgstr "pt_PT-Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+
+msgid "There is some error while processing your request."
+msgstr "pt_PT-There is some error while processing your request."
+
+msgid "presenter_id parameter is missing."
+msgstr "pt_PT-presenter_id parameter is missing."
+
+msgid "presenter_name parameter is missing."
+msgstr "pt_PT-presenter_name parameter is missing."
+
+msgid "Specified time_zone parameter is not available."
+msgstr "pt_PT-Specified time_zone parameter is not available."
+
+msgid "start_time parameter cannot precede current datetime."
+msgstr "pt_PT-start_time parameter cannot precede current datetime."
+
+msgid "Invalid start_time parameter."
+msgstr "pt_PT-Invalid start_time parameter."
+
+msgid "time_zone parameter is missing."
+msgstr "pt_PT-time_zone parameter is missing."
+
+msgid "Attendees can be  added only in an upcoming class."
+msgstr "pt_PT-Attendees can be  added only in an upcoming class."
+
+msgid "This class has been cancelled."
+msgstr "pt_PT-This class has been cancelled."
+
+msgid "class_id is invalid."
+msgstr "pt_PT-class_id is invalid."
+
+msgid "duration parameter cannot exceed  #MaxClassMinutes# minutes."
+msgstr "pt_PT-duration parameter cannot exceed  #MaxClassMinutes# minutes."
+
+msgid "attendee_limit parameter cannot exceed #MaxUserPerClass# attendees."
+msgstr "pt_PT-attendee_limit parameter cannot exceed #MaxUserPerClass# attendees."
+
+msgid "Only #MaxConcurrentClass# simultaneous classes are allowed."
+msgstr "pt_PT-Only #MaxConcurrentClass# simultaneous classes are allowed."
+
+msgid "No record found."
+msgstr "pt_PT-No record found."
+
+msgid "title parameter is missing."
+msgstr "pt_PT-title parameter is missing."
+
+msgid "Cannot modify an in-progress class."
+msgstr "pt_PT-Cannot modify an in-progress class."
+
+msgid "Cannot modify a completed class."
+msgstr "pt_PT-Cannot modify a completed class."
+
+msgid "Cannot modify an expired class."
+msgstr "pt_PT-Cannot modify an expired class."
+
+msgid "Cannot modify a deleted class."
+msgstr "pt_PT-Cannot modify a deleted class."
+
+msgid "start_time parameter is missing."
+msgstr "pt_PT-start_time parameter is missing."
+
+msgid "class_id parameter is missing."
+msgstr "pt_PT-class_id parameter is missing."
+
+msgid "attendee_list parameter is missing."
+msgstr "pt_PT-attendee_list parameter is missing."
+
+msgid "Datetime is not in valid format."
+msgstr "pt_PT-Datetime is not in valid format."
+
+msgid "screen_name is missing."
+msgstr "pt_PT-screen_name is missing."
+
+msgid "Please enter folder name."
+msgstr "pt_PT-Please enter folder name."
+
+msgid "Can schedule class"
+msgstr "pt_PT-Can schedule class"
+
+msgid "Teacher name"
+msgstr "pt_PT-Teacher name"
+
+msgid "Edit Teacher"
+msgstr "pt_PT-Edit Teacher"
+
+msgid "Please enter end date."
+msgstr "pt_PT-Please enter end date."
+
+msgid "TEACHER"
+msgstr "pt_PT-TEACHER"
+
+msgid "Class deleted successfully"
+msgstr "pt_PT-Class deleted successfully"
+
+msgid "Please select user from right panel"
+msgstr "pt_PT-Please select user from right panel"
+
+msgid "No classes available for this course"
+msgstr "pt_PT-No classes available for this course"
+
+msgid "required"
+msgstr "pt_PT-required"
+
+msgid "Please select week days."
+msgstr "pt_PT-Please select week days."
+

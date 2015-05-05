@@ -1,0 +1,908 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: my-pluginname 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-06 13:46-0400\n"
+"PO-Revision-Date: 2014-07-31 15:20+0530\n"
+"Last-Translator: Harjodh <harjot@csgroupchd.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "API URL"
+msgstr "de_DE-API URL"
+
+msgid "Recurring API URL"
+msgstr "de_DE-Recurring API URL"
+
+msgid "Content URL"
+msgstr "de_DE-Content URL"
+
+msgid "Access Key"
+msgstr "de_DE-Access Key"
+
+msgid "Secret Key"
+msgstr "de_DE-Secret Key"
+
+msgid "Content Language"
+msgstr "de_DE-Content Language"
+
+msgid "Save Changes"
+msgstr "de_DE-Save Changes"
+
+msgid "Course Name"
+msgstr "de_DE-Course Name"
+
+msgid "Short Name"
+msgstr "de_DE-Short Name"
+
+msgid "Start Date"
+msgstr "de_DE-Start Date"
+
+msgid "End Date"
+msgstr "de_DE-End Date"
+
+msgid "Description"
+msgstr "de_DE-Description"
+
+msgid "Add New Course"
+msgstr "de_DE-Add New Course"
+
+msgid "Save"
+msgstr "de_DE-Save"
+
+msgid "WizIQ Courses"
+msgstr "de_DE-WizIQ Courses"
+
+msgid "Please"
+msgstr "de_DE-Please"
+
+msgid "Please enter course name."
+msgstr "de_DE-Please enter course name."
+
+msgid "Please Enter Course Short Name"
+msgstr "de_DE-Please Enter Course Short Name"
+
+msgid "Cancel"
+msgstr "de_DE-Cancel"
+
+msgid "WizIQ Credentials"
+msgstr "de_DE-WizIQ Credentials"
+
+msgid "Course created successfully"
+msgstr "de_DE-Course created successfully"
+
+msgid "Courses deleted successfully"
+msgstr "de_DE-Courses deleted successfully"
+
+msgid "Course deleted successfully"
+msgstr "de_DE-Course deleted successfully"
+
+msgid "and courses"
+msgstr "de_DE-and courses"
+
+msgid "Apply"
+msgstr "de_DE-Apply"
+
+msgid "Delete"
+msgstr "de_DE-Delete"
+
+msgid "Name"
+msgstr "de_DE-Name"
+
+msgid "Manage Courses"
+msgstr "de_DE-Manage Courses"
+
+msgid "Created By"
+msgstr "de_DE-Created By"
+
+msgid "Number of Classes"
+msgstr "de_DE-Number of Classes"
+
+msgid "View"
+msgstr "de_DE-View"
+
+msgid "Completed"
+msgstr "de_DE-Completed"
+
+msgid "Live Class"
+msgstr "de_DE-Live Class"
+
+msgid "Expired"
+msgstr "de_DE-Expired"
+
+msgid "View Recurring Classes"
+msgstr "de_DE-View Recurring Classe"
+
+msgid "Refresh"
+msgstr "de_DE-Refresh"
+
+msgid "Courses"
+msgstr "de_DE-Courses"
+
+msgid "Content"
+msgstr "de_DE-Content"
+
+msgid "Settings"
+msgstr "de_DE-Settings"
+
+msgid "Edit"
+msgstr "de_DE-Edit"
+
+msgid "Edit this item"
+msgstr "de_DE-Edit this item"
+
+msgid "Move this item to the Trash"
+msgstr "de_DE-Move this item to the Trash"
+
+msgid "Create Class"
+msgstr "de_DE-Create Class"
+
+msgid "Enroll User"
+msgstr "de_DE-Enroll User"
+
+msgid "WizIQ Content"
+msgstr "de_DE-WizIQ Content"
+
+msgid "Upload Content"
+msgstr "de_DE-Upload Content"
+
+msgid "My Content"
+msgstr "de_DE-My Content"
+
+msgid "Content Name"
+msgstr "de_DE-Content Name"
+
+msgid "Type"
+msgstr "de_DE-Type"
+
+msgid "Inside"
+msgstr "de_DE-Inside"
+
+msgid "Status"
+msgstr "de_DE-Status"
+
+msgid "No content available"
+msgstr "de_DE-No content available"
+
+msgid "Class title"
+msgstr "de_DE-Class title"
+
+msgid "Class time"
+msgstr "de_DE-Class time"
+
+msgid "Presenter"
+msgstr "de_DE-Presenter"
+
+msgid "Attendance Report"
+msgstr "de_DE-Attendance Report"
+
+msgid "Manage Class"
+msgstr "de_DE-Manage Class"
+
+msgid "Upcoming"
+msgstr "de_DE-Upcoming"
+
+msgid "WizIQ Classes"
+msgstr "de_DE-WizIQ Classes"
+
+msgid "Add Class"
+msgstr "de_DE-Add Class"
+
+msgid "Back To Courses"
+msgstr "de_DE-Back To Courses"
+
+msgid "There are no user"
+msgstr "de_DE-There are no user"
+
+msgid "Add New"
+msgstr "de_DE-Add New"
+
+msgid "Enroll Users for Course"
+msgstr "de_DE-Enroll Users for Course"
+
+msgid "General"
+msgstr "de_DE-General"
+
+msgid "Class Duration (in minutes )"
+msgstr "de_DE-Class Duration (in minutes )"
+
+msgid "Set Timing of the Class"
+msgstr "de_DE-Set Timing of the Class"
+
+msgid "Choose Class Method"
+msgstr "Choose Class Method"
+
+msgid "Class Schedule"
+msgstr "de_DE-Class Schedul"
+
+msgid "Select Date"
+msgstr "de_DE-Select Date"
+
+msgid "Class Starting Time Date"
+msgstr "de_DE-Class Starting Time Dat"
+
+msgid "Hours"
+msgstr "de_DE-Hours"
+
+msgid "Minutes"
+msgstr "de_DE-Minutes"
+
+msgid "Time zone"
+msgstr "de_DE-Time zone"
+
+msgid "Repeat by"
+msgstr "de_DE-Repeat by"
+
+msgid "Date"
+msgstr "de_DE-Date"
+
+msgid "Day"
+msgstr "de_DE-Day"
+
+msgid "of every month"
+msgstr "de_DE-of every month"
+
+msgid "After classes"
+msgstr "de_DE-After classes"
+
+msgid "On date"
+msgstr "de_DE-On date"
+
+msgid "Setting of Wiziq Class"
+msgstr "de_DE-Setting of Wiziq Class"
+
+msgid "Attendee limit in a class"
+msgstr "de_DE-Attendee limit in a class"
+
+msgid "Record this class"
+msgstr "de_DE-Record this class"
+
+msgid "Select a language"
+msgstr "de_DE-Select a language"
+
+msgid "Yes"
+msgstr "de_DE-Yes"
+
+msgid "No"
+msgstr "de_DE-No"
+
+msgid "Want to schedule a single class"
+msgstr "de_DE-Want to schedule a single class"
+
+msgid "Want to schedule a recurring class"
+msgstr "de_DE-Want to schedule a recurring class"
+
+msgid "Select when class repeats"
+msgstr "de_DE-Select when class repeats"
+
+msgid "Daily (all 7 Days)"
+msgstr "de_DE-Daily (all 7 Days)"
+
+msgid "6 Days (Mon-Sat)"
+msgstr "de_DE-6 Days (Mon-Sat)"
+
+msgid "5 Days (Mon-Fri)"
+msgstr "de_DE-5 Days (Mon-Fri)"
+
+msgid "Weekly"
+msgstr "de_DE-Weekly"
+
+msgid "Monthly"
+msgstr "de_DE-Monthly"
+
+msgid "Please enter duration between 30 to 300 minutes."
+msgstr "de_DE-Please enter duration between 30 to 300 minutes."
+
+msgid "No users enrolled in this course"
+msgstr "de_DE-No users enrolled in this course"
+
+msgid "User Name"
+msgstr "de_DE-User Name"
+
+msgid "Add"
+msgstr "de_DE-Add"
+
+msgid "Remove"
+msgstr "de_DE-Remove"
+
+msgid "User Permissions"
+msgstr "de_DE-User Permissions"
+
+msgid "Download Recording"
+msgstr "de_DE-Download Recording"
+
+msgid "Minimun 30 min and maximum 300 min"
+msgstr "de_DE-Minimun 30 min and maximum 300 min"
+
+msgid "Schdelude right now"
+msgstr "de_DE-Schdelude right now"
+
+msgid "You can add upto 60 classes"
+msgstr "de_DE-You can add upto 60 classes"
+
+msgid "Please Select Week Days"
+msgstr "de_DE-Please Select Week Days"
+
+msgid "Please enter number"
+msgstr "de_DE-Please enter number"
+
+msgid "You can add upto 1000 attendees in a course"
+msgstr "de_DE-You can add upto 1000 attendees in a course"
+
+msgid "Please enter number of classes"
+msgstr "de_DE-Please enter number of classes"
+
+msgid "Please enter end date"
+msgstr "de_DE-Please Enter end date"
+
+msgid "Start date required"
+msgstr "de_DE-Start date required"
+
+msgid "Class name required"
+msgstr "de_DE-Class name required"
+
+msgid "Back To Classes"
+msgstr "de_DE-Back To Classes"
+
+msgid "Class updated successfully"
+msgstr "de_DE-Class updated successfully"
+
+msgid "Class Detail"
+msgstr "de_DE-Class Detail"
+
+msgid "Class name"
+msgstr "de_DE-Class name"
+
+msgid "Teacher"
+msgstr "de_DE-Teacher"
+
+msgid "You"
+msgstr "de_DE-You"
+
+msgid "Class status"
+msgstr "de_DE-Class status"
+
+msgid "Timing of class"
+msgstr "de_DE-Timing of class"
+
+msgid "Duration (in minutes)"
+msgstr "de_DE-Duration (in minutes)"
+
+msgid "Language in Classroom"
+msgstr "de_DE-Language in Classroom"
+
+msgid "Recording opted"
+msgstr "de_DE-Recording opted"
+
+msgid "Launch Class"
+msgstr "de_DE-Launch Class"
+
+msgid "Go Back"
+msgstr "de_DE-Go Back"
+
+msgid "Recording not opted"
+msgstr "de_DE-Recording not opted"
+
+msgid "View list Of attendees"
+msgstr "de_DE-View list Of attendees"
+
+msgid "View recording"
+msgstr "de_DE-View recording"
+
+msgid "Download"
+msgstr "de_DE-Download"
+
+msgid "Attendee report"
+msgstr "de_DE-Attendee report"
+
+msgid "Attendee Detail"
+msgstr "de_DE-Attendee Detail"
+
+msgid "Attendee Name"
+msgstr "de_DE-Attendee Name"
+
+msgid "Entry Time"
+msgstr "de_DE-Entry Time"
+
+msgid "Exit Time"
+msgstr "de_DE-Exit Time"
+
+msgid "Attended Time"
+msgstr "de_DE-Attended Time"
+
+msgid "Close"
+msgstr "de_DE-Close"
+
+msgid "Cancelled"
+msgstr "de_DE-Cancelled"
+
+msgid "Upload content in folder"
+msgstr "de_DE-Upload content in folder"
+
+msgid "Create Folder"
+msgstr "de_DE-Create Folder"
+
+msgid "Upload File"
+msgstr "de_DE-Upload File"
+
+msgid "Allowed file type"
+msgstr "de_DE-Allowed file type"
+
+msgid "Folder(s)"
+msgstr "de_DE-Folder(s)"
+
+msgid "File(s)"
+msgstr "de_DE-File (s)"
+
+msgid "Folder created successfully"
+msgstr "de_DE-Folder created successfully"
+
+msgid "Inprogress"
+msgstr "de_DE-Inprogress"
+
+msgid "Schedule for right now"
+msgstr "de_DE-Schedule for right now"
+
+msgid "There is an error while processing your request please contact to wiziq support"
+msgstr "de_DE-There is an error while processing your request please contact to wiziq support"
+
+msgid "There is an  error while processing your request please contact to wiziq support or try later"
+msgstr "de_DE-There is an  error while processing your request please contact to wiziq support or try later"
+
+msgid "Start_time parameter cannot precede current datetime"
+msgstr "de_DE-Start_time parameter cannot precede current datetime"
+
+msgid "There is  1005 error while processing your request. Invalid start_time parameter"
+msgstr "de_DE-There is  1005 error while processing your request. Invalid start_time parameter"
+
+msgid "There is  1017 error while processing your request. Cannot modify an expired class"
+msgstr "de_DE-There is  1017 error while processing your request. Cannot modify an expired class"
+
+msgid "The file type is not allowed"
+msgstr "de_DE-The file type is not allowed"
+
+msgid "There is  1000 error while processing your request"
+msgstr "de_DE-There is  1000 error while processing your request"
+
+msgid "Class API URL"
+msgstr "de_DE-Class API URL"
+
+msgid "Content API URL"
+msgstr "de_DE-Content API URL"
+
+msgid "VC Language Interface"
+msgstr "de_DE-VC Language Interface"
+
+msgid " Please Enter Access Key"
+msgstr "de_DE-Please Enter Access Key"
+
+msgid "Please Enter Secret Key"
+msgstr "de_DE-Please Enter Secret Key"
+
+msgid "Alias"
+msgstr "de_DE-Alias"
+
+msgid "You can enter upto 1000 characters."
+msgstr "de_DE-You can enter upto 1000 characters."
+
+msgid "End date can not be empty"
+msgstr "de_DE-End date can not be empty"
+
+msgid "End date should be one day greater than start date"
+msgstr "de_DE-End date should be one day greater than start dat"
+
+msgid "Start date can not be empty"
+msgstr "de_DE-Start date can not be empty"
+
+msgid "Edit Course"
+msgstr "de_DE-Edit Course"
+
+msgid "Are you sure, you want to delete!"
+msgstr "de_DE-Are you sure, you want to delete!"
+
+msgid "Please select classes to delete"
+msgstr "de_DE-Please select classes to delete"
+
+msgid "Schedule right now"
+msgstr "de_DE-Schedule right now"
+
+msgid "Schedule and Continue"
+msgstr "de_DE-Schedule and Continue"
+
+msgid "Class Time"
+msgstr "de_DE-Class Time"
+
+msgid "Ends"
+msgstr "de_DE-Ends"
+
+msgid "Week"
+msgstr "de_DE-Week"
+
+msgid "Repeat every week"
+msgstr "de_DE-Repeat every week"
+
+msgid "View Classes"
+msgstr "de_DE-View Classesn"
+
+msgid "Courses List"
+msgstr "de_DE-Courses List"
+
+msgid "Create Course"
+msgstr "de_DE-Create Course"
+
+msgid "Delete this course"
+msgstr "de_DE-Delete this course"
+
+msgid "Edit this course"
+msgstr "de_DE-Edit this course"
+
+msgid "View complete schedule"
+msgstr "de_DE-View Complete Schedule"
+
+msgid "Edit this class"
+msgstr "de_DE-Edit this class"
+
+msgid "Delete this class"
+msgstr "de_DE-Delete this classe"
+
+msgid "Description not added"
+msgstr "de_DE-Description not added"
+
+msgid "Start date not mentioned"
+msgstr "de_DE-Start date not mentioned"
+
+msgid "End date not mentioned"
+msgstr "de_DE-End date not mentioned"
+
+msgid "No Classes available for this course"
+msgstr "de_DE-No Classes available for this course"
+
+msgid "Course"
+msgstr "de_DE-Course"
+
+msgid "Please delete inner classes first"
+msgstr "de_DE-Please delete inner classes first"
+
+msgid "Recurring classes"
+msgstr "de_DE-Recurring classes"
+
+msgid "Classes"
+msgstr "de_DE-Classes"
+
+msgid "ERROR"
+msgstr "de_DE-ERROR"
+
+msgid "No course available"
+msgstr "de_DE-No course available"
+
+msgid "Please select courses to delete"
+msgstr "de_DE-Please select courses to delete"
+
+msgid "Please select content to delete"
+msgstr "de_DE-Please select content to delete"
+
+msgid "Settings Updated"
+msgstr "de_DE-Settings Updated"
+
+msgid "Please enter correct access key & secret key"
+msgstr "de_DE-Please enter correct access key & secret key"
+
+msgid "Are you sure, you want to delete"
+msgstr "de_DE-Are you sure, you want to delete"
+
+msgid "Please delete inner content first"
+msgstr "de_DE-Please delete inner content first"
+
+msgid "Content List"
+msgstr "de_DE-Content List"
+
+msgid "Folder Name"
+msgstr "de_DE-Folder Name"
+
+msgid "Manage Content"
+msgstr "de_DE-Manage Content"
+
+msgid "Update"
+msgstr "de_DE-update"
+
+msgid "Teacher Name"
+msgstr "de_DE-Teacher Name"
+
+msgid "Teacher Email"
+msgstr "de_DE-Teacher Email"
+
+msgid "Teacher Password"
+msgstr "de_DE-Teacher Password"
+
+msgid "Can Schedule Class"
+msgstr "de_DE-Can Schedule Class"
+
+msgid "Activate"
+msgstr "de_DE-Activate"
+
+msgid "Manage Teacher"
+msgstr "de_DE-Manage Teacher"
+
+msgid "WizIQ Teachers"
+msgstr "de_DE-WizIQ Teachers"
+
+msgid "Add Teachers"
+msgstr "de_DE-Add Teachers"
+
+msgid "Select user"
+msgstr "de_DE-Select user"
+
+msgid "Password"
+msgstr "de_DE-Password"
+
+msgid "Active"
+msgstr "de_DE-Active"
+
+msgid "About the teacher"
+msgstr "de_DE-About the teacher"
+
+msgid "Add Teacher"
+msgstr "de_DE-Add Teacher"
+
+msgid "Edit this teacher"
+msgstr "de_DE-Edit this teacher"
+
+msgid "Teacher updated succesffully"
+msgstr "de_DE-Teacher updated succesffully"
+
+msgid "Teacher added succesffully"
+msgstr "de_DE-Teacher added succesffully"
+
+msgid "Please enter password"
+msgstr "de_DE-Please enter password"
+
+msgid "Password length between 6 - 15 character"
+msgstr "de_DE- Password length between 6 - 15 character"
+
+msgid "Add Course"
+msgstr "de_DE-Add Course"
+
+msgid "Language of instruction"
+msgstr "de_DE-Language of instruction"
+
+msgid "Course name"
+msgstr "de_DE-Course name"
+
+msgid "Start date"
+msgstr "de_DE-Start Date"
+
+msgid "End date"
+msgstr "de_DE-End Date"
+
+msgid "My content"
+msgstr "de_DE-My content"
+
+msgid "Select date"
+msgstr "de_DE-Select date"
+
+msgid "Class title can't be empty."
+msgstr "de_DE-Class title can't be empty."
+
+msgid "Start date required."
+msgstr "de_DE-Start date required."
+
+msgid "Select teacher"
+msgstr "de_DE-Select teacher"
+
+msgid "Class duration (in minutes )"
+msgstr "de_DE-Class duration (in minutes )"
+
+msgid "View Recording"
+msgstr "de_DE-View Recording"
+
+msgid "Time Zone"
+msgstr "de_DE-Time Zone"
+
+msgid "Select User"
+msgstr "de_DE-Select User"
+
+msgid "Bulk Actions"
+msgstr "de_DE-Bulk Actions"
+
+msgid "Add new class"
+msgstr "de_DE-Add new class"
+
+msgid "Enroll user"
+msgstr "de_DE-Enroll user"
+
+msgid "Time Zone API URL"
+msgstr "de_DE-Time Zone API URL"
+
+msgid "Clear"
+msgstr "de_DE-Clear"
+
+msgid "Manage Course"
+msgstr "de_DE-Manage Course"
+
+msgid "Add New Class"
+msgstr "de_DE-Add New Class"
+
+msgid "Class Title"
+msgstr "de_DE-Class Title"
+
+msgid "Minimum 30 min and maximum 300 min"
+msgstr "de_DE-Minimum 30 min and maximum 300 min"
+
+msgid "Minimum 30 min and maximum 300 min."
+msgstr "de_DE-Minimum 30 min and maximum 300 min."
+
+msgid "in minutes"
+msgstr "de_DE-in minutes"
+
+msgid "Class duration"
+msgstr "de_DE-Class duration"
+
+msgid "Please select when this class repeats."
+msgstr "de_DE-Please select when this class repeats."
+
+msgid "Please enter number of classes."
+msgstr "de_DE-Please enter number of classes."
+
+msgid "Class schedule"
+msgstr "de_DE-Class schedule"
+
+msgid "Duration"
+msgstr "de_DE-Duration"
+
+msgid "Language in classroom"
+msgstr "de_DE-Language in classroom"
+
+msgid "Content name"
+msgstr "de_DE-Content name"
+
+msgid "Upload file"
+msgstr "de_DE-Upload file"
+
+msgid "Folder name"
+msgstr "de_DE-Folder name"
+
+msgid "Please select file to upload."
+msgstr "de_DE-Please select file to upload."
+
+msgid "The request has been successfully completed."
+msgstr "de_DE-The request has been successfully completed."
+
+msgid "Not Modified: Operation ok. There was no new data to return."
+msgstr "de_DE-Not Modified: Operation ok. There was no new data to return."
+
+msgid "Bad Request: The request is invalid. Error messages are returned for explanation purposes."
+msgstr "de_DE-Bad Request: The request is invalid. Error messages are returned for explanation purposes."
+
+msgid "Not Authorized: The credentials provided are invalid or are needed for the operation."
+msgstr "de_DE-Not Authorized: The credentials provided are invalid or are needed for the operation."
+
+msgid "Forbidden: The request is refused by the API."
+msgstr "de_DE-Forbidden: The request is refused by the API."
+
+msgid "Not Found: The resource requested doesn’t exist. Ex: The provided car_id in the url doesn’t exist."
+msgstr "de_DE-Not Found: The resource requested doesn’t exist. Ex: The provided car_id in the url doesn’t exist."
+
+msgid "Internal Server Error: An unrecoverable error has occurred at server side."
+msgstr "de_DE-Internal Server Error: An unrecoverable error has occurred at server side."
+
+msgid "Bad Gateway: The API service is down or being upgraded."
+msgstr "de_DE-Bad Gateway: The API service is down or being upgraded."
+
+msgid "Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+msgstr "de_DE-Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+
+msgid "There is some error while processing your request."
+msgstr "de_DE-There is some error while processing your request."
+
+msgid "presenter_id parameter is missing."
+msgstr "de_DE-presenter_id parameter is missing."
+
+msgid "presenter_name parameter is missing."
+msgstr "de_DE-presenter_name parameter is missing."
+
+msgid "Specified time_zone parameter is not available."
+msgstr "de_DE-Specified time_zone parameter is not available."
+
+msgid "start_time parameter cannot precede current datetime."
+msgstr "de_DE-start_time parameter cannot precede current datetime."
+
+msgid "Invalid start_time parameter."
+msgstr "de_DE-Invalid start_time parameter."
+
+msgid "time_zone parameter is missing."
+msgstr "de_DE-time_zone parameter is missing."
+
+msgid "Attendees can be  added only in an upcoming class."
+msgstr "de_DE-Attendees can be  added only in an upcoming class."
+
+msgid "This class has been cancelled."
+msgstr "de_DE-This class has been cancelled."
+
+msgid "class_id is invalid."
+msgstr "de_DE-class_id is invalid."
+
+msgid "duration parameter cannot exceed  #MaxClassMinutes# minutes."
+msgstr "de_DE-duration parameter cannot exceed  #MaxClassMinutes# minutes."
+
+msgid "attendee_limit parameter cannot exceed #MaxUserPerClass# attendees."
+msgstr "de_DE-attendee_limit parameter cannot exceed #MaxUserPerClass# attendees."
+
+msgid "Only #MaxConcurrentClass# simultaneous classes are allowed."
+msgstr "de_DE-Only #MaxConcurrentClass# simultaneous classes are allowed."
+
+msgid "No record found."
+msgstr "de_DE-No record found."
+
+msgid "title parameter is missing."
+msgstr "de_DE-title parameter is missing."
+
+msgid "Cannot modify an in-progress class."
+msgstr "de_DE-Cannot modify an in-progress class."
+
+msgid "Cannot modify a completed class."
+msgstr "de_DE-Cannot modify a completed class."
+
+msgid "Cannot modify an expired class."
+msgstr "de_DE-Cannot modify an expired class."
+
+msgid "Cannot modify a deleted class."
+msgstr "de_DE-Cannot modify a deleted class."
+
+msgid "start_time parameter is missing."
+msgstr "de_DE-start_time parameter is missing."
+
+msgid "class_id parameter is missing."
+msgstr "de_DE-class_id parameter is missing."
+
+msgid "attendee_list parameter is missing."
+msgstr "de_DE-attendee_list parameter is missing."
+
+msgid "Datetime is not in valid format."
+msgstr "de_DE-Datetime is not in valid format."
+
+msgid "screen_name is missing."
+msgstr "de_DE-screen_name is missing."
+
+msgid "Please enter folder name."
+msgstr "de_DE-Please enter folder name."
+
+msgid "Can schedule class"
+msgstr "de_DE-Can schedule class"
+
+msgid "Teacher name"
+msgstr "de_DE-Teacher name"
+
+msgid "Edit Teacher"
+msgstr "de_DE-Edit Teacher"
+
+msgid "Please enter end date."
+msgstr "de_DE-Please enter end date."
+
+msgid "TEACHER"
+msgstr "de_DE-TEACHER"
+
+msgid "Class deleted successfully"
+msgstr "de_DE-Class deleted successfully"
+
+msgid "Please select user from right panel"
+msgstr "de_DE-Please select user from right panel"
+
+msgid "No classes available for this course"
+msgstr "de_DE-No classes available for this course"
+
+msgid "required"
+msgstr "de_DE-required"
+
+msgid "Please select week days."
+msgstr "de_DE-Please select week days."
+

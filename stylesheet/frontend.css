@@ -1,0 +1,35 @@
+.front_addcourse { width: 100%; }
+.field-course-row { display: table; padding: 10px 0; width: 100%; }
+.labels-section { float: left; width: 250px; }
+.input-section { float: left; }
+.clearfix { clear: both; }
+.wiziq_error {  color: #C0394D; font-size: 12px; padding: 2px; }
+
+.icons > a { display: inline-block;  width: 24px; }
+.wiziq_hide { display:none; }
+.wiziq_show{ display:inline-block; float;left;}
+.delete-image { vertical-align: middle; }
+
+.pagination-links a, .pagination-links a:link { padding: 2px 4px 2px 4px; margin: 2px; text-decoration: none; border: 1px solid ;  }
+.pagination-links a:hover { border: 1px solid ;  }
+
+.wiziq_left { float: left; }
+#list_courses { width: 100%; }
+#list_courses .icons { padding: 5px !important; }
+.wiziq_right .wiziq_front_menu {  margin: 0 0 10px; list-style: none outside none; float: left; padding : 0px; }
+.wiziq_front_menu > li { padding: 2px 5px; }
+.wiziq_right .wiziq_front_menu { display: inline-flex; float: left; list-style: none outside none; }
+.ui-tooltip { padding: 10px 20px; font: 12px; }
+.list_courses .classes-images { border: 0 none; box-shadow: none; }
+.wiziq_right .wiziq_front_error { font-weight: bold; margin-bottom: 10px; }
+.wiziq_right .wiziq_front_success { font-weight: bold; margin-bottom: 10px; }
+#wiziq_class_weekly ul li { display: inline-block; list-style: none outside none; margin: 0; padding: 0; }
+.wiziq_weekly_class ul li input.week_days_check { display: table; margin: 5px; padding: 0; }
+.weekly_class { display: table; margin: 5px; }
+#wiziq_class_weekly ul { margin: 0; padding: 0; }
+.sorting-up:before { background: none repeat scroll 0 0 rgba(0, 0, 0, 0); color: #444444;  content: "";  display: inline-block; font: 400 20px/10px dashicons; padding: 0; position: relative; text-decoration: none !important; vertical-align: top; top:4px; }
+.sorting-down:before { background: none repeat scroll 0 0 rgba(0, 0, 0, 0); color: #444444; content: "";  display: inline-block; font: 400 20px/10px dashicons; padding: 0; position: relative; text-decoration: none !important; vertical-align: top; top:4px; }
+.wiziq_add_content .content_images { border: 0 none; box-shadow: none; }
+.list_content .content_images { border: 0 none; box-shadow: none; }
+.wiziq-content-upload {  width: 50%; }
+.supported-img { width: 96%; }

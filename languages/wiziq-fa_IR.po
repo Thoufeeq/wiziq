@@ -1,0 +1,908 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: my-pluginname 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-06 13:46-0400\n"
+"PO-Revision-Date: 2014-07-31 15:39+0530\n"
+"Last-Translator: Harjodh <harjot@csgroupchd.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "API URL"
+msgstr "fa_IR-API URL"
+
+msgid "Recurring API URL"
+msgstr "fa_IR-Recurring API URL"
+
+msgid "Content URL"
+msgstr "fa_IR-Content URL"
+
+msgid "Access Key"
+msgstr "fa_IR-Access Key"
+
+msgid "Secret Key"
+msgstr "fa_IR-Secret Key"
+
+msgid "Content Language"
+msgstr "fa_IR-Content Language"
+
+msgid "Save Changes"
+msgstr "fa_IR-Save Changes"
+
+msgid "Course Name"
+msgstr "fa_IR-Course Name"
+
+msgid "Short Name"
+msgstr "fa_IR-Short Name"
+
+msgid "Start Date"
+msgstr "fa_IR-Start Date"
+
+msgid "End Date"
+msgstr "fa_IR-End Date"
+
+msgid "Description"
+msgstr "fa_IR-Description"
+
+msgid "Add New Course"
+msgstr "fa_IR-Add New Course"
+
+msgid "Save"
+msgstr "fa_IR-Save"
+
+msgid "WizIQ Courses"
+msgstr "fa_IR-WizIQ Courses"
+
+msgid "Please"
+msgstr "fa_IR-Please"
+
+msgid "Please enter course name."
+msgstr "fa_IR-Please enter course name."
+
+msgid "Please Enter Course Short Name"
+msgstr "fa_IR-Please Enter Course Short Name"
+
+msgid "Cancel"
+msgstr "fa_IR-Cancel"
+
+msgid "WizIQ Credentials"
+msgstr "fa_IR-WizIQ Credentials"
+
+msgid "Course created successfully"
+msgstr "fa_IR-Course created successfully"
+
+msgid "Courses deleted successfully"
+msgstr "fa_IR-Courses deleted successfully"
+
+msgid "Course deleted successfully"
+msgstr "fa_IR-Course deleted successfully"
+
+msgid "and courses"
+msgstr "fa_IR-and courses"
+
+msgid "Apply"
+msgstr "fa_IR-Apply"
+
+msgid "Delete"
+msgstr "fa_IR-Delete"
+
+msgid "Name"
+msgstr "fa_IR-Name"
+
+msgid "Manage Courses"
+msgstr "fa_IR-Manage Courses"
+
+msgid "Created By"
+msgstr "fa_IR-Created By"
+
+msgid "Number of Classes"
+msgstr "fa_IR-Number of Classes"
+
+msgid "View"
+msgstr "fa_IR-View"
+
+msgid "Completed"
+msgstr "fa_IR-Completed"
+
+msgid "Live Class"
+msgstr "fa_IR-Live Class"
+
+msgid "Expired"
+msgstr "fa_IR-Expired"
+
+msgid "View Recurring Classes"
+msgstr "fa_IR-View Recurring Classe"
+
+msgid "Refresh"
+msgstr "fa_IR-Refresh"
+
+msgid "Courses"
+msgstr "fa_IR-Courses"
+
+msgid "Content"
+msgstr "fa_IR-Content"
+
+msgid "Settings"
+msgstr "fa_IR-Settings"
+
+msgid "Edit"
+msgstr "fa_IR-Edit"
+
+msgid "Edit this item"
+msgstr "fa_IR-Edit this item"
+
+msgid "Move this item to the Trash"
+msgstr "fa_IR-Move this item to the Trash"
+
+msgid "Create Class"
+msgstr "fa_IR-Create Class"
+
+msgid "Enroll User"
+msgstr "fa_IR-Enroll User"
+
+msgid "WizIQ Content"
+msgstr "fa_IR-WizIQ Content"
+
+msgid "Upload Content"
+msgstr "fa_IR-Upload Content"
+
+msgid "My Content"
+msgstr "fa_IR-My Content"
+
+msgid "Content Name"
+msgstr "fa_IR-Content Name"
+
+msgid "Type"
+msgstr "fa_IR-Type"
+
+msgid "Inside"
+msgstr "fa_IR-Inside"
+
+msgid "Status"
+msgstr "fa_IR-Status"
+
+msgid "No content available"
+msgstr "fa_IR-No content available"
+
+msgid "Class title"
+msgstr "fa_IR-Class title"
+
+msgid "Class time"
+msgstr "fa_IR-Class time"
+
+msgid "Presenter"
+msgstr "fa_IR-Presenter"
+
+msgid "Attendance Report"
+msgstr "fa_IR-Attendance Report"
+
+msgid "Manage Class"
+msgstr "fa_IR-Manage Class"
+
+msgid "Upcoming"
+msgstr "fa_IR-Upcoming"
+
+msgid "WizIQ Classes"
+msgstr "fa_IR-WizIQ Classes"
+
+msgid "Add Class"
+msgstr "fa_IR-Add Class"
+
+msgid "Back To Courses"
+msgstr "fa_IR-Back To Courses"
+
+msgid "There are no user"
+msgstr "fa_IR-There are no user"
+
+msgid "Add New"
+msgstr "fa_IR-Add New"
+
+msgid "Enroll Users for Course"
+msgstr "fa_IR-Enroll Users for Course"
+
+msgid "General"
+msgstr "fa_IR-General"
+
+msgid "Class Duration (in minutes )"
+msgstr "fa_IR-Class Duration (in minutes )"
+
+msgid "Set Timing of the Class"
+msgstr "fa_IR-Set Timing of the Class"
+
+msgid "Choose Class Method"
+msgstr "Choose Class Method"
+
+msgid "Class Schedule"
+msgstr "fa_IR-Class Schedul"
+
+msgid "Select Date"
+msgstr "fa_IR-Select Date"
+
+msgid "Class Starting Time Date"
+msgstr "fa_IR-Class Starting Time Dat"
+
+msgid "Hours"
+msgstr "fa_IR-Hours"
+
+msgid "Minutes"
+msgstr "fa_IR-Minutes"
+
+msgid "Time zone"
+msgstr "fa_IR-Time zone"
+
+msgid "Repeat by"
+msgstr "fa_IR-Repeat by"
+
+msgid "Date"
+msgstr "fa_IR-Date"
+
+msgid "Day"
+msgstr "fa_IR-Day"
+
+msgid "of every month"
+msgstr "fa_IR-of every month"
+
+msgid "After classes"
+msgstr "fa_IR-After classes"
+
+msgid "On date"
+msgstr "fa_IR-On date"
+
+msgid "Setting of Wiziq Class"
+msgstr "fa_IR-Setting of Wiziq Class"
+
+msgid "Attendee limit in a class"
+msgstr "fa_IR-Attendee limit in a class"
+
+msgid "Record this class"
+msgstr "fa_IR-Record this class"
+
+msgid "Select a language"
+msgstr "fa_IR-Select a language"
+
+msgid "Yes"
+msgstr "fa_IR-Yes"
+
+msgid "No"
+msgstr "fa_IR-No"
+
+msgid "Want to schedule a single class"
+msgstr "fa_IR-Want to schedule a single class"
+
+msgid "Want to schedule a recurring class"
+msgstr "fa_IR-Want to schedule a recurring class"
+
+msgid "Select when class repeats"
+msgstr "fa_IR-Select when class repeats"
+
+msgid "Daily (all 7 Days)"
+msgstr "fa_IR-Daily (all 7 Days)"
+
+msgid "6 Days (Mon-Sat)"
+msgstr "fa_IR-6 Days (Mon-Sat)"
+
+msgid "5 Days (Mon-Fri)"
+msgstr "fa_IR-5 Days (Mon-Fri)"
+
+msgid "Weekly"
+msgstr "fa_IR-Weekly"
+
+msgid "Monthly"
+msgstr "fa_IR-Monthly"
+
+msgid "Please enter duration between 30 to 300 minutes."
+msgstr "fa_IR-Please enter duration between 30 to 300 minutes."
+
+msgid "No users enrolled in this course"
+msgstr "fa_IR-No users enrolled in this course"
+
+msgid "User Name"
+msgstr "fa_IR-User Name"
+
+msgid "Add"
+msgstr "fa_IR-Add"
+
+msgid "Remove"
+msgstr "fa_IR-Remove"
+
+msgid "User Permissions"
+msgstr "fa_IR-User Permissions"
+
+msgid "Download Recording"
+msgstr "fa_IR-Download Recording"
+
+msgid "Minimun 30 min and maximum 300 min"
+msgstr "fa_IR-Minimun 30 min and maximum 300 min"
+
+msgid "Schdelude right now"
+msgstr "fa_IR-Schdelude right now"
+
+msgid "You can add upto 60 classes"
+msgstr "fa_IR-You can add upto 60 classes"
+
+msgid "Please Select Week Days"
+msgstr "fa_IR-Please Select Week Days"
+
+msgid "Please enter number"
+msgstr "fa_IR-Please enter number"
+
+msgid "You can add upto 1000 attendees in a course"
+msgstr "fa_IR-You can add upto 1000 attendees in a course"
+
+msgid "Please enter number of classes"
+msgstr "fa_IR-Please enter number of classes"
+
+msgid "Please enter end date"
+msgstr "fa_IR-Please Enter end date"
+
+msgid "Start date required"
+msgstr "fa_IR-Start date required"
+
+msgid "Class name required"
+msgstr "fa_IR-Class name required"
+
+msgid "Back To Classes"
+msgstr "fa_IR-Back To Classes"
+
+msgid "Class updated successfully"
+msgstr "fa_IR-Class updated successfully"
+
+msgid "Class Detail"
+msgstr "fa_IR-Class Detail"
+
+msgid "Class name"
+msgstr "fa_IR-Class name"
+
+msgid "Teacher"
+msgstr "fa_IR-Teacher"
+
+msgid "You"
+msgstr "fa_IR-You"
+
+msgid "Class status"
+msgstr "fa_IR-Class status"
+
+msgid "Timing of class"
+msgstr "fa_IR-Timing of class"
+
+msgid "Duration (in minutes)"
+msgstr "fa_IR-Duration (in minutes)"
+
+msgid "Language in Classroom"
+msgstr "fa_IR-Language in Classroom"
+
+msgid "Recording opted"
+msgstr "fa_IR-Recording opted"
+
+msgid "Launch Class"
+msgstr "fa_IR-Launch Class"
+
+msgid "Go Back"
+msgstr "fa_IR-Go Back"
+
+msgid "Recording not opted"
+msgstr "fa_IR-Recording not opted"
+
+msgid "View list Of attendees"
+msgstr "fa_IR-View list Of attendees"
+
+msgid "View recording"
+msgstr "fa_IR-View recording"
+
+msgid "Download"
+msgstr "fa_IR-Download"
+
+msgid "Attendee report"
+msgstr "fa_IR-Attendee report"
+
+msgid "Attendee Detail"
+msgstr "fa_IR-Attendee Detail"
+
+msgid "Attendee Name"
+msgstr "fa_IR-Attendee Name"
+
+msgid "Entry Time"
+msgstr "fa_IR-Entry Time"
+
+msgid "Exit Time"
+msgstr "fa_IR-Exit Time"
+
+msgid "Attended Time"
+msgstr "fa_IR-Attended Time"
+
+msgid "Close"
+msgstr "fa_IR-Close"
+
+msgid "Cancelled"
+msgstr "fa_IR-Cancelled"
+
+msgid "Upload content in folder"
+msgstr "fa_IR-Upload content in folder"
+
+msgid "Create Folder"
+msgstr "fa_IR-Create Folder"
+
+msgid "Upload File"
+msgstr "fa_IR-Upload File"
+
+msgid "Allowed file type"
+msgstr "fa_IR-Allowed file type"
+
+msgid "Folder(s)"
+msgstr "fa_IR-Folder(s)"
+
+msgid "File(s)"
+msgstr "fa_IR-File (s)"
+
+msgid "Folder created successfully"
+msgstr "fa_IR-Folder created successfully"
+
+msgid "Inprogress"
+msgstr "fa_IR-Inprogress"
+
+msgid "Schedule for right now"
+msgstr "fa_IR-Schedule for right now"
+
+msgid "There is an error while processing your request please contact to wiziq support"
+msgstr "fa_IR-There is an error while processing your request please contact to wiziq support"
+
+msgid "There is an  error while processing your request please contact to wiziq support or try later"
+msgstr "fa_IR-There is an  error while processing your request please contact to wiziq support or try later"
+
+msgid "Start_time parameter cannot precede current datetime"
+msgstr "fa_IR-Start_time parameter cannot precede current datetime"
+
+msgid "There is  1005 error while processing your request. Invalid start_time parameter"
+msgstr "fa_IR-There is  1005 error while processing your request. Invalid start_time parameter"
+
+msgid "There is  1017 error while processing your request. Cannot modify an expired class"
+msgstr "fa_IR-There is  1017 error while processing your request. Cannot modify an expired class"
+
+msgid "The file type is not allowed"
+msgstr "fa_IR-The file type is not allowed"
+
+msgid "There is  1000 error while processing your request"
+msgstr "fa_IR-There is  1000 error while processing your request"
+
+msgid "Class API URL"
+msgstr "fa_IR-Class API URL"
+
+msgid "Content API URL"
+msgstr "fa_IR-Content API URL"
+
+msgid "VC Language Interface"
+msgstr "fa_IR-VC Language Interface"
+
+msgid " Please Enter Access Key"
+msgstr "fa_IR-Please Enter Access Key"
+
+msgid "Please Enter Secret Key"
+msgstr "fa_IR-Please Enter Secret Key"
+
+msgid "Alias"
+msgstr "fa_IR-Alias"
+
+msgid "You can enter upto 1000 characters."
+msgstr "fa_IR-You can enter upto 1000 characters."
+
+msgid "End date can not be empty"
+msgstr "fa_IR-End date can not be empty"
+
+msgid "End date should be one day greater than start date"
+msgstr "fa_IR-End date should be one day greater than start dat"
+
+msgid "Start date can not be empty"
+msgstr "fa_IR-Start date can not be empty"
+
+msgid "Edit Course"
+msgstr "fa_IR-Edit Course"
+
+msgid "Are you sure, you want to delete!"
+msgstr "fa_IR-Are you sure, you want to delete!"
+
+msgid "Please select classes to delete"
+msgstr "fa_IR-Please select classes to delete"
+
+msgid "Schedule right now"
+msgstr "fa_IR-Schedule right now"
+
+msgid "Schedule and Continue"
+msgstr "fa_IR-Schedule and Continue"
+
+msgid "Class Time"
+msgstr "fa_IR-Class Time"
+
+msgid "Ends"
+msgstr "fa_IR-Ends"
+
+msgid "Week"
+msgstr "fa_IR-Week"
+
+msgid "Repeat every week"
+msgstr "fa_IR-Repeat every week"
+
+msgid "View Classes"
+msgstr "fa_IR-View Classesn"
+
+msgid "Courses List"
+msgstr "fa_IR-Courses List"
+
+msgid "Create Course"
+msgstr "fa_IR-Create Course"
+
+msgid "Delete this course"
+msgstr "fa_IR-Delete this course"
+
+msgid "Edit this course"
+msgstr "fa_IR-Edit this course"
+
+msgid "View complete schedule"
+msgstr "fa_IR-View Complete Schedule"
+
+msgid "Edit this class"
+msgstr "fa_IR-Edit this class"
+
+msgid "Delete this class"
+msgstr "fa_IR-Delete this classe"
+
+msgid "Description not added"
+msgstr "fa_IR-Description not added"
+
+msgid "Start date not mentioned"
+msgstr "fa_IR-Start date not mentioned"
+
+msgid "End date not mentioned"
+msgstr "fa_IR-End date not mentioned"
+
+msgid "No Classes available for this course"
+msgstr "fa_IR-No Classes available for this course"
+
+msgid "Course"
+msgstr "fa_IR-Course"
+
+msgid "Please delete inner classes first"
+msgstr "fa_IR-Please delete inner classes first"
+
+msgid "Recurring classes"
+msgstr "fa_IR-Recurring classes"
+
+msgid "Classes"
+msgstr "fa_IR-Classes"
+
+msgid "ERROR"
+msgstr "fa_IR-ERROR"
+
+msgid "No course available"
+msgstr "fa_IR-No course available"
+
+msgid "Please select courses to delete"
+msgstr "fa_IR-Please select courses to delete"
+
+msgid "Please select content to delete"
+msgstr "fa_IR-Please select content to delete"
+
+msgid "Settings Updated"
+msgstr "fa_IR-Settings Updated"
+
+msgid "Please enter correct access key & secret key"
+msgstr "fa_IR-Please enter correct access key & secret key"
+
+msgid "Are you sure, you want to delete"
+msgstr "fa_IR-Are you sure, you want to delete"
+
+msgid "Please delete inner content first"
+msgstr "fa_IR-Please delete inner content first"
+
+msgid "Content List"
+msgstr "fa_IR-Content List"
+
+msgid "Folder Name"
+msgstr "fa_IR-Folder Name"
+
+msgid "Manage Content"
+msgstr "fa_IR-Manage Content"
+
+msgid "Update"
+msgstr "fa_IR-update"
+
+msgid "Teacher Name"
+msgstr "fa_IR-Teacher Name"
+
+msgid "Teacher Email"
+msgstr "fa_IR-Teacher Email"
+
+msgid "Teacher Password"
+msgstr "fa_IR-Teacher Password"
+
+msgid "Can Schedule Class"
+msgstr "fa_IR-Can Schedule Class"
+
+msgid "Activate"
+msgstr "fa_IR-Activate"
+
+msgid "Manage Teacher"
+msgstr "fa_IR-Manage Teacher"
+
+msgid "WizIQ Teachers"
+msgstr "fa_IR-WizIQ Teachers"
+
+msgid "Add Teachers"
+msgstr "fa_IR-Add Teachers"
+
+msgid "Select user"
+msgstr "fa_IR-Select user"
+
+msgid "Password"
+msgstr "fa_IR-Password"
+
+msgid "Active"
+msgstr "fa_IR-Active"
+
+msgid "About the teacher"
+msgstr "fa_IR-About the teacher"
+
+msgid "Add Teacher"
+msgstr "fa_IR-Add Teacher"
+
+msgid "Edit this teacher"
+msgstr "fa_IR-Edit this teacher"
+
+msgid "Teacher updated succesffully"
+msgstr "fa_IR-Teacher updated succesffully"
+
+msgid "Teacher added succesffully"
+msgstr "fa_IR-Teacher added succesffully"
+
+msgid "Please enter password"
+msgstr "fa_IR-Please enter password"
+
+msgid "Password length between 6 - 15 character"
+msgstr "fa_IR- Password length between 6 - 15 character"
+
+msgid "Add Course"
+msgstr "fa_IR-Add Course"
+
+msgid "Language of instruction"
+msgstr "fa_IR-Language of instruction"
+
+msgid "Course name"
+msgstr "fa_IR-Course name"
+
+msgid "Start date"
+msgstr "fa_IR-Start Date"
+
+msgid "End date"
+msgstr "fa_IR-End Date"
+
+msgid "My content"
+msgstr "fa_IR-My content"
+
+msgid "Select date"
+msgstr "fa_IR-Select date"
+
+msgid "Class title can't be empty."
+msgstr "fa_IR-Class title can't be empty."
+
+msgid "Start date required."
+msgstr "fa_IR-Start date required."
+
+msgid "Select teacher"
+msgstr "fa_IR-Select teacher"
+
+msgid "Class duration (in minutes )"
+msgstr "fa_IR-Class duration (in minutes )"
+
+msgid "View Recording"
+msgstr "fa_IR-View Recording"
+
+msgid "Time Zone"
+msgstr "fa_IR-Time Zone"
+
+msgid "Select User"
+msgstr "fa_IR-Select User"
+
+msgid "Bulk Actions"
+msgstr "fa_IR-Bulk Actions"
+
+msgid "Add new class"
+msgstr "fa_IR-Add new class"
+
+msgid "Enroll user"
+msgstr "fa_IR-Enroll user"
+
+msgid "Time Zone API URL"
+msgstr "fa_IR-Time Zone API URL"
+
+msgid "Clear"
+msgstr "fa_IR-Clear"
+
+msgid "Manage Course"
+msgstr "fa_IR-Manage Course"
+
+msgid "Add New Class"
+msgstr "fa_IR-Add New Class"
+
+msgid "Class Title"
+msgstr "fa_IR-Class Title"
+
+msgid "Minimum 30 min and maximum 300 min"
+msgstr "fa_IR-Minimum 30 min and maximum 300 min"
+
+msgid "Minimum 30 min and maximum 300 min."
+msgstr "fa_IR-Minimum 30 min and maximum 300 min."
+
+msgid "in minutes"
+msgstr "fa_IR-in minutes"
+
+msgid "Class duration"
+msgstr "fa_IR-Class duration"
+
+msgid "Please select when this class repeats."
+msgstr "fa_IR-Please select when this class repeats."
+
+msgid "Please enter number of classes."
+msgstr "fa_IR-Please enter number of classes."
+
+msgid "Class schedule"
+msgstr "fa_IR-Class schedule"
+
+msgid "Duration"
+msgstr "fa_IR-Duration"
+
+msgid "Language in classroom"
+msgstr "fa_IR-Language in classroom"
+
+msgid "Content name"
+msgstr "fa_IR-Content name"
+
+msgid "Upload file"
+msgstr "fa_IR-Upload file"
+
+msgid "Folder name"
+msgstr "fa_IR-Folder name"
+
+msgid "Please select file to upload."
+msgstr "fa_IR-Please select file to upload."
+
+msgid "The request has been successfully completed."
+msgstr "fa_IR-The request has been successfully completed."
+
+msgid "Not Modified: Operation ok. There was no new data to return."
+msgstr "fa_IR-Not Modified: Operation ok. There was no new data to return."
+
+msgid "Bad Request: The request is invalid. Error messages are returned for explanation purposes."
+msgstr "fa_IR-Bad Request: The request is invalid. Error messages are returned for explanation purposes."
+
+msgid "Not Authorized: The credentials provided are invalid or are needed for the operation."
+msgstr "fa_IR-Not Authorized: The credentials provided are invalid or are needed for the operation."
+
+msgid "Forbidden: The request is refused by the API."
+msgstr "fa_IR-Forbidden: The request is refused by the API."
+
+msgid "Not Found: The resource requested doesn’t exist. Ex: The provided car_id in the url doesn’t exist."
+msgstr "fa_IR-Not Found: The resource requested doesn’t exist. Ex: The provided car_id in the url doesn’t exist."
+
+msgid "Internal Server Error: An unrecoverable error has occurred at server side."
+msgstr "fa_IR-Internal Server Error: An unrecoverable error has occurred at server side."
+
+msgid "Bad Gateway: The API service is down or being upgraded."
+msgstr "fa_IR-Bad Gateway: The API service is down or being upgraded."
+
+msgid "Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+msgstr "fa_IR-Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+
+msgid "There is some error while processing your request."
+msgstr "fa_IR-There is some error while processing your request."
+
+msgid "presenter_id parameter is missing."
+msgstr "fa_IR-presenter_id parameter is missing."
+
+msgid "presenter_name parameter is missing."
+msgstr "fa_IR-presenter_name parameter is missing."
+
+msgid "Specified time_zone parameter is not available."
+msgstr "fa_IR-Specified time_zone parameter is not available."
+
+msgid "start_time parameter cannot precede current datetime."
+msgstr "fa_IR-start_time parameter cannot precede current datetime."
+
+msgid "Invalid start_time parameter."
+msgstr "fa_IR-Invalid start_time parameter."
+
+msgid "time_zone parameter is missing."
+msgstr "fa_IR-time_zone parameter is missing."
+
+msgid "Attendees can be  added only in an upcoming class."
+msgstr "fa_IR-Attendees can be  added only in an upcoming class."
+
+msgid "This class has been cancelled."
+msgstr "fa_IR-This class has been cancelled."
+
+msgid "class_id is invalid."
+msgstr "fa_IR-class_id is invalid."
+
+msgid "duration parameter cannot exceed  #MaxClassMinutes# minutes."
+msgstr "fa_IR-duration parameter cannot exceed  #MaxClassMinutes# minutes."
+
+msgid "attendee_limit parameter cannot exceed #MaxUserPerClass# attendees."
+msgstr "fa_IR-attendee_limit parameter cannot exceed #MaxUserPerClass# attendees."
+
+msgid "Only #MaxConcurrentClass# simultaneous classes are allowed."
+msgstr "fa_IR-Only #MaxConcurrentClass# simultaneous classes are allowed."
+
+msgid "No record found."
+msgstr "fa_IR-No record found."
+
+msgid "title parameter is missing."
+msgstr "fa_IR-title parameter is missing."
+
+msgid "Cannot modify an in-progress class."
+msgstr "fa_IR-Cannot modify an in-progress class."
+
+msgid "Cannot modify a completed class."
+msgstr "fa_IR-Cannot modify a completed class."
+
+msgid "Cannot modify an expired class."
+msgstr "fa_IR-Cannot modify an expired class."
+
+msgid "Cannot modify a deleted class."
+msgstr "fa_IR-Cannot modify a deleted class."
+
+msgid "start_time parameter is missing."
+msgstr "fa_IR-start_time parameter is missing."
+
+msgid "class_id parameter is missing."
+msgstr "fa_IR-class_id parameter is missing."
+
+msgid "attendee_list parameter is missing."
+msgstr "fa_IR-attendee_list parameter is missing."
+
+msgid "Datetime is not in valid format."
+msgstr "fa_IR-Datetime is not in valid format."
+
+msgid "screen_name is missing."
+msgstr "fa_IR-screen_name is missing."
+
+msgid "Please enter folder name."
+msgstr "fa_IR-Please enter folder name."
+
+msgid "Can schedule class"
+msgstr "fa_IR-Can schedule class"
+
+msgid "Teacher name"
+msgstr "fa_IR-Teacher name"
+
+msgid "Edit Teacher"
+msgstr "fa_IR-Edit Teacher"
+
+msgid "Please enter end date."
+msgstr "fa_IR-Please enter end date."
+
+msgid "TEACHER"
+msgstr "fa_IR-TEACHER"
+
+msgid "Class deleted successfully"
+msgstr "fa_IR-Class deleted successfully"
+
+msgid "Please select user from right panel"
+msgstr "fa_IR-Please select user from right panel"
+
+msgid "No classes available for this course"
+msgstr "fa_IR-No classes available for this course"
+
+msgid "required"
+msgstr "fa_IR-required"
+
+msgid "Please select week days."
+msgstr "fa_IR-Please select week days."
+

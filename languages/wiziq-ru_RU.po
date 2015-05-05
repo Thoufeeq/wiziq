@@ -1,0 +1,908 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: my-pluginname 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-06 13:46-0400\n"
+"PO-Revision-Date: 2014-07-31 16:35+0530\n"
+"Last-Translator: Harjodh <harjot@csgroupchd.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "API URL"
+msgstr "RU-API URL"
+
+msgid "Recurring API URL"
+msgstr "RU-Recurring API URL"
+
+msgid "Content URL"
+msgstr "RU-Content URL"
+
+msgid "Access Key"
+msgstr "RU-Access Key"
+
+msgid "Secret Key"
+msgstr "RU-Secret Key"
+
+msgid "Content Language"
+msgstr "RU-Content Language"
+
+msgid "Save Changes"
+msgstr "RU-Save Changes"
+
+msgid "Course Name"
+msgstr "RU-Course Name"
+
+msgid "Short Name"
+msgstr "RU-Short Name"
+
+msgid "Start Date"
+msgstr "RU-Start Date"
+
+msgid "End Date"
+msgstr "RU-End Date"
+
+msgid "Description"
+msgstr "RU-Description"
+
+msgid "Add New Course"
+msgstr "RU-Add New Course"
+
+msgid "Save"
+msgstr "RU-Save"
+
+msgid "WizIQ Courses"
+msgstr "RU-WizIQ Courses"
+
+msgid "Please"
+msgstr "RU-Please"
+
+msgid "Please enter course name."
+msgstr "RU-Please enter course name."
+
+msgid "Please Enter Course Short Name"
+msgstr "RU-Please Enter Course Short Name"
+
+msgid "Cancel"
+msgstr "RU-Cancel"
+
+msgid "WizIQ Credentials"
+msgstr "RU-WizIQ Credentials"
+
+msgid "Course created successfully"
+msgstr "RU-Course created successfully"
+
+msgid "Courses deleted successfully"
+msgstr "RU-Courses deleted successfully"
+
+msgid "Course deleted successfully"
+msgstr "RU-Course deleted successfully"
+
+msgid "and courses"
+msgstr "RU-and courses"
+
+msgid "Apply"
+msgstr "RU-Apply"
+
+msgid "Delete"
+msgstr "RU-Delete"
+
+msgid "Name"
+msgstr "RU-Name"
+
+msgid "Manage Courses"
+msgstr "RU-Manage Courses"
+
+msgid "Created By"
+msgstr "RU-Created By"
+
+msgid "Number of Classes"
+msgstr "RU-Number of Classes"
+
+msgid "View"
+msgstr "RU-View"
+
+msgid "Completed"
+msgstr "RU-Completed"
+
+msgid "Live Class"
+msgstr "RU-Live Class"
+
+msgid "Expired"
+msgstr "RU-Expired"
+
+msgid "View Recurring Classes"
+msgstr "RU-View Recurring Classe"
+
+msgid "Refresh"
+msgstr "RU-Refresh"
+
+msgid "Courses"
+msgstr "RU-Courses"
+
+msgid "Content"
+msgstr "RU-Content"
+
+msgid "Settings"
+msgstr "RU-Settings"
+
+msgid "Edit"
+msgstr "RU-Edit"
+
+msgid "Edit this item"
+msgstr "RU-Edit this item"
+
+msgid "Move this item to the Trash"
+msgstr "RU-Move this item to the Trash"
+
+msgid "Create Class"
+msgstr "RU-Create Class"
+
+msgid "Enroll User"
+msgstr "RU-Enroll User"
+
+msgid "WizIQ Content"
+msgstr "RU-WizIQ Content"
+
+msgid "Upload Content"
+msgstr "RU-Upload Content"
+
+msgid "My Content"
+msgstr "RU-My Content"
+
+msgid "Content Name"
+msgstr "RU-Content Name"
+
+msgid "Type"
+msgstr "RU-Type"
+
+msgid "Inside"
+msgstr "RU-Inside"
+
+msgid "Status"
+msgstr "RU-Status"
+
+msgid "No content available"
+msgstr "RU-No content available"
+
+msgid "Class title"
+msgstr "RU-Class title"
+
+msgid "Class time"
+msgstr "RU-Class time"
+
+msgid "Presenter"
+msgstr "RU-Presenter"
+
+msgid "Attendance Report"
+msgstr "RU-Attendance Report"
+
+msgid "Manage Class"
+msgstr "RU-Manage Class"
+
+msgid "Upcoming"
+msgstr "RU-Upcoming"
+
+msgid "WizIQ Classes"
+msgstr "RU-WizIQ Classes"
+
+msgid "Add Class"
+msgstr "RU-Add Class"
+
+msgid "Back To Courses"
+msgstr "RU-Back To Courses"
+
+msgid "There are no user"
+msgstr "RU-There are no user"
+
+msgid "Add New"
+msgstr "RU-Add New"
+
+msgid "Enroll Users for Course"
+msgstr "RU-Enroll Users for Course"
+
+msgid "General"
+msgstr "RU-General"
+
+msgid "Class Duration (in minutes )"
+msgstr "RU-Class Duration (in minutes )"
+
+msgid "Set Timing of the Class"
+msgstr "RU-Set Timing of the Class"
+
+msgid "Choose Class Method"
+msgstr "Choose Class Method"
+
+msgid "Class Schedule"
+msgstr "RU-Class Schedul"
+
+msgid "Select Date"
+msgstr "RU-Select Date"
+
+msgid "Class Starting Time Date"
+msgstr "RU-Class Starting Time Dat"
+
+msgid "Hours"
+msgstr "RU-Hours"
+
+msgid "Minutes"
+msgstr "RU-Minutes"
+
+msgid "Time zone"
+msgstr "RU-Time zone"
+
+msgid "Repeat by"
+msgstr "RU-Repeat by"
+
+msgid "Date"
+msgstr "RU-Date"
+
+msgid "Day"
+msgstr "RU-Day"
+
+msgid "of every month"
+msgstr "RU-of every month"
+
+msgid "After classes"
+msgstr "RU-After classes"
+
+msgid "On date"
+msgstr "RU-On date"
+
+msgid "Setting of Wiziq Class"
+msgstr "RU-Setting of Wiziq Class"
+
+msgid "Attendee limit in a class"
+msgstr "RU-Attendee limit in a class"
+
+msgid "Record this class"
+msgstr "RU-Record this class"
+
+msgid "Select a language"
+msgstr "RU-Select a language"
+
+msgid "Yes"
+msgstr "RU-Yes"
+
+msgid "No"
+msgstr "RU-No"
+
+msgid "Want to schedule a single class"
+msgstr "RU-Want to schedule a single class"
+
+msgid "Want to schedule a recurring class"
+msgstr "RU-Want to schedule a recurring class"
+
+msgid "Select when class repeats"
+msgstr "RU-Select when class repeats"
+
+msgid "Daily (all 7 Days)"
+msgstr "RU-Daily (all 7 Days)"
+
+msgid "6 Days (Mon-Sat)"
+msgstr "RU-6 Days (Mon-Sat)"
+
+msgid "5 Days (Mon-Fri)"
+msgstr "RU-5 Days (Mon-Fri)"
+
+msgid "Weekly"
+msgstr "RU-Weekly"
+
+msgid "Monthly"
+msgstr "RU-Monthly"
+
+msgid "Please enter duration between 30 to 300 minutes."
+msgstr "RU-Please enter duration between 30 to 300 minutes."
+
+msgid "No users enrolled in this course"
+msgstr "RU-No users enrolled in this course"
+
+msgid "User Name"
+msgstr "RU-User Name"
+
+msgid "Add"
+msgstr "RU-Add"
+
+msgid "Remove"
+msgstr "RU-Remove"
+
+msgid "User Permissions"
+msgstr "RU-User Permissions"
+
+msgid "Download Recording"
+msgstr "RU-Download Recording"
+
+msgid "Minimun 30 min and maximum 300 min"
+msgstr "RU-Minimun 30 min and maximum 300 min"
+
+msgid "Schdelude right now"
+msgstr "RU-Schdelude right now"
+
+msgid "You can add upto 60 classes"
+msgstr "RU-You can add upto 60 classes"
+
+msgid "Please Select Week Days"
+msgstr "RU-Please Select Week Days"
+
+msgid "Please enter number"
+msgstr "RU-Please enter number"
+
+msgid "You can add upto 1000 attendees in a course"
+msgstr "RU-You can add upto 1000 attendees in a course"
+
+msgid "Please enter number of classes"
+msgstr "RU-Please enter number of classes"
+
+msgid "Please enter end date"
+msgstr "RU-Please Enter end date"
+
+msgid "Start date required"
+msgstr "RU-Start date required"
+
+msgid "Class name required"
+msgstr "RU-Class name required"
+
+msgid "Back To Classes"
+msgstr "RU-Back To Classes"
+
+msgid "Class updated successfully"
+msgstr "RU-Class updated successfully"
+
+msgid "Class Detail"
+msgstr "RU-Class Detail"
+
+msgid "Class name"
+msgstr "RU-Class name"
+
+msgid "Teacher"
+msgstr "RU-Teacher"
+
+msgid "You"
+msgstr "RU-You"
+
+msgid "Class status"
+msgstr "RU-Class status"
+
+msgid "Timing of class"
+msgstr "RU-Timing of class"
+
+msgid "Duration (in minutes)"
+msgstr "RU-Duration (in minutes)"
+
+msgid "Language in Classroom"
+msgstr "RU-Language in Classroom"
+
+msgid "Recording opted"
+msgstr "RU-Recording opted"
+
+msgid "Launch Class"
+msgstr "RU-Launch Class"
+
+msgid "Go Back"
+msgstr "RU-Go Back"
+
+msgid "Recording not opted"
+msgstr "RU-Recording not opted"
+
+msgid "View list Of attendees"
+msgstr "RU-View list Of attendees"
+
+msgid "View recording"
+msgstr "RU-View recording"
+
+msgid "Download"
+msgstr "RU-Download"
+
+msgid "Attendee report"
+msgstr "RU-Attendee report"
+
+msgid "Attendee Detail"
+msgstr "RU-Attendee Detail"
+
+msgid "Attendee Name"
+msgstr "RU-Attendee Name"
+
+msgid "Entry Time"
+msgstr "RU-Entry Time"
+
+msgid "Exit Time"
+msgstr "RU-Exit Time"
+
+msgid "Attended Time"
+msgstr "RU-Attended Time"
+
+msgid "Close"
+msgstr "RU-Close"
+
+msgid "Cancelled"
+msgstr "RU-Cancelled"
+
+msgid "Upload content in folder"
+msgstr "RU-Upload content in folder"
+
+msgid "Create Folder"
+msgstr "RU-Create Folder"
+
+msgid "Upload File"
+msgstr "RU-Upload File"
+
+msgid "Allowed file type"
+msgstr "RU-Allowed file type"
+
+msgid "Folder(s)"
+msgstr "RU-Folder(s)"
+
+msgid "File(s)"
+msgstr "RU-File (s)"
+
+msgid "Folder created successfully"
+msgstr "RU-Folder created successfully"
+
+msgid "Inprogress"
+msgstr "RU-Inprogress"
+
+msgid "Schedule for right now"
+msgstr "RU-Schedule for right now"
+
+msgid "There is an error while processing your request please contact to wiziq support"
+msgstr "RU-There is an error while processing your request please contact to wiziq support"
+
+msgid "There is an  error while processing your request please contact to wiziq support or try later"
+msgstr "RU-There is an  error while processing your request please contact to wiziq support or try later"
+
+msgid "Start_time parameter cannot precede current datetime"
+msgstr "RU-Start_time parameter cannot precede current datetime"
+
+msgid "There is  1005 error while processing your request. Invalid start_time parameter"
+msgstr "RU-There is  1005 error while processing your request. Invalid start_time parameter"
+
+msgid "There is  1017 error while processing your request. Cannot modify an expired class"
+msgstr "RU-There is  1017 error while processing your request. Cannot modify an expired class"
+
+msgid "The file type is not allowed"
+msgstr "RU-The file type is not allowed"
+
+msgid "There is  1000 error while processing your request"
+msgstr "RU-There is  1000 error while processing your request"
+
+msgid "Class API URL"
+msgstr "RU-Class API URL"
+
+msgid "Content API URL"
+msgstr "RU-Content API URL"
+
+msgid "VC Language Interface"
+msgstr "RU-VC Language Interface"
+
+msgid " Please Enter Access Key"
+msgstr "RU-Please Enter Access Key"
+
+msgid "Please Enter Secret Key"
+msgstr "RU-Please Enter Secret Key"
+
+msgid "Alias"
+msgstr "RU-Alias"
+
+msgid "You can enter upto 1000 characters."
+msgstr "RU-You can enter upto 1000 characters."
+
+msgid "End date can not be empty"
+msgstr "RU-End date can not be empty"
+
+msgid "End date should be one day greater than start date"
+msgstr "RU-End date should be one day greater than start dat"
+
+msgid "Start date can not be empty"
+msgstr "RU-Start date can not be empty"
+
+msgid "Edit Course"
+msgstr "RU-Edit Course"
+
+msgid "Are you sure, you want to delete!"
+msgstr "RU-Are you sure, you want to delete!"
+
+msgid "Please select classes to delete"
+msgstr "RU-Please select classes to delete"
+
+msgid "Schedule right now"
+msgstr "RU-Schedule right now"
+
+msgid "Schedule and Continue"
+msgstr "RU-Schedule and Continue"
+
+msgid "Class Time"
+msgstr "RU-Class Time"
+
+msgid "Ends"
+msgstr "RU-Ends"
+
+msgid "Week"
+msgstr "RU-Week"
+
+msgid "Repeat every week"
+msgstr "RU-Repeat every week"
+
+msgid "View Classes"
+msgstr "RU-View Classesn"
+
+msgid "Courses List"
+msgstr "RU-Courses List"
+
+msgid "Create Course"
+msgstr "RU-Create Course"
+
+msgid "Delete this course"
+msgstr "RU-Delete this course"
+
+msgid "Edit this course"
+msgstr "RU-Edit this course"
+
+msgid "View complete schedule"
+msgstr "RU-View Complete Schedule"
+
+msgid "Edit this class"
+msgstr "RU-Edit this class"
+
+msgid "Delete this class"
+msgstr "RU-Delete this classe"
+
+msgid "Description not added"
+msgstr "RU-Description not added"
+
+msgid "Start date not mentioned"
+msgstr "RU-Start date not mentioned"
+
+msgid "End date not mentioned"
+msgstr "RU-End date not mentioned"
+
+msgid "No Classes available for this course"
+msgstr "RU-No Classes available for this course"
+
+msgid "Course"
+msgstr "RU-Course"
+
+msgid "Please delete inner classes first"
+msgstr "RU-Please delete inner classes first"
+
+msgid "Recurring classes"
+msgstr "RU-Recurring classes"
+
+msgid "Classes"
+msgstr "RU-Classes"
+
+msgid "ERROR"
+msgstr "RU-ERROR"
+
+msgid "No course available"
+msgstr "RU-No course available"
+
+msgid "Please select courses to delete"
+msgstr "RU-Please select courses to delete"
+
+msgid "Please select content to delete"
+msgstr "RU-Please select content to delete"
+
+msgid "Settings Updated"
+msgstr "RU-Settings Updated"
+
+msgid "Please enter correct access key & secret key"
+msgstr "RU-Please enter correct access key & secret key"
+
+msgid "Are you sure, you want to delete"
+msgstr "RU-Are you sure, you want to delete"
+
+msgid "Please delete inner content first"
+msgstr "RU-Please delete inner content first"
+
+msgid "Content List"
+msgstr "RU-Content List"
+
+msgid "Folder Name"
+msgstr "RU-Folder Name"
+
+msgid "Manage Content"
+msgstr "RU-Manage Content"
+
+msgid "Update"
+msgstr "RU-update"
+
+msgid "Teacher Name"
+msgstr "RU-Teacher Name"
+
+msgid "Teacher Email"
+msgstr "RU-Teacher Email"
+
+msgid "Teacher Password"
+msgstr "RU-Teacher Password"
+
+msgid "Can Schedule Class"
+msgstr "RU-Can Schedule Class"
+
+msgid "Activate"
+msgstr "RU-Activate"
+
+msgid "Manage Teacher"
+msgstr "RU-Manage Teacher"
+
+msgid "WizIQ Teachers"
+msgstr "RU-WizIQ Teachers"
+
+msgid "Add Teachers"
+msgstr "RU-Add Teachers"
+
+msgid "Select user"
+msgstr "RU-Select user"
+
+msgid "Password"
+msgstr "RU-Password"
+
+msgid "Active"
+msgstr "RU-Active"
+
+msgid "About the teacher"
+msgstr "RU-About the teacher"
+
+msgid "Add Teacher"
+msgstr "RU-Add Teacher"
+
+msgid "Edit this teacher"
+msgstr "RU-Edit this teacher"
+
+msgid "Teacher updated succesffully"
+msgstr "RU-Teacher updated succesffully"
+
+msgid "Teacher added succesffully"
+msgstr "RU-Teacher added succesffully"
+
+msgid "Please enter password"
+msgstr "RU-Please enter password"
+
+msgid "Password length between 6 - 15 character"
+msgstr "RU- Password length between 6 - 15 character"
+
+msgid "Add Course"
+msgstr "RU-Add Course"
+
+msgid "Language of instruction"
+msgstr "RU-Language of instruction"
+
+msgid "Course name"
+msgstr "RU-Course name"
+
+msgid "Start date"
+msgstr "RU-Start Date"
+
+msgid "End date"
+msgstr "RU-End Date"
+
+msgid "My content"
+msgstr "RU-My content"
+
+msgid "Select date"
+msgstr "RU-Select date"
+
+msgid "Class title can't be empty."
+msgstr "RU-Class title can't be empty."
+
+msgid "Start date required."
+msgstr "RU-Start date required."
+
+msgid "Select teacher"
+msgstr "RU-Select teacher"
+
+msgid "Class duration (in minutes )"
+msgstr "RU-Class duration (in minutes )"
+
+msgid "View Recording"
+msgstr "RU-View Recording"
+
+msgid "Time Zone"
+msgstr "RU-Time Zone"
+
+msgid "Select User"
+msgstr "RU-Select User"
+
+msgid "Bulk Actions"
+msgstr "RU-Bulk Actions"
+
+msgid "Add new class"
+msgstr "RU-Add new class"
+
+msgid "Enroll user"
+msgstr "RU-Enroll user"
+
+msgid "Time Zone API URL"
+msgstr "RU-Time Zone API URL"
+
+msgid "Clear"
+msgstr "RU-Clear"
+
+msgid "Manage Course"
+msgstr "RU-Manage Course"
+
+msgid "Add New Class"
+msgstr "RU-Add New Class"
+
+msgid "Class Title"
+msgstr "RU-Class Title"
+
+msgid "Minimum 30 min and maximum 300 min"
+msgstr "RU-Minimum 30 min and maximum 300 min"
+
+msgid "Minimum 30 min and maximum 300 min."
+msgstr "RU-Minimum 30 min and maximum 300 min."
+
+msgid "in minutes"
+msgstr "RU-in minutes"
+
+msgid "Class duration"
+msgstr "RU-Class duration"
+
+msgid "Please select when this class repeats."
+msgstr "RU-Please select when this class repeats."
+
+msgid "Please enter number of classes."
+msgstr "RU-Please enter number of classes."
+
+msgid "Class schedule"
+msgstr "RU-Class schedule"
+
+msgid "Duration"
+msgstr "RU-Duration"
+
+msgid "Language in classroom"
+msgstr "RU-Language in classroom"
+
+msgid "Content name"
+msgstr "RU-Content name"
+
+msgid "Upload file"
+msgstr "RU-Upload file"
+
+msgid "Folder name"
+msgstr "RU-Folder name"
+
+msgid "Please select file to upload."
+msgstr "RU-Please select file to upload."
+
+msgid "The request has been successfully completed."
+msgstr "RU-The request has been successfully completed."
+
+msgid "Not Modified: Operation ok. There was no new data to return."
+msgstr "RU-Not Modified: Operation ok. There was no new data to return."
+
+msgid "Bad Request: The request is invalid. Error messages are returned for explanation purposes."
+msgstr "RU-Bad Request: The request is invalid. Error messages are returned for explanation purposes."
+
+msgid "Not Authorized: The credentials provided are invalid or are needed for the operation."
+msgstr "RU-Not Authorized: The credentials provided are invalid or are needed for the operation."
+
+msgid "Forbidden: The request is refused by the API."
+msgstr "RU-Forbidden: The request is refused by the API."
+
+msgid "Not Found: The resource requested doesn’t exist. Ex: The provided car_id in the url doesn’t exist."
+msgstr "RU-Not Found: The resource requested doesn’t exist. Ex: The provided car_id in the url doesn’t exist."
+
+msgid "Internal Server Error: An unrecoverable error has occurred at server side."
+msgstr "RU-Internal Server Error: An unrecoverable error has occurred at server side."
+
+msgid "Bad Gateway: The API service is down or being upgraded."
+msgstr "RU-Bad Gateway: The API service is down or being upgraded."
+
+msgid "Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+msgstr "RU-Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+
+msgid "There is some error while processing your request."
+msgstr "RU-There is some error while processing your request."
+
+msgid "presenter_id parameter is missing."
+msgstr "RU-presenter_id parameter is missing."
+
+msgid "presenter_name parameter is missing."
+msgstr "RU-presenter_name parameter is missing."
+
+msgid "Specified time_zone parameter is not available."
+msgstr "RU-Specified time_zone parameter is not available."
+
+msgid "start_time parameter cannot precede current datetime."
+msgstr "RU-start_time parameter cannot precede current datetime."
+
+msgid "Invalid start_time parameter."
+msgstr "RU-Invalid start_time parameter."
+
+msgid "time_zone parameter is missing."
+msgstr "RU-time_zone parameter is missing."
+
+msgid "Attendees can be  added only in an upcoming class."
+msgstr "RU-Attendees can be  added only in an upcoming class."
+
+msgid "This class has been cancelled."
+msgstr "RU-This class has been cancelled."
+
+msgid "class_id is invalid."
+msgstr "RU-class_id is invalid."
+
+msgid "duration parameter cannot exceed  #MaxClassMinutes# minutes."
+msgstr "RU-duration parameter cannot exceed  #MaxClassMinutes# minutes."
+
+msgid "attendee_limit parameter cannot exceed #MaxUserPerClass# attendees."
+msgstr "RU-attendee_limit parameter cannot exceed #MaxUserPerClass# attendees."
+
+msgid "Only #MaxConcurrentClass# simultaneous classes are allowed."
+msgstr "RU-Only #MaxConcurrentClass# simultaneous classes are allowed."
+
+msgid "No record found."
+msgstr "RU-No record found."
+
+msgid "title parameter is missing."
+msgstr "RU-title parameter is missing."
+
+msgid "Cannot modify an in-progress class."
+msgstr "RU-Cannot modify an in-progress class."
+
+msgid "Cannot modify a completed class."
+msgstr "RU-Cannot modify a completed class."
+
+msgid "Cannot modify an expired class."
+msgstr "RU-Cannot modify an expired class."
+
+msgid "Cannot modify a deleted class."
+msgstr "RU-Cannot modify a deleted class."
+
+msgid "start_time parameter is missing."
+msgstr "RU-start_time parameter is missing."
+
+msgid "class_id parameter is missing."
+msgstr "RU-class_id parameter is missing."
+
+msgid "attendee_list parameter is missing."
+msgstr "RU-attendee_list parameter is missing."
+
+msgid "Datetime is not in valid format."
+msgstr "RU-Datetime is not in valid format."
+
+msgid "screen_name is missing."
+msgstr "RU-screen_name is missing."
+
+msgid "Please enter folder name."
+msgstr "RU-Please enter folder name."
+
+msgid "Can schedule class"
+msgstr "RU-Can schedule class"
+
+msgid "Teacher name"
+msgstr "RU-Teacher name"
+
+msgid "Edit Teacher"
+msgstr "RU-Edit Teacher"
+
+msgid "Please enter end date."
+msgstr "RU-Please enter end date."
+
+msgid "TEACHER"
+msgstr "RU-TEACHER"
+
+msgid "Class deleted successfully"
+msgstr "RU-Class deleted successfully"
+
+msgid "Please select user from right panel"
+msgstr "RU-Please select user from right panel"
+
+msgid "No classes available for this course"
+msgstr "RU-No classes available for this course"
+
+msgid "required"
+msgstr "RU-required"
+
+msgid "Please select week days."
+msgstr "RU-Please select week days."
+

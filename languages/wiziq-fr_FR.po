@@ -1,0 +1,908 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: my-pluginname 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-06 13:46-0400\n"
+"PO-Revision-Date: 2014-07-31 15:53+0530\n"
+"Last-Translator: Harjodh <harjot@csgroupchd.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "API URL"
+msgstr "fr_FR-API URL"
+
+msgid "Recurring API URL"
+msgstr "fr_FR-Recurring API URL"
+
+msgid "Content URL"
+msgstr "fr_FR-Content URL"
+
+msgid "Access Key"
+msgstr "fr_FR-Access Key"
+
+msgid "Secret Key"
+msgstr "fr_FR-Secret Key"
+
+msgid "Content Language"
+msgstr "fr_FR-Content Language"
+
+msgid "Save Changes"
+msgstr "fr_FR-Save Changes"
+
+msgid "Course Name"
+msgstr "fr_FR-Course Name"
+
+msgid "Short Name"
+msgstr "fr_FR-Short Name"
+
+msgid "Start Date"
+msgstr "fr_FR-Start Date"
+
+msgid "End Date"
+msgstr "fr_FR-End Date"
+
+msgid "Description"
+msgstr "fr_FR-Description"
+
+msgid "Add New Course"
+msgstr "fr_FR-Add New Course"
+
+msgid "Save"
+msgstr "fr_FR-Save"
+
+msgid "WizIQ Courses"
+msgstr "fr_FR-WizIQ Courses"
+
+msgid "Please"
+msgstr "fr_FR-Please"
+
+msgid "Please enter course name."
+msgstr "fr_FR-Please enter course name."
+
+msgid "Please Enter Course Short Name"
+msgstr "fr_FR-Please Enter Course Short Name"
+
+msgid "Cancel"
+msgstr "fr_FR-Cancel"
+
+msgid "WizIQ Credentials"
+msgstr "fr_FR-WizIQ Credentials"
+
+msgid "Course created successfully"
+msgstr "fr_FR-Course created successfully"
+
+msgid "Courses deleted successfully"
+msgstr "fr_FR-Courses deleted successfully"
+
+msgid "Course deleted successfully"
+msgstr "fr_FR-Course deleted successfully"
+
+msgid "and courses"
+msgstr "fr_FR-and courses"
+
+msgid "Apply"
+msgstr "fr_FR-Apply"
+
+msgid "Delete"
+msgstr "fr_FR-Delete"
+
+msgid "Name"
+msgstr "fr_FR-Name"
+
+msgid "Manage Courses"
+msgstr "fr_FR-Manage Courses"
+
+msgid "Created By"
+msgstr "fr_FR-Created By"
+
+msgid "Number of Classes"
+msgstr "fr_FR-Number of Classes"
+
+msgid "View"
+msgstr "fr_FR-View"
+
+msgid "Completed"
+msgstr "fr_FR-Completed"
+
+msgid "Live Class"
+msgstr "fr_FR-Live Class"
+
+msgid "Expired"
+msgstr "fr_FR-Expired"
+
+msgid "View Recurring Classes"
+msgstr "fr_FR-View Recurring Classe"
+
+msgid "Refresh"
+msgstr "fr_FR-Refresh"
+
+msgid "Courses"
+msgstr "fr_FR-Courses"
+
+msgid "Content"
+msgstr "fr_FR-Content"
+
+msgid "Settings"
+msgstr "fr_FR-Settings"
+
+msgid "Edit"
+msgstr "fr_FR-Edit"
+
+msgid "Edit this item"
+msgstr "fr_FR-Edit this item"
+
+msgid "Move this item to the Trash"
+msgstr "fr_FR-Move this item to the Trash"
+
+msgid "Create Class"
+msgstr "fr_FR-Create Class"
+
+msgid "Enroll User"
+msgstr "fr_FR-Enroll User"
+
+msgid "WizIQ Content"
+msgstr "fr_FR-WizIQ Content"
+
+msgid "Upload Content"
+msgstr "fr_FR-Upload Content"
+
+msgid "My Content"
+msgstr "fr_FR-My Content"
+
+msgid "Content Name"
+msgstr "fr_FR-Content Name"
+
+msgid "Type"
+msgstr "fr_FR-Type"
+
+msgid "Inside"
+msgstr "fr_FR-Inside"
+
+msgid "Status"
+msgstr "fr_FR-Status"
+
+msgid "No content available"
+msgstr "fr_FR-No content available"
+
+msgid "Class title"
+msgstr "fr_FR-Class title"
+
+msgid "Class time"
+msgstr "fr_FR-Class time"
+
+msgid "Presenter"
+msgstr "fr_FR-Presenter"
+
+msgid "Attendance Report"
+msgstr "fr_FR-Attendance Report"
+
+msgid "Manage Class"
+msgstr "fr_FR-Manage Class"
+
+msgid "Upcoming"
+msgstr "fr_FR-Upcoming"
+
+msgid "WizIQ Classes"
+msgstr "fr_FR-WizIQ Classes"
+
+msgid "Add Class"
+msgstr "fr_FR-Add Class"
+
+msgid "Back To Courses"
+msgstr "fr_FR-Back To Courses"
+
+msgid "There are no user"
+msgstr "fr_FR-There are no user"
+
+msgid "Add New"
+msgstr "fr_FR-Add New"
+
+msgid "Enroll Users for Course"
+msgstr "fr_FR-Enroll Users for Course"
+
+msgid "General"
+msgstr "fr_FR-General"
+
+msgid "Class Duration (in minutes )"
+msgstr "fr_FR-Class Duration (in minutes )"
+
+msgid "Set Timing of the Class"
+msgstr "fr_FR-Set Timing of the Class"
+
+msgid "Choose Class Method"
+msgstr "Choose Class Method"
+
+msgid "Class Schedule"
+msgstr "fr_FR-Class Schedul"
+
+msgid "Select Date"
+msgstr "fr_FR-Select Date"
+
+msgid "Class Starting Time Date"
+msgstr "fr_FR-Class Starting Time Dat"
+
+msgid "Hours"
+msgstr "fr_FR-Hours"
+
+msgid "Minutes"
+msgstr "fr_FR-Minutes"
+
+msgid "Time zone"
+msgstr "fr_FR-Time zone"
+
+msgid "Repeat by"
+msgstr "fr_FR-Repeat by"
+
+msgid "Date"
+msgstr "fr_FR-Date"
+
+msgid "Day"
+msgstr "fr_FR-Day"
+
+msgid "of every month"
+msgstr "fr_FR-of every month"
+
+msgid "After classes"
+msgstr "fr_FR-After classes"
+
+msgid "On date"
+msgstr "fr_FR-On date"
+
+msgid "Setting of Wiziq Class"
+msgstr "fr_FR-Setting of Wiziq Class"
+
+msgid "Attendee limit in a class"
+msgstr "fr_FR-Attendee limit in a class"
+
+msgid "Record this class"
+msgstr "fr_FR-Record this class"
+
+msgid "Select a language"
+msgstr "fr_FR-Select a language"
+
+msgid "Yes"
+msgstr "fr_FR-Yes"
+
+msgid "No"
+msgstr "fr_FR-No"
+
+msgid "Want to schedule a single class"
+msgstr "fr_FR-Want to schedule a single class"
+
+msgid "Want to schedule a recurring class"
+msgstr "fr_FR-Want to schedule a recurring class"
+
+msgid "Select when class repeats"
+msgstr "fr_FR-Select when class repeats"
+
+msgid "Daily (all 7 Days)"
+msgstr "fr_FR-Daily (all 7 Days)"
+
+msgid "6 Days (Mon-Sat)"
+msgstr "fr_FR-6 Days (Mon-Sat)"
+
+msgid "5 Days (Mon-Fri)"
+msgstr "fr_FR-5 Days (Mon-Fri)"
+
+msgid "Weekly"
+msgstr "fr_FR-Weekly"
+
+msgid "Monthly"
+msgstr "fr_FR-Monthly"
+
+msgid "Please enter duration between 30 to 300 minutes."
+msgstr "fr_FR-Please enter duration between 30 to 300 minutes."
+
+msgid "No users enrolled in this course"
+msgstr "fr_FR-No users enrolled in this course"
+
+msgid "User Name"
+msgstr "fr_FR-User Name"
+
+msgid "Add"
+msgstr "fr_FR-Add"
+
+msgid "Remove"
+msgstr "fr_FR-Remove"
+
+msgid "User Permissions"
+msgstr "fr_FR-User Permissions"
+
+msgid "Download Recording"
+msgstr "fr_FR-Download Recording"
+
+msgid "Minimun 30 min and maximum 300 min"
+msgstr "fr_FR-Minimun 30 min and maximum 300 min"
+
+msgid "Schdelude right now"
+msgstr "fr_FR-Schdelude right now"
+
+msgid "You can add upto 60 classes"
+msgstr "fr_FR-You can add upto 60 classes"
+
+msgid "Please Select Week Days"
+msgstr "fr_FR-Please Select Week Days"
+
+msgid "Please enter number"
+msgstr "fr_FR-Please enter number"
+
+msgid "You can add upto 1000 attendees in a course"
+msgstr "fr_FR-You can add upto 1000 attendees in a course"
+
+msgid "Please enter number of classes"
+msgstr "fr_FR-Please enter number of classes"
+
+msgid "Please enter end date"
+msgstr "fr_FR-Please Enter end date"
+
+msgid "Start date required"
+msgstr "fr_FR-Start date required"
+
+msgid "Class name required"
+msgstr "fr_FR-Class name required"
+
+msgid "Back To Classes"
+msgstr "fr_FR-Back To Classes"
+
+msgid "Class updated successfully"
+msgstr "fr_FR-Class updated successfully"
+
+msgid "Class Detail"
+msgstr "fr_FR-Class Detail"
+
+msgid "Class name"
+msgstr "fr_FR-Class name"
+
+msgid "Teacher"
+msgstr "fr_FR-Teacher"
+
+msgid "You"
+msgstr "fr_FR-You"
+
+msgid "Class status"
+msgstr "fr_FR-Class status"
+
+msgid "Timing of class"
+msgstr "fr_FR-Timing of class"
+
+msgid "Duration (in minutes)"
+msgstr "fr_FR-Duration (in minutes)"
+
+msgid "Language in Classroom"
+msgstr "fr_FR-Language in Classroom"
+
+msgid "Recording opted"
+msgstr "fr_FR-Recording opted"
+
+msgid "Launch Class"
+msgstr "fr_FR-Launch Class"
+
+msgid "Go Back"
+msgstr "fr_FR-Go Back"
+
+msgid "Recording not opted"
+msgstr "fr_FR-Recording not opted"
+
+msgid "View list Of attendees"
+msgstr "fr_FR-View list Of attendees"
+
+msgid "View recording"
+msgstr "fr_FR-View recording"
+
+msgid "Download"
+msgstr "fr_FR-Download"
+
+msgid "Attendee report"
+msgstr "fr_FR-Attendee report"
+
+msgid "Attendee Detail"
+msgstr "fr_FR-Attendee Detail"
+
+msgid "Attendee Name"
+msgstr "fr_FR-Attendee Name"
+
+msgid "Entry Time"
+msgstr "fr_FR-Entry Time"
+
+msgid "Exit Time"
+msgstr "fr_FR-Exit Time"
+
+msgid "Attended Time"
+msgstr "fr_FR-Attended Time"
+
+msgid "Close"
+msgstr "fr_FR-Close"
+
+msgid "Cancelled"
+msgstr "fr_FR-Cancelled"
+
+msgid "Upload content in folder"
+msgstr "fr_FR-Upload content in folder"
+
+msgid "Create Folder"
+msgstr "fr_FR-Create Folder"
+
+msgid "Upload File"
+msgstr "fr_FR-Upload File"
+
+msgid "Allowed file type"
+msgstr "fr_FR-Allowed file type"
+
+msgid "Folder(s)"
+msgstr "fr_FR-Folder(s)"
+
+msgid "File(s)"
+msgstr "fr_FR-File (s)"
+
+msgid "Folder created successfully"
+msgstr "fr_FR-Folder created successfully"
+
+msgid "Inprogress"
+msgstr "fr_FR-Inprogress"
+
+msgid "Schedule for right now"
+msgstr "fr_FR-Schedule for right now"
+
+msgid "There is an error while processing your request please contact to wiziq support"
+msgstr "fr_FR-There is an error while processing your request please contact to wiziq support"
+
+msgid "There is an  error while processing your request please contact to wiziq support or try later"
+msgstr "fr_FR-There is an  error while processing your request please contact to wiziq support or try later"
+
+msgid "Start_time parameter cannot precede current datetime"
+msgstr "fr_FR-Start_time parameter cannot precede current datetime"
+
+msgid "There is  1005 error while processing your request. Invalid start_time parameter"
+msgstr "fr_FR-There is  1005 error while processing your request. Invalid start_time parameter"
+
+msgid "There is  1017 error while processing your request. Cannot modify an expired class"
+msgstr "fr_FR-There is  1017 error while processing your request. Cannot modify an expired class"
+
+msgid "The file type is not allowed"
+msgstr "fr_FR-The file type is not allowed"
+
+msgid "There is  1000 error while processing your request"
+msgstr "fr_FR-There is  1000 error while processing your request"
+
+msgid "Class API URL"
+msgstr "fr_FR-Class API URL"
+
+msgid "Content API URL"
+msgstr "fr_FR-Content API URL"
+
+msgid "VC Language Interface"
+msgstr "fr_FR-VC Language Interface"
+
+msgid " Please Enter Access Key"
+msgstr "fr_FR-Please Enter Access Key"
+
+msgid "Please Enter Secret Key"
+msgstr "fr_FR-Please Enter Secret Key"
+
+msgid "Alias"
+msgstr "fr_FR-Alias"
+
+msgid "You can enter upto 1000 characters."
+msgstr "fr_FR-You can enter upto 1000 characters."
+
+msgid "End date can not be empty"
+msgstr "fr_FR-End date can not be empty"
+
+msgid "End date should be one day greater than start date"
+msgstr "fr_FR-End date should be one day greater than start dat"
+
+msgid "Start date can not be empty"
+msgstr "fr_FR-Start date can not be empty"
+
+msgid "Edit Course"
+msgstr "fr_FR-Edit Course"
+
+msgid "Are you sure, you want to delete!"
+msgstr "fr_FR-Are you sure, you want to delete!"
+
+msgid "Please select classes to delete"
+msgstr "fr_FR-Please select classes to delete"
+
+msgid "Schedule right now"
+msgstr "fr_FR-Schedule right now"
+
+msgid "Schedule and Continue"
+msgstr "fr_FR-Schedule and Continue"
+
+msgid "Class Time"
+msgstr "fr_FR-Class Time"
+
+msgid "Ends"
+msgstr "fr_FR-Ends"
+
+msgid "Week"
+msgstr "fr_FR-Week"
+
+msgid "Repeat every week"
+msgstr "fr_FR-Repeat every week"
+
+msgid "View Classes"
+msgstr "fr_FR-View Classesn"
+
+msgid "Courses List"
+msgstr "fr_FR-Courses List"
+
+msgid "Create Course"
+msgstr "fr_FR-Create Course"
+
+msgid "Delete this course"
+msgstr "fr_FR-Delete this course"
+
+msgid "Edit this course"
+msgstr "fr_FR-Edit this course"
+
+msgid "View complete schedule"
+msgstr "fr_FR-View Complete Schedule"
+
+msgid "Edit this class"
+msgstr "fr_FR-Edit this class"
+
+msgid "Delete this class"
+msgstr "fr_FR-Delete this classe"
+
+msgid "Description not added"
+msgstr "fr_FR-Description not added"
+
+msgid "Start date not mentioned"
+msgstr "fr_FR-Start date not mentioned"
+
+msgid "End date not mentioned"
+msgstr "fr_FR-End date not mentioned"
+
+msgid "No Classes available for this course"
+msgstr "fr_FR-No Classes available for this course"
+
+msgid "Course"
+msgstr "fr_FR-Course"
+
+msgid "Please delete inner classes first"
+msgstr "fr_FR-Please delete inner classes first"
+
+msgid "Recurring classes"
+msgstr "fr_FR-Recurring classes"
+
+msgid "Classes"
+msgstr "fr_FR-Classes"
+
+msgid "ERROR"
+msgstr "fr_FR-ERROR"
+
+msgid "No course available"
+msgstr "fr_FR-No course available"
+
+msgid "Please select courses to delete"
+msgstr "fr_FR-Please select courses to delete"
+
+msgid "Please select content to delete"
+msgstr "fr_FR-Please select content to delete"
+
+msgid "Settings Updated"
+msgstr "fr_FR-Settings Updated"
+
+msgid "Please enter correct access key & secret key"
+msgstr "fr_FR-Please enter correct access key & secret key"
+
+msgid "Are you sure, you want to delete"
+msgstr "fr_FR-Are you sure, you want to delete"
+
+msgid "Please delete inner content first"
+msgstr "fr_FR-Please delete inner content first"
+
+msgid "Content List"
+msgstr "fr_FR-Content List"
+
+msgid "Folder Name"
+msgstr "fr_FR-Folder Name"
+
+msgid "Manage Content"
+msgstr "fr_FR-Manage Content"
+
+msgid "Update"
+msgstr "fr_FR-update"
+
+msgid "Teacher Name"
+msgstr "fr_FR-Teacher Name"
+
+msgid "Teacher Email"
+msgstr "fr_FR-Teacher Email"
+
+msgid "Teacher Password"
+msgstr "fr_FR-Teacher Password"
+
+msgid "Can Schedule Class"
+msgstr "fr_FR-Can Schedule Class"
+
+msgid "Activate"
+msgstr "fr_FR-Activate"
+
+msgid "Manage Teacher"
+msgstr "fr_FR-Manage Teacher"
+
+msgid "WizIQ Teachers"
+msgstr "fr_FR-WizIQ Teachers"
+
+msgid "Add Teachers"
+msgstr "fr_FR-Add Teachers"
+
+msgid "Select user"
+msgstr "fr_FR-Select user"
+
+msgid "Password"
+msgstr "fr_FR-Password"
+
+msgid "Active"
+msgstr "fr_FR-Active"
+
+msgid "About the teacher"
+msgstr "fr_FR-About the teacher"
+
+msgid "Add Teacher"
+msgstr "fr_FR-Add Teacher"
+
+msgid "Edit this teacher"
+msgstr "fr_FR-Edit this teacher"
+
+msgid "Teacher updated succesffully"
+msgstr "fr_FR-Teacher updated succesffully"
+
+msgid "Teacher added succesffully"
+msgstr "fr_FR-Teacher added succesffully"
+
+msgid "Please enter password"
+msgstr "fr_FR-Please enter password"
+
+msgid "Password length between 6 - 15 character"
+msgstr "fr_FR- Password length between 6 - 15 character"
+
+msgid "Add Course"
+msgstr "fr_FR-Add Course"
+
+msgid "Language of instruction"
+msgstr "fr_FR-Language of instruction"
+
+msgid "Course name"
+msgstr "fr_FR-Course name"
+
+msgid "Start date"
+msgstr "fr_FR-Start Date"
+
+msgid "End date"
+msgstr "fr_FR-End Date"
+
+msgid "My content"
+msgstr "fr_FR-My content"
+
+msgid "Select date"
+msgstr "fr_FR-Select date"
+
+msgid "Class title can't be empty."
+msgstr "fr_FR-Class title can't be empty."
+
+msgid "Start date required."
+msgstr "fr_FR-Start date required."
+
+msgid "Select teacher"
+msgstr "fr_FR-Select teacher"
+
+msgid "Class duration (in minutes )"
+msgstr "fr_FR-Class duration (in minutes )"
+
+msgid "View Recording"
+msgstr "fr_FR-View Recording"
+
+msgid "Time Zone"
+msgstr "fr_FR-Time Zone"
+
+msgid "Select User"
+msgstr "fr_FR-Select User"
+
+msgid "Bulk Actions"
+msgstr "fr_FR-Bulk Actions"
+
+msgid "Add new class"
+msgstr "fr_FR-Add new class"
+
+msgid "Enroll user"
+msgstr "fr_FR-Enroll user"
+
+msgid "Time Zone API URL"
+msgstr "fr_FR-Time Zone API URL"
+
+msgid "Clear"
+msgstr "fr_FR-Clear"
+
+msgid "Manage Course"
+msgstr "fr_FR-Manage Course"
+
+msgid "Add New Class"
+msgstr "fr_FR-Add New Class"
+
+msgid "Class Title"
+msgstr "fr_FR-Class Title"
+
+msgid "Minimum 30 min and maximum 300 min"
+msgstr "fr_FR-Minimum 30 min and maximum 300 min"
+
+msgid "Minimum 30 min and maximum 300 min."
+msgstr "fr_FR-Minimum 30 min and maximum 300 min."
+
+msgid "in minutes"
+msgstr "fr_FR-in minutes"
+
+msgid "Class duration"
+msgstr "fr_FR-Class duration"
+
+msgid "Please select when this class repeats."
+msgstr "fr_FR-Please select when this class repeats."
+
+msgid "Please enter number of classes."
+msgstr "fr_FR-Please enter number of classes."
+
+msgid "Class schedule"
+msgstr "fr_FR-Class schedule"
+
+msgid "Duration"
+msgstr "fr_FR-Duration"
+
+msgid "Language in classroom"
+msgstr "fr_FR-Language in classroom"
+
+msgid "Content name"
+msgstr "fr_FR-Content name"
+
+msgid "Upload file"
+msgstr "fr_FR-Upload file"
+
+msgid "Folder name"
+msgstr "fr_FR-Folder name"
+
+msgid "Please select file to upload."
+msgstr "fr_FR-Please select file to upload."
+
+msgid "The request has been successfully completed."
+msgstr "fr_FR-The request has been successfully completed."
+
+msgid "Not Modified: Operation ok. There was no new data to return."
+msgstr "fr_FR-Not Modified: Operation ok. There was no new data to return."
+
+msgid "Bad Request: The request is invalid. Error messages are returned for explanation purposes."
+msgstr "fr_FR-Bad Request: The request is invalid. Error messages are returned for explanation purposes."
+
+msgid "Not Authorized: The credentials provided are invalid or are needed for the operation."
+msgstr "fr_FR-Not Authorized: The credentials provided are invalid or are needed for the operation."
+
+msgid "Forbidden: The request is refused by the API."
+msgstr "fr_FR-Forbidden: The request is refused by the API."
+
+msgid "Not Found: The resource requested doesn’t exist. Ex: The provided car_id in the url doesn’t exist."
+msgstr "fr_FR-Not Found: The resource requested doesn’t exist. Ex: The provided car_id in the url doesn’t exist."
+
+msgid "Internal Server Error: An unrecoverable error has occurred at server side."
+msgstr "fr_FR-Internal Server Error: An unrecoverable error has occurred at server side."
+
+msgid "Bad Gateway: The API service is down or being upgraded."
+msgstr "fr_FR-Bad Gateway: The API service is down or being upgraded."
+
+msgid "Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+msgstr "fr_FR-Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+
+msgid "There is some error while processing your request."
+msgstr "fr_FR-There is some error while processing your request."
+
+msgid "presenter_id parameter is missing."
+msgstr "fr_FR-presenter_id parameter is missing."
+
+msgid "presenter_name parameter is missing."
+msgstr "fr_FR-presenter_name parameter is missing."
+
+msgid "Specified time_zone parameter is not available."
+msgstr "fr_FR-Specified time_zone parameter is not available."
+
+msgid "start_time parameter cannot precede current datetime."
+msgstr "fr_FR-start_time parameter cannot precede current datetime."
+
+msgid "Invalid start_time parameter."
+msgstr "fr_FR-Invalid start_time parameter."
+
+msgid "time_zone parameter is missing."
+msgstr "fr_FR-time_zone parameter is missing."
+
+msgid "Attendees can be  added only in an upcoming class."
+msgstr "fr_FR-Attendees can be  added only in an upcoming class."
+
+msgid "This class has been cancelled."
+msgstr "fr_FR-This class has been cancelled."
+
+msgid "class_id is invalid."
+msgstr "fr_FR-class_id is invalid."
+
+msgid "duration parameter cannot exceed  #MaxClassMinutes# minutes."
+msgstr "fr_FR-duration parameter cannot exceed  #MaxClassMinutes# minutes."
+
+msgid "attendee_limit parameter cannot exceed #MaxUserPerClass# attendees."
+msgstr "fr_FR-attendee_limit parameter cannot exceed #MaxUserPerClass# attendees."
+
+msgid "Only #MaxConcurrentClass# simultaneous classes are allowed."
+msgstr "fr_FR-Only #MaxConcurrentClass# simultaneous classes are allowed."
+
+msgid "No record found."
+msgstr "fr_FR-No record found."
+
+msgid "title parameter is missing."
+msgstr "fr_FR-title parameter is missing."
+
+msgid "Cannot modify an in-progress class."
+msgstr "fr_FR-Cannot modify an in-progress class."
+
+msgid "Cannot modify a completed class."
+msgstr "fr_FR-Cannot modify a completed class."
+
+msgid "Cannot modify an expired class."
+msgstr "fr_FR-Cannot modify an expired class."
+
+msgid "Cannot modify a deleted class."
+msgstr "fr_FR-Cannot modify a deleted class."
+
+msgid "start_time parameter is missing."
+msgstr "fr_FR-start_time parameter is missing."
+
+msgid "class_id parameter is missing."
+msgstr "fr_FR-class_id parameter is missing."
+
+msgid "attendee_list parameter is missing."
+msgstr "fr_FR-attendee_list parameter is missing."
+
+msgid "Datetime is not in valid format."
+msgstr "fr_FR-Datetime is not in valid format."
+
+msgid "screen_name is missing."
+msgstr "fr_FR-screen_name is missing."
+
+msgid "Please enter folder name."
+msgstr "fr_FR-Please enter folder name."
+
+msgid "Can schedule class"
+msgstr "fr_FR-Can schedule class"
+
+msgid "Teacher name"
+msgstr "fr_FR-Teacher name"
+
+msgid "Edit Teacher"
+msgstr "fr_FR-Edit Teacher"
+
+msgid "Please enter end date."
+msgstr "fr_FR-Please enter end date."
+
+msgid "TEACHER"
+msgstr "fr_FR-TEACHER"
+
+msgid "Class deleted successfully"
+msgstr "fr_FR-Class deleted successfully"
+
+msgid "Please select user from right panel"
+msgstr "fr_FR-Please select user from right panel"
+
+msgid "No classes available for this course"
+msgstr "fr_FR-No classes available for this course"
+
+msgid "required"
+msgstr "fr_FR-required"
+
+msgid "Please select week days."
+msgstr "fr_FR-Please select week days."
+

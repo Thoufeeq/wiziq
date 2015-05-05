@@ -1,0 +1,908 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: my-pluginname 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-06 13:46-0400\n"
+"PO-Revision-Date: 2014-07-31 16:25+0530\n"
+"Last-Translator: Harjodh <harjot@csgroupchd.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "API URL"
+msgstr "pl_PL-API URL"
+
+msgid "Recurring API URL"
+msgstr "pl_PL-Recurring API URL"
+
+msgid "Content URL"
+msgstr "pl_PL-Content URL"
+
+msgid "Access Key"
+msgstr "pl_PL-Access Key"
+
+msgid "Secret Key"
+msgstr "pl_PL-Secret Key"
+
+msgid "Content Language"
+msgstr "pl_PL-Content Language"
+
+msgid "Save Changes"
+msgstr "pl_PL-Save Changes"
+
+msgid "Course Name"
+msgstr "pl_PL-Course Name"
+
+msgid "Short Name"
+msgstr "pl_PL-Short Name"
+
+msgid "Start Date"
+msgstr "pl_PL-Start Date"
+
+msgid "End Date"
+msgstr "pl_PL-End Date"
+
+msgid "Description"
+msgstr "pl_PL-Description"
+
+msgid "Add New Course"
+msgstr "pl_PL-Add New Course"
+
+msgid "Save"
+msgstr "pl_PL-Save"
+
+msgid "WizIQ Courses"
+msgstr "pl_PL-WizIQ Courses"
+
+msgid "Please"
+msgstr "pl_PL-Please"
+
+msgid "Please enter course name."
+msgstr "pl_PL-Please enter course name."
+
+msgid "Please Enter Course Short Name"
+msgstr "pl_PL-Please Enter Course Short Name"
+
+msgid "Cancel"
+msgstr "pl_PL-Cancel"
+
+msgid "WizIQ Credentials"
+msgstr "pl_PL-WizIQ Credentials"
+
+msgid "Course created successfully"
+msgstr "pl_PL-Course created successfully"
+
+msgid "Courses deleted successfully"
+msgstr "pl_PL-Courses deleted successfully"
+
+msgid "Course deleted successfully"
+msgstr "pl_PL-Course deleted successfully"
+
+msgid "and courses"
+msgstr "pl_PL-and courses"
+
+msgid "Apply"
+msgstr "pl_PL-Apply"
+
+msgid "Delete"
+msgstr "pl_PL-Delete"
+
+msgid "Name"
+msgstr "pl_PL-Name"
+
+msgid "Manage Courses"
+msgstr "pl_PL-Manage Courses"
+
+msgid "Created By"
+msgstr "pl_PL-Created By"
+
+msgid "Number of Classes"
+msgstr "pl_PL-Number of Classes"
+
+msgid "View"
+msgstr "pl_PL-View"
+
+msgid "Completed"
+msgstr "pl_PL-Completed"
+
+msgid "Live Class"
+msgstr "pl_PL-Live Class"
+
+msgid "Expired"
+msgstr "pl_PL-Expired"
+
+msgid "View Recurring Classes"
+msgstr "pl_PL-View Recurring Classe"
+
+msgid "Refresh"
+msgstr "pl_PL-Refresh"
+
+msgid "Courses"
+msgstr "pl_PL-Courses"
+
+msgid "Content"
+msgstr "pl_PL-Content"
+
+msgid "Settings"
+msgstr "pl_PL-Settings"
+
+msgid "Edit"
+msgstr "pl_PL-Edit"
+
+msgid "Edit this item"
+msgstr "pl_PL-Edit this item"
+
+msgid "Move this item to the Trash"
+msgstr "pl_PL-Move this item to the Trash"
+
+msgid "Create Class"
+msgstr "pl_PL-Create Class"
+
+msgid "Enroll User"
+msgstr "pl_PL-Enroll User"
+
+msgid "WizIQ Content"
+msgstr "pl_PL-WizIQ Content"
+
+msgid "Upload Content"
+msgstr "pl_PL-Upload Content"
+
+msgid "My Content"
+msgstr "pl_PL-My Content"
+
+msgid "Content Name"
+msgstr "pl_PL-Content Name"
+
+msgid "Type"
+msgstr "pl_PL-Type"
+
+msgid "Inside"
+msgstr "pl_PL-Inside"
+
+msgid "Status"
+msgstr "pl_PL-Status"
+
+msgid "No content available"
+msgstr "pl_PL-No content available"
+
+msgid "Class title"
+msgstr "pl_PL-Class title"
+
+msgid "Class time"
+msgstr "pl_PL-Class time"
+
+msgid "Presenter"
+msgstr "pl_PL-Presenter"
+
+msgid "Attendance Report"
+msgstr "pl_PL-Attendance Report"
+
+msgid "Manage Class"
+msgstr "pl_PL-Manage Class"
+
+msgid "Upcoming"
+msgstr "pl_PL-Upcoming"
+
+msgid "WizIQ Classes"
+msgstr "pl_PL-WizIQ Classes"
+
+msgid "Add Class"
+msgstr "pl_PL-Add Class"
+
+msgid "Back To Courses"
+msgstr "pl_PL-Back To Courses"
+
+msgid "There are no user"
+msgstr "pl_PL-There are no user"
+
+msgid "Add New"
+msgstr "pl_PL-Add New"
+
+msgid "Enroll Users for Course"
+msgstr "pl_PL-Enroll Users for Course"
+
+msgid "General"
+msgstr "pl_PL-General"
+
+msgid "Class Duration (in minutes )"
+msgstr "pl_PL-Class Duration (in minutes )"
+
+msgid "Set Timing of the Class"
+msgstr "pl_PL-Set Timing of the Class"
+
+msgid "Choose Class Method"
+msgstr "Choose Class Method"
+
+msgid "Class Schedule"
+msgstr "pl_PL-Class Schedul"
+
+msgid "Select Date"
+msgstr "pl_PL-Select Date"
+
+msgid "Class Starting Time Date"
+msgstr "pl_PL-Class Starting Time Dat"
+
+msgid "Hours"
+msgstr "pl_PL-Hours"
+
+msgid "Minutes"
+msgstr "pl_PL-Minutes"
+
+msgid "Time zone"
+msgstr "pl_PL-Time zone"
+
+msgid "Repeat by"
+msgstr "pl_PL-Repeat by"
+
+msgid "Date"
+msgstr "pl_PL-Date"
+
+msgid "Day"
+msgstr "pl_PL-Day"
+
+msgid "of every month"
+msgstr "pl_PL-of every month"
+
+msgid "After classes"
+msgstr "pl_PL-After classes"
+
+msgid "On date"
+msgstr "pl_PL-On date"
+
+msgid "Setting of Wiziq Class"
+msgstr "pl_PL-Setting of Wiziq Class"
+
+msgid "Attendee limit in a class"
+msgstr "pl_PL-Attendee limit in a class"
+
+msgid "Record this class"
+msgstr "pl_PL-Record this class"
+
+msgid "Select a language"
+msgstr "pl_PL-Select a language"
+
+msgid "Yes"
+msgstr "pl_PL-Yes"
+
+msgid "No"
+msgstr "pl_PL-No"
+
+msgid "Want to schedule a single class"
+msgstr "pl_PL-Want to schedule a single class"
+
+msgid "Want to schedule a recurring class"
+msgstr "pl_PL-Want to schedule a recurring class"
+
+msgid "Select when class repeats"
+msgstr "pl_PL-Select when class repeats"
+
+msgid "Daily (all 7 Days)"
+msgstr "pl_PL-Daily (all 7 Days)"
+
+msgid "6 Days (Mon-Sat)"
+msgstr "pl_PL-6 Days (Mon-Sat)"
+
+msgid "5 Days (Mon-Fri)"
+msgstr "pl_PL-5 Days (Mon-Fri)"
+
+msgid "Weekly"
+msgstr "pl_PL-Weekly"
+
+msgid "Monthly"
+msgstr "pl_PL-Monthly"
+
+msgid "Please enter duration between 30 to 300 minutes."
+msgstr "pl_PL-Please enter duration between 30 to 300 minutes."
+
+msgid "No users enrolled in this course"
+msgstr "pl_PL-No users enrolled in this course"
+
+msgid "User Name"
+msgstr "pl_PL-User Name"
+
+msgid "Add"
+msgstr "pl_PL-Add"
+
+msgid "Remove"
+msgstr "pl_PL-Remove"
+
+msgid "User Permissions"
+msgstr "pl_PL-User Permissions"
+
+msgid "Download Recording"
+msgstr "pl_PL-Download Recording"
+
+msgid "Minimun 30 min and maximum 300 min"
+msgstr "pl_PL-Minimun 30 min and maximum 300 min"
+
+msgid "Schdelude right now"
+msgstr "pl_PL-Schdelude right now"
+
+msgid "You can add upto 60 classes"
+msgstr "pl_PL-You can add upto 60 classes"
+
+msgid "Please Select Week Days"
+msgstr "pl_PL-Please Select Week Days"
+
+msgid "Please enter number"
+msgstr "pl_PL-Please enter number"
+
+msgid "You can add upto 1000 attendees in a course"
+msgstr "pl_PL-You can add upto 1000 attendees in a course"
+
+msgid "Please enter number of classes"
+msgstr "pl_PL-Please enter number of classes"
+
+msgid "Please enter end date"
+msgstr "pl_PL-Please Enter end date"
+
+msgid "Start date required"
+msgstr "pl_PL-Start date required"
+
+msgid "Class name required"
+msgstr "pl_PL-Class name required"
+
+msgid "Back To Classes"
+msgstr "pl_PL-Back To Classes"
+
+msgid "Class updated successfully"
+msgstr "pl_PL-Class updated successfully"
+
+msgid "Class Detail"
+msgstr "pl_PL-Class Detail"
+
+msgid "Class name"
+msgstr "pl_PL-Class name"
+
+msgid "Teacher"
+msgstr "pl_PL-Teacher"
+
+msgid "You"
+msgstr "pl_PL-You"
+
+msgid "Class status"
+msgstr "pl_PL-Class status"
+
+msgid "Timing of class"
+msgstr "pl_PL-Timing of class"
+
+msgid "Duration (in minutes)"
+msgstr "pl_PL-Duration (in minutes)"
+
+msgid "Language in Classroom"
+msgstr "pl_PL-Language in Classroom"
+
+msgid "Recording opted"
+msgstr "pl_PL-Recording opted"
+
+msgid "Launch Class"
+msgstr "pl_PL-Launch Class"
+
+msgid "Go Back"
+msgstr "pl_PL-Go Back"
+
+msgid "Recording not opted"
+msgstr "pl_PL-Recording not opted"
+
+msgid "View list Of attendees"
+msgstr "pl_PL-View list Of attendees"
+
+msgid "View recording"
+msgstr "pl_PL-View recording"
+
+msgid "Download"
+msgstr "pl_PL-Download"
+
+msgid "Attendee report"
+msgstr "pl_PL-Attendee report"
+
+msgid "Attendee Detail"
+msgstr "pl_PL-Attendee Detail"
+
+msgid "Attendee Name"
+msgstr "pl_PL-Attendee Name"
+
+msgid "Entry Time"
+msgstr "pl_PL-Entry Time"
+
+msgid "Exit Time"
+msgstr "pl_PL-Exit Time"
+
+msgid "Attended Time"
+msgstr "pl_PL-Attended Time"
+
+msgid "Close"
+msgstr "pl_PL-Close"
+
+msgid "Cancelled"
+msgstr "pl_PL-Cancelled"
+
+msgid "Upload content in folder"
+msgstr "pl_PL-Upload content in folder"
+
+msgid "Create Folder"
+msgstr "pl_PL-Create Folder"
+
+msgid "Upload File"
+msgstr "pl_PL-Upload File"
+
+msgid "Allowed file type"
+msgstr "pl_PL-Allowed file type"
+
+msgid "Folder(s)"
+msgstr "pl_PL-Folder(s)"
+
+msgid "File(s)"
+msgstr "pl_PL-File (s)"
+
+msgid "Folder created successfully"
+msgstr "pl_PL-Folder created successfully"
+
+msgid "Inprogress"
+msgstr "pl_PL-Inprogress"
+
+msgid "Schedule for right now"
+msgstr "pl_PL-Schedule for right now"
+
+msgid "There is an error while processing your request please contact to wiziq support"
+msgstr "pl_PL-There is an error while processing your request please contact to wiziq support"
+
+msgid "There is an  error while processing your request please contact to wiziq support or try later"
+msgstr "pl_PL-There is an  error while processing your request please contact to wiziq support or try later"
+
+msgid "Start_time parameter cannot precede current datetime"
+msgstr "pl_PL-Start_time parameter cannot precede current datetime"
+
+msgid "There is  1005 error while processing your request. Invalid start_time parameter"
+msgstr "pl_PL-There is  1005 error while processing your request. Invalid start_time parameter"
+
+msgid "There is  1017 error while processing your request. Cannot modify an expired class"
+msgstr "pl_PL-There is  1017 error while processing your request. Cannot modify an expired class"
+
+msgid "The file type is not allowed"
+msgstr "pl_PL-The file type is not allowed"
+
+msgid "There is  1000 error while processing your request"
+msgstr "pl_PL-There is  1000 error while processing your request"
+
+msgid "Class API URL"
+msgstr "pl_PL-Class API URL"
+
+msgid "Content API URL"
+msgstr "pl_PL-Content API URL"
+
+msgid "VC Language Interface"
+msgstr "pl_PL-VC Language Interface"
+
+msgid " Please Enter Access Key"
+msgstr "pl_PL-Please Enter Access Key"
+
+msgid "Please Enter Secret Key"
+msgstr "pl_PL-Please Enter Secret Key"
+
+msgid "Alias"
+msgstr "pl_PL-Alias"
+
+msgid "You can enter upto 1000 characters."
+msgstr "pl_PL-You can enter upto 1000 characters."
+
+msgid "End date can not be empty"
+msgstr "pl_PL-End date can not be empty"
+
+msgid "End date should be one day greater than start date"
+msgstr "pl_PL-End date should be one day greater than start dat"
+
+msgid "Start date can not be empty"
+msgstr "pl_PL-Start date can not be empty"
+
+msgid "Edit Course"
+msgstr "pl_PL-Edit Course"
+
+msgid "Are you sure, you want to delete!"
+msgstr "pl_PL-Are you sure, you want to delete!"
+
+msgid "Please select classes to delete"
+msgstr "pl_PL-Please select classes to delete"
+
+msgid "Schedule right now"
+msgstr "pl_PL-Schedule right now"
+
+msgid "Schedule and Continue"
+msgstr "pl_PL-Schedule and Continue"
+
+msgid "Class Time"
+msgstr "pl_PL-Class Time"
+
+msgid "Ends"
+msgstr "pl_PL-Ends"
+
+msgid "Week"
+msgstr "pl_PL-Week"
+
+msgid "Repeat every week"
+msgstr "pl_PL-Repeat every week"
+
+msgid "View Classes"
+msgstr "pl_PL-View Classesn"
+
+msgid "Courses List"
+msgstr "pl_PL-Courses List"
+
+msgid "Create Course"
+msgstr "pl_PL-Create Course"
+
+msgid "Delete this course"
+msgstr "pl_PL-Delete this course"
+
+msgid "Edit this course"
+msgstr "pl_PL-Edit this course"
+
+msgid "View complete schedule"
+msgstr "pl_PL-View Complete Schedule"
+
+msgid "Edit this class"
+msgstr "pl_PL-Edit this class"
+
+msgid "Delete this class"
+msgstr "pl_PL-Delete this classe"
+
+msgid "Description not added"
+msgstr "pl_PL-Description not added"
+
+msgid "Start date not mentioned"
+msgstr "pl_PL-Start date not mentioned"
+
+msgid "End date not mentioned"
+msgstr "pl_PL-End date not mentioned"
+
+msgid "No Classes available for this course"
+msgstr "pl_PL-No Classes available for this course"
+
+msgid "Course"
+msgstr "pl_PL-Course"
+
+msgid "Please delete inner classes first"
+msgstr "pl_PL-Please delete inner classes first"
+
+msgid "Recurring classes"
+msgstr "pl_PL-Recurring classes"
+
+msgid "Classes"
+msgstr "pl_PL-Classes"
+
+msgid "ERROR"
+msgstr "pl_PL-ERROR"
+
+msgid "No course available"
+msgstr "pl_PL-No course available"
+
+msgid "Please select courses to delete"
+msgstr "pl_PL-Please select courses to delete"
+
+msgid "Please select content to delete"
+msgstr "pl_PL-Please select content to delete"
+
+msgid "Settings Updated"
+msgstr "pl_PL-Settings Updated"
+
+msgid "Please enter correct access key & secret key"
+msgstr "pl_PL-Please enter correct access key & secret key"
+
+msgid "Are you sure, you want to delete"
+msgstr "pl_PL-Are you sure, you want to delete"
+
+msgid "Please delete inner content first"
+msgstr "pl_PL-Please delete inner content first"
+
+msgid "Content List"
+msgstr "pl_PL-Content List"
+
+msgid "Folder Name"
+msgstr "pl_PL-Folder Name"
+
+msgid "Manage Content"
+msgstr "pl_PL-Manage Content"
+
+msgid "Update"
+msgstr "pl_PL-update"
+
+msgid "Teacher Name"
+msgstr "pl_PL-Teacher Name"
+
+msgid "Teacher Email"
+msgstr "pl_PL-Teacher Email"
+
+msgid "Teacher Password"
+msgstr "pl_PL-Teacher Password"
+
+msgid "Can Schedule Class"
+msgstr "pl_PL-Can Schedule Class"
+
+msgid "Activate"
+msgstr "pl_PL-Activate"
+
+msgid "Manage Teacher"
+msgstr "pl_PL-Manage Teacher"
+
+msgid "WizIQ Teachers"
+msgstr "pl_PL-WizIQ Teachers"
+
+msgid "Add Teachers"
+msgstr "pl_PL-Add Teachers"
+
+msgid "Select user"
+msgstr "pl_PL-Select user"
+
+msgid "Password"
+msgstr "pl_PL-Password"
+
+msgid "Active"
+msgstr "pl_PL-Active"
+
+msgid "About the teacher"
+msgstr "pl_PL-About the teacher"
+
+msgid "Add Teacher"
+msgstr "pl_PL-Add Teacher"
+
+msgid "Edit this teacher"
+msgstr "pl_PL-Edit this teacher"
+
+msgid "Teacher updated succesffully"
+msgstr "pl_PL-Teacher updated succesffully"
+
+msgid "Teacher added succesffully"
+msgstr "pl_PL-Teacher added succesffully"
+
+msgid "Please enter password"
+msgstr "pl_PL-Please enter password"
+
+msgid "Password length between 6 - 15 character"
+msgstr "pl_PL- Password length between 6 - 15 character"
+
+msgid "Add Course"
+msgstr "pl_PL-Add Course"
+
+msgid "Language of instruction"
+msgstr "pl_PL-Language of instruction"
+
+msgid "Course name"
+msgstr "pl_PL-Course name"
+
+msgid "Start date"
+msgstr "pl_PL-Start Date"
+
+msgid "End date"
+msgstr "pl_PL-End Date"
+
+msgid "My content"
+msgstr "pl_PL-My content"
+
+msgid "Select date"
+msgstr "pl_PL-Select date"
+
+msgid "Class title can't be empty."
+msgstr "pl_PL-Class title can't be empty."
+
+msgid "Start date required."
+msgstr "pl_PL-Start date required."
+
+msgid "Select teacher"
+msgstr "pl_PL-Select teacher"
+
+msgid "Class duration (in minutes )"
+msgstr "pl_PL-Class duration (in minutes )"
+
+msgid "View Recording"
+msgstr "pl_PL-View Recording"
+
+msgid "Time Zone"
+msgstr "pl_PL-Time Zone"
+
+msgid "Select User"
+msgstr "pl_PL-Select User"
+
+msgid "Bulk Actions"
+msgstr "pl_PL-Bulk Actions"
+
+msgid "Add new class"
+msgstr "pl_PL-Add new class"
+
+msgid "Enroll user"
+msgstr "pl_PL-Enroll user"
+
+msgid "Time Zone API URL"
+msgstr "pl_PL-Time Zone API URL"
+
+msgid "Clear"
+msgstr "pl_PL-Clear"
+
+msgid "Manage Course"
+msgstr "pl_PL-Manage Course"
+
+msgid "Add New Class"
+msgstr "pl_PL-Add New Class"
+
+msgid "Class Title"
+msgstr "pl_PL-Class Title"
+
+msgid "Minimum 30 min and maximum 300 min"
+msgstr "pl_PL-Minimum 30 min and maximum 300 min"
+
+msgid "Minimum 30 min and maximum 300 min."
+msgstr "pl_PL-Minimum 30 min and maximum 300 min."
+
+msgid "in minutes"
+msgstr "pl_PL-in minutes"
+
+msgid "Class duration"
+msgstr "pl_PL-Class duration"
+
+msgid "Please select when this class repeats."
+msgstr "pl_PL-Please select when this class repeats."
+
+msgid "Please enter number of classes."
+msgstr "pl_PL-Please enter number of classes."
+
+msgid "Class schedule"
+msgstr "pl_PL-Class schedule"
+
+msgid "Duration"
+msgstr "pl_PL-Duration"
+
+msgid "Language in classroom"
+msgstr "pl_PL-Language in classroom"
+
+msgid "Content name"
+msgstr "pl_PL-Content name"
+
+msgid "Upload file"
+msgstr "pl_PL-Upload file"
+
+msgid "Folder name"
+msgstr "pl_PL-Folder name"
+
+msgid "Please select file to upload."
+msgstr "pl_PL-Please select file to upload."
+
+msgid "The request has been successfully completed."
+msgstr "pl_PL-The request has been successfully completed."
+
+msgid "Not Modified: Operation ok. There was no new data to return."
+msgstr "pl_PL-Not Modified: Operation ok. There was no new data to return."
+
+msgid "Bad Request: The request is invalid. Error messages are returned for explanation purposes."
+msgstr "pl_PL-Bad Request: The request is invalid. Error messages are returned for explanation purposes."
+
+msgid "Not Authorized: The credentials provided are invalid or are needed for the operation."
+msgstr "pl_PL-Not Authorized: The credentials provided are invalid or are needed for the operation."
+
+msgid "Forbidden: The request is refused by the API."
+msgstr "pl_PL-Forbidden: The request is refused by the API."
+
+msgid "Not Found: The resource requested doesn’t exist. Ex: The provided car_id in the url doesn’t exist."
+msgstr "pl_PL-Not Found: The resource requested doesn’t exist. Ex: The provided car_id in the url doesn’t exist."
+
+msgid "Internal Server Error: An unrecoverable error has occurred at server side."
+msgstr "pl_PL-Internal Server Error: An unrecoverable error has occurred at server side."
+
+msgid "Bad Gateway: The API service is down or being upgraded."
+msgstr "pl_PL-Bad Gateway: The API service is down or being upgraded."
+
+msgid "Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+msgstr "pl_PL-Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+
+msgid "There is some error while processing your request."
+msgstr "pl_PL-There is some error while processing your request."
+
+msgid "presenter_id parameter is missing."
+msgstr "pl_PL-presenter_id parameter is missing."
+
+msgid "presenter_name parameter is missing."
+msgstr "pl_PL-presenter_name parameter is missing."
+
+msgid "Specified time_zone parameter is not available."
+msgstr "pl_PL-Specified time_zone parameter is not available."
+
+msgid "start_time parameter cannot precede current datetime."
+msgstr "pl_PL-start_time parameter cannot precede current datetime."
+
+msgid "Invalid start_time parameter."
+msgstr "pl_PL-Invalid start_time parameter."
+
+msgid "time_zone parameter is missing."
+msgstr "pl_PL-time_zone parameter is missing."
+
+msgid "Attendees can be  added only in an upcoming class."
+msgstr "pl_PL-Attendees can be  added only in an upcoming class."
+
+msgid "This class has been cancelled."
+msgstr "pl_PL-This class has been cancelled."
+
+msgid "class_id is invalid."
+msgstr "pl_PL-class_id is invalid."
+
+msgid "duration parameter cannot exceed  #MaxClassMinutes# minutes."
+msgstr "pl_PL-duration parameter cannot exceed  #MaxClassMinutes# minutes."
+
+msgid "attendee_limit parameter cannot exceed #MaxUserPerClass# attendees."
+msgstr "pl_PL-attendee_limit parameter cannot exceed #MaxUserPerClass# attendees."
+
+msgid "Only #MaxConcurrentClass# simultaneous classes are allowed."
+msgstr "pl_PL-Only #MaxConcurrentClass# simultaneous classes are allowed."
+
+msgid "No record found."
+msgstr "pl_PL-No record found."
+
+msgid "title parameter is missing."
+msgstr "pl_PL-title parameter is missing."
+
+msgid "Cannot modify an in-progress class."
+msgstr "pl_PL-Cannot modify an in-progress class."
+
+msgid "Cannot modify a completed class."
+msgstr "pl_PL-Cannot modify a completed class."
+
+msgid "Cannot modify an expired class."
+msgstr "pl_PL-Cannot modify an expired class."
+
+msgid "Cannot modify a deleted class."
+msgstr "pl_PL-Cannot modify a deleted class."
+
+msgid "start_time parameter is missing."
+msgstr "pl_PL-start_time parameter is missing."
+
+msgid "class_id parameter is missing."
+msgstr "pl_PL-class_id parameter is missing."
+
+msgid "attendee_list parameter is missing."
+msgstr "pl_PL-attendee_list parameter is missing."
+
+msgid "Datetime is not in valid format."
+msgstr "pl_PL-Datetime is not in valid format."
+
+msgid "screen_name is missing."
+msgstr "pl_PL-screen_name is missing."
+
+msgid "Please enter folder name."
+msgstr "pl_PL-Please enter folder name."
+
+msgid "Can schedule class"
+msgstr "pl_PL-Can schedule class"
+
+msgid "Teacher name"
+msgstr "pl_PL-Teacher name"
+
+msgid "Edit Teacher"
+msgstr "pl_PL-Edit Teacher"
+
+msgid "Please enter end date."
+msgstr "pl_PL-Please enter end date."
+
+msgid "TEACHER"
+msgstr "pl_PL-TEACHER"
+
+msgid "Class deleted successfully"
+msgstr "pl_PL-Class deleted successfully"
+
+msgid "Please select user from right panel"
+msgstr "pl_PL-Please select user from right panel"
+
+msgid "No classes available for this course"
+msgstr "pl_PL-No classes available for this course"
+
+msgid "required"
+msgstr "pl_PL-required"
+
+msgid "Please select week days."
+msgstr "pl_PL-Please select week days."
+

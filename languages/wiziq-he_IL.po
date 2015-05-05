@@ -1,0 +1,908 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: my-pluginname 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-06 13:46-0400\n"
+"PO-Revision-Date: 2014-07-31 15:59+0530\n"
+"Last-Translator: Harjodh <harjot@csgroupchd.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "API URL"
+msgstr "he_IL-API URL"
+
+msgid "Recurring API URL"
+msgstr "he_IL-Recurring API URL"
+
+msgid "Content URL"
+msgstr "he_IL-Content URL"
+
+msgid "Access Key"
+msgstr "he_IL-Access Key"
+
+msgid "Secret Key"
+msgstr "he_IL-Secret Key"
+
+msgid "Content Language"
+msgstr "he_IL-Content Language"
+
+msgid "Save Changes"
+msgstr "he_IL-Save Changes"
+
+msgid "Course Name"
+msgstr "he_IL-Course Name"
+
+msgid "Short Name"
+msgstr "he_IL-Short Name"
+
+msgid "Start Date"
+msgstr "he_IL-Start Date"
+
+msgid "End Date"
+msgstr "he_IL-End Date"
+
+msgid "Description"
+msgstr "he_IL-Description"
+
+msgid "Add New Course"
+msgstr "he_IL-Add New Course"
+
+msgid "Save"
+msgstr "he_IL-Save"
+
+msgid "WizIQ Courses"
+msgstr "he_IL-WizIQ Courses"
+
+msgid "Please"
+msgstr "he_IL-Please"
+
+msgid "Please enter course name."
+msgstr "he_IL-Please enter course name."
+
+msgid "Please Enter Course Short Name"
+msgstr "he_IL-Please Enter Course Short Name"
+
+msgid "Cancel"
+msgstr "he_IL-Cancel"
+
+msgid "WizIQ Credentials"
+msgstr "he_IL-WizIQ Credentials"
+
+msgid "Course created successfully"
+msgstr "he_IL-Course created successfully"
+
+msgid "Courses deleted successfully"
+msgstr "he_IL-Courses deleted successfully"
+
+msgid "Course deleted successfully"
+msgstr "he_IL-Course deleted successfully"
+
+msgid "and courses"
+msgstr "he_IL-and courses"
+
+msgid "Apply"
+msgstr "he_IL-Apply"
+
+msgid "Delete"
+msgstr "he_IL-Delete"
+
+msgid "Name"
+msgstr "he_IL-Name"
+
+msgid "Manage Courses"
+msgstr "he_IL-Manage Courses"
+
+msgid "Created By"
+msgstr "he_IL-Created By"
+
+msgid "Number of Classes"
+msgstr "he_IL-Number of Classes"
+
+msgid "View"
+msgstr "he_IL-View"
+
+msgid "Completed"
+msgstr "he_IL-Completed"
+
+msgid "Live Class"
+msgstr "he_IL-Live Class"
+
+msgid "Expired"
+msgstr "he_IL-Expired"
+
+msgid "View Recurring Classes"
+msgstr "he_IL-View Recurring Classe"
+
+msgid "Refresh"
+msgstr "he_IL-Refresh"
+
+msgid "Courses"
+msgstr "he_IL-Courses"
+
+msgid "Content"
+msgstr "he_IL-Content"
+
+msgid "Settings"
+msgstr "he_IL-Settings"
+
+msgid "Edit"
+msgstr "he_IL-Edit"
+
+msgid "Edit this item"
+msgstr "he_IL-Edit this item"
+
+msgid "Move this item to the Trash"
+msgstr "he_IL-Move this item to the Trash"
+
+msgid "Create Class"
+msgstr "he_IL-Create Class"
+
+msgid "Enroll User"
+msgstr "he_IL-Enroll User"
+
+msgid "WizIQ Content"
+msgstr "he_IL-WizIQ Content"
+
+msgid "Upload Content"
+msgstr "he_IL-Upload Content"
+
+msgid "My Content"
+msgstr "he_IL-My Content"
+
+msgid "Content Name"
+msgstr "he_IL-Content Name"
+
+msgid "Type"
+msgstr "he_IL-Type"
+
+msgid "Inside"
+msgstr "he_IL-Inside"
+
+msgid "Status"
+msgstr "he_IL-Status"
+
+msgid "No content available"
+msgstr "he_IL-No content available"
+
+msgid "Class title"
+msgstr "he_IL-Class title"
+
+msgid "Class time"
+msgstr "he_IL-Class time"
+
+msgid "Presenter"
+msgstr "he_IL-Presenter"
+
+msgid "Attendance Report"
+msgstr "he_IL-Attendance Report"
+
+msgid "Manage Class"
+msgstr "he_IL-Manage Class"
+
+msgid "Upcoming"
+msgstr "he_IL-Upcoming"
+
+msgid "WizIQ Classes"
+msgstr "he_IL-WizIQ Classes"
+
+msgid "Add Class"
+msgstr "he_IL-Add Class"
+
+msgid "Back To Courses"
+msgstr "he_IL-Back To Courses"
+
+msgid "There are no user"
+msgstr "he_IL-There are no user"
+
+msgid "Add New"
+msgstr "he_IL-Add New"
+
+msgid "Enroll Users for Course"
+msgstr "he_IL-Enroll Users for Course"
+
+msgid "General"
+msgstr "he_IL-General"
+
+msgid "Class Duration (in minutes )"
+msgstr "he_IL-Class Duration (in minutes )"
+
+msgid "Set Timing of the Class"
+msgstr "he_IL-Set Timing of the Class"
+
+msgid "Choose Class Method"
+msgstr "Choose Class Method"
+
+msgid "Class Schedule"
+msgstr "he_IL-Class Schedul"
+
+msgid "Select Date"
+msgstr "he_IL-Select Date"
+
+msgid "Class Starting Time Date"
+msgstr "he_IL-Class Starting Time Dat"
+
+msgid "Hours"
+msgstr "he_IL-Hours"
+
+msgid "Minutes"
+msgstr "he_IL-Minutes"
+
+msgid "Time zone"
+msgstr "he_IL-Time zone"
+
+msgid "Repeat by"
+msgstr "he_IL-Repeat by"
+
+msgid "Date"
+msgstr "he_IL-Date"
+
+msgid "Day"
+msgstr "he_IL-Day"
+
+msgid "of every month"
+msgstr "he_IL-of every month"
+
+msgid "After classes"
+msgstr "he_IL-After classes"
+
+msgid "On date"
+msgstr "he_IL-On date"
+
+msgid "Setting of Wiziq Class"
+msgstr "he_IL-Setting of Wiziq Class"
+
+msgid "Attendee limit in a class"
+msgstr "he_IL-Attendee limit in a class"
+
+msgid "Record this class"
+msgstr "he_IL-Record this class"
+
+msgid "Select a language"
+msgstr "he_IL-Select a language"
+
+msgid "Yes"
+msgstr "he_IL-Yes"
+
+msgid "No"
+msgstr "he_IL-No"
+
+msgid "Want to schedule a single class"
+msgstr "he_IL-Want to schedule a single class"
+
+msgid "Want to schedule a recurring class"
+msgstr "he_IL-Want to schedule a recurring class"
+
+msgid "Select when class repeats"
+msgstr "he_IL-Select when class repeats"
+
+msgid "Daily (all 7 Days)"
+msgstr "he_IL-Daily (all 7 Days)"
+
+msgid "6 Days (Mon-Sat)"
+msgstr "he_IL-6 Days (Mon-Sat)"
+
+msgid "5 Days (Mon-Fri)"
+msgstr "he_IL-5 Days (Mon-Fri)"
+
+msgid "Weekly"
+msgstr "he_IL-Weekly"
+
+msgid "Monthly"
+msgstr "he_IL-Monthly"
+
+msgid "Please enter duration between 30 to 300 minutes."
+msgstr "he_IL-Please enter duration between 30 to 300 minutes."
+
+msgid "No users enrolled in this course"
+msgstr "he_IL-No users enrolled in this course"
+
+msgid "User Name"
+msgstr "he_IL-User Name"
+
+msgid "Add"
+msgstr "he_IL-Add"
+
+msgid "Remove"
+msgstr "he_IL-Remove"
+
+msgid "User Permissions"
+msgstr "he_IL-User Permissions"
+
+msgid "Download Recording"
+msgstr "he_IL-Download Recording"
+
+msgid "Minimun 30 min and maximum 300 min"
+msgstr "he_IL-Minimun 30 min and maximum 300 min"
+
+msgid "Schdelude right now"
+msgstr "he_IL-Schdelude right now"
+
+msgid "You can add upto 60 classes"
+msgstr "he_IL-You can add upto 60 classes"
+
+msgid "Please Select Week Days"
+msgstr "he_IL-Please Select Week Days"
+
+msgid "Please enter number"
+msgstr "he_IL-Please enter number"
+
+msgid "You can add upto 1000 attendees in a course"
+msgstr "he_IL-You can add upto 1000 attendees in a course"
+
+msgid "Please enter number of classes"
+msgstr "he_IL-Please enter number of classes"
+
+msgid "Please enter end date"
+msgstr "he_IL-Please Enter end date"
+
+msgid "Start date required"
+msgstr "he_IL-Start date required"
+
+msgid "Class name required"
+msgstr "he_IL-Class name required"
+
+msgid "Back To Classes"
+msgstr "he_IL-Back To Classes"
+
+msgid "Class updated successfully"
+msgstr "he_IL-Class updated successfully"
+
+msgid "Class Detail"
+msgstr "he_IL-Class Detail"
+
+msgid "Class name"
+msgstr "he_IL-Class name"
+
+msgid "Teacher"
+msgstr "he_IL-Teacher"
+
+msgid "You"
+msgstr "he_IL-You"
+
+msgid "Class status"
+msgstr "he_IL-Class status"
+
+msgid "Timing of class"
+msgstr "he_IL-Timing of class"
+
+msgid "Duration (in minutes)"
+msgstr "he_IL-Duration (in minutes)"
+
+msgid "Language in Classroom"
+msgstr "he_IL-Language in Classroom"
+
+msgid "Recording opted"
+msgstr "he_IL-Recording opted"
+
+msgid "Launch Class"
+msgstr "he_IL-Launch Class"
+
+msgid "Go Back"
+msgstr "he_IL-Go Back"
+
+msgid "Recording not opted"
+msgstr "he_IL-Recording not opted"
+
+msgid "View list Of attendees"
+msgstr "he_IL-View list Of attendees"
+
+msgid "View recording"
+msgstr "he_IL-View recording"
+
+msgid "Download"
+msgstr "he_IL-Download"
+
+msgid "Attendee report"
+msgstr "he_IL-Attendee report"
+
+msgid "Attendee Detail"
+msgstr "he_IL-Attendee Detail"
+
+msgid "Attendee Name"
+msgstr "he_IL-Attendee Name"
+
+msgid "Entry Time"
+msgstr "he_IL-Entry Time"
+
+msgid "Exit Time"
+msgstr "he_IL-Exit Time"
+
+msgid "Attended Time"
+msgstr "he_IL-Attended Time"
+
+msgid "Close"
+msgstr "he_IL-Close"
+
+msgid "Cancelled"
+msgstr "he_IL-Cancelled"
+
+msgid "Upload content in folder"
+msgstr "he_IL-Upload content in folder"
+
+msgid "Create Folder"
+msgstr "he_IL-Create Folder"
+
+msgid "Upload File"
+msgstr "he_IL-Upload File"
+
+msgid "Allowed file type"
+msgstr "he_IL-Allowed file type"
+
+msgid "Folder(s)"
+msgstr "he_IL-Folder(s)"
+
+msgid "File(s)"
+msgstr "he_IL-File (s)"
+
+msgid "Folder created successfully"
+msgstr "he_IL-Folder created successfully"
+
+msgid "Inprogress"
+msgstr "he_IL-Inprogress"
+
+msgid "Schedule for right now"
+msgstr "he_IL-Schedule for right now"
+
+msgid "There is an error while processing your request please contact to wiziq support"
+msgstr "he_IL-There is an error while processing your request please contact to wiziq support"
+
+msgid "There is an  error while processing your request please contact to wiziq support or try later"
+msgstr "he_IL-There is an  error while processing your request please contact to wiziq support or try later"
+
+msgid "Start_time parameter cannot precede current datetime"
+msgstr "he_IL-Start_time parameter cannot precede current datetime"
+
+msgid "There is  1005 error while processing your request. Invalid start_time parameter"
+msgstr "he_IL-There is  1005 error while processing your request. Invalid start_time parameter"
+
+msgid "There is  1017 error while processing your request. Cannot modify an expired class"
+msgstr "he_IL-There is  1017 error while processing your request. Cannot modify an expired class"
+
+msgid "The file type is not allowed"
+msgstr "he_IL-The file type is not allowed"
+
+msgid "There is  1000 error while processing your request"
+msgstr "he_IL-There is  1000 error while processing your request"
+
+msgid "Class API URL"
+msgstr "he_IL-Class API URL"
+
+msgid "Content API URL"
+msgstr "he_IL-Content API URL"
+
+msgid "VC Language Interface"
+msgstr "he_IL-VC Language Interface"
+
+msgid " Please Enter Access Key"
+msgstr "he_IL-Please Enter Access Key"
+
+msgid "Please Enter Secret Key"
+msgstr "he_IL-Please Enter Secret Key"
+
+msgid "Alias"
+msgstr "he_IL-Alias"
+
+msgid "You can enter upto 1000 characters."
+msgstr "he_IL-You can enter upto 1000 characters."
+
+msgid "End date can not be empty"
+msgstr "he_IL-End date can not be empty"
+
+msgid "End date should be one day greater than start date"
+msgstr "he_IL-End date should be one day greater than start dat"
+
+msgid "Start date can not be empty"
+msgstr "he_IL-Start date can not be empty"
+
+msgid "Edit Course"
+msgstr "he_IL-Edit Course"
+
+msgid "Are you sure, you want to delete!"
+msgstr "he_IL-Are you sure, you want to delete!"
+
+msgid "Please select classes to delete"
+msgstr "he_IL-Please select classes to delete"
+
+msgid "Schedule right now"
+msgstr "he_IL-Schedule right now"
+
+msgid "Schedule and Continue"
+msgstr "he_IL-Schedule and Continue"
+
+msgid "Class Time"
+msgstr "he_IL-Class Time"
+
+msgid "Ends"
+msgstr "he_IL-Ends"
+
+msgid "Week"
+msgstr "he_IL-Week"
+
+msgid "Repeat every week"
+msgstr "he_IL-Repeat every week"
+
+msgid "View Classes"
+msgstr "he_IL-View Classesn"
+
+msgid "Courses List"
+msgstr "he_IL-Courses List"
+
+msgid "Create Course"
+msgstr "he_IL-Create Course"
+
+msgid "Delete this course"
+msgstr "he_IL-Delete this course"
+
+msgid "Edit this course"
+msgstr "he_IL-Edit this course"
+
+msgid "View complete schedule"
+msgstr "he_IL-View Complete Schedule"
+
+msgid "Edit this class"
+msgstr "he_IL-Edit this class"
+
+msgid "Delete this class"
+msgstr "he_IL-Delete this classe"
+
+msgid "Description not added"
+msgstr "he_IL-Description not added"
+
+msgid "Start date not mentioned"
+msgstr "he_IL-Start date not mentioned"
+
+msgid "End date not mentioned"
+msgstr "he_IL-End date not mentioned"
+
+msgid "No Classes available for this course"
+msgstr "he_IL-No Classes available for this course"
+
+msgid "Course"
+msgstr "he_IL-Course"
+
+msgid "Please delete inner classes first"
+msgstr "he_IL-Please delete inner classes first"
+
+msgid "Recurring classes"
+msgstr "he_IL-Recurring classes"
+
+msgid "Classes"
+msgstr "he_IL-Classes"
+
+msgid "ERROR"
+msgstr "he_IL-ERROR"
+
+msgid "No course available"
+msgstr "he_IL-No course available"
+
+msgid "Please select courses to delete"
+msgstr "he_IL-Please select courses to delete"
+
+msgid "Please select content to delete"
+msgstr "he_IL-Please select content to delete"
+
+msgid "Settings Updated"
+msgstr "he_IL-Settings Updated"
+
+msgid "Please enter correct access key & secret key"
+msgstr "he_IL-Please enter correct access key & secret key"
+
+msgid "Are you sure, you want to delete"
+msgstr "he_IL-Are you sure, you want to delete"
+
+msgid "Please delete inner content first"
+msgstr "he_IL-Please delete inner content first"
+
+msgid "Content List"
+msgstr "he_IL-Content List"
+
+msgid "Folder Name"
+msgstr "he_IL-Folder Name"
+
+msgid "Manage Content"
+msgstr "he_IL-Manage Content"
+
+msgid "Update"
+msgstr "he_IL-update"
+
+msgid "Teacher Name"
+msgstr "he_IL-Teacher Name"
+
+msgid "Teacher Email"
+msgstr "he_IL-Teacher Email"
+
+msgid "Teacher Password"
+msgstr "he_IL-Teacher Password"
+
+msgid "Can Schedule Class"
+msgstr "he_IL-Can Schedule Class"
+
+msgid "Activate"
+msgstr "he_IL-Activate"
+
+msgid "Manage Teacher"
+msgstr "he_IL-Manage Teacher"
+
+msgid "WizIQ Teachers"
+msgstr "he_IL-WizIQ Teachers"
+
+msgid "Add Teachers"
+msgstr "he_IL-Add Teachers"
+
+msgid "Select user"
+msgstr "he_IL-Select user"
+
+msgid "Password"
+msgstr "he_IL-Password"
+
+msgid "Active"
+msgstr "he_IL-Active"
+
+msgid "About the teacher"
+msgstr "he_IL-About the teacher"
+
+msgid "Add Teacher"
+msgstr "he_IL-Add Teacher"
+
+msgid "Edit this teacher"
+msgstr "he_IL-Edit this teacher"
+
+msgid "Teacher updated succesffully"
+msgstr "he_IL-Teacher updated succesffully"
+
+msgid "Teacher added succesffully"
+msgstr "he_IL-Teacher added succesffully"
+
+msgid "Please enter password"
+msgstr "he_IL-Please enter password"
+
+msgid "Password length between 6 - 15 character"
+msgstr "he_IL- Password length between 6 - 15 character"
+
+msgid "Add Course"
+msgstr "he_IL-Add Course"
+
+msgid "Language of instruction"
+msgstr "he_IL-Language of instruction"
+
+msgid "Course name"
+msgstr "he_IL-Course name"
+
+msgid "Start date"
+msgstr "he_IL-Start Date"
+
+msgid "End date"
+msgstr "he_IL-End Date"
+
+msgid "My content"
+msgstr "he_IL-My content"
+
+msgid "Select date"
+msgstr "he_IL-Select date"
+
+msgid "Class title can't be empty."
+msgstr "he_IL-Class title can't be empty."
+
+msgid "Start date required."
+msgstr "he_IL-Start date required."
+
+msgid "Select teacher"
+msgstr "he_IL-Select teacher"
+
+msgid "Class duration (in minutes )"
+msgstr "he_IL-Class duration (in minutes )"
+
+msgid "View Recording"
+msgstr "he_IL-View Recording"
+
+msgid "Time Zone"
+msgstr "he_IL-Time Zone"
+
+msgid "Select User"
+msgstr "he_IL-Select User"
+
+msgid "Bulk Actions"
+msgstr "he_IL-Bulk Actions"
+
+msgid "Add new class"
+msgstr "he_IL-Add new class"
+
+msgid "Enroll user"
+msgstr "he_IL-Enroll user"
+
+msgid "Time Zone API URL"
+msgstr "he_IL-Time Zone API URL"
+
+msgid "Clear"
+msgstr "he_IL-Clear"
+
+msgid "Manage Course"
+msgstr "he_IL-Manage Course"
+
+msgid "Add New Class"
+msgstr "he_IL-Add New Class"
+
+msgid "Class Title"
+msgstr "he_IL-Class Title"
+
+msgid "Minimum 30 min and maximum 300 min"
+msgstr "he_IL-Minimum 30 min and maximum 300 min"
+
+msgid "Minimum 30 min and maximum 300 min."
+msgstr "he_IL-Minimum 30 min and maximum 300 min."
+
+msgid "in minutes"
+msgstr "he_IL-in minutes"
+
+msgid "Class duration"
+msgstr "he_IL-Class duration"
+
+msgid "Please select when this class repeats."
+msgstr "he_IL-Please select when this class repeats."
+
+msgid "Please enter number of classes."
+msgstr "he_IL-Please enter number of classes."
+
+msgid "Class schedule"
+msgstr "he_IL-Class schedule"
+
+msgid "Duration"
+msgstr "he_IL-Duration"
+
+msgid "Language in classroom"
+msgstr "he_IL-Language in classroom"
+
+msgid "Content name"
+msgstr "he_IL-Content name"
+
+msgid "Upload file"
+msgstr "he_IL-Upload file"
+
+msgid "Folder name"
+msgstr "he_IL-Folder name"
+
+msgid "Please select file to upload."
+msgstr "he_IL-Please select file to upload."
+
+msgid "The request has been successfully completed."
+msgstr "he_IL-The request has been successfully completed."
+
+msgid "Not Modified: Operation ok. There was no new data to return."
+msgstr "he_IL-Not Modified: Operation ok. There was no new data to return."
+
+msgid "Bad Request: The request is invalid. Error messages are returned for explanation purposes."
+msgstr "he_IL-Bad Request: The request is invalid. Error messages are returned for explanation purposes."
+
+msgid "Not Authorized: The credentials provided are invalid or are needed for the operation."
+msgstr "he_IL-Not Authorized: The credentials provided are invalid or are needed for the operation."
+
+msgid "Forbidden: The request is refused by the API."
+msgstr "he_IL-Forbidden: The request is refused by the API."
+
+msgid "Not Found: The resource requested doesn’t exist. Ex: The provided car_id in the url doesn’t exist."
+msgstr "he_IL-Not Found: The resource requested doesn’t exist. Ex: The provided car_id in the url doesn’t exist."
+
+msgid "Internal Server Error: An unrecoverable error has occurred at server side."
+msgstr "he_IL-Internal Server Error: An unrecoverable error has occurred at server side."
+
+msgid "Bad Gateway: The API service is down or being upgraded."
+msgstr "he_IL-Bad Gateway: The API service is down or being upgraded."
+
+msgid "Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+msgstr "he_IL-Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+
+msgid "There is some error while processing your request."
+msgstr "he_IL-There is some error while processing your request."
+
+msgid "presenter_id parameter is missing."
+msgstr "he_IL-presenter_id parameter is missing."
+
+msgid "presenter_name parameter is missing."
+msgstr "he_IL-presenter_name parameter is missing."
+
+msgid "Specified time_zone parameter is not available."
+msgstr "he_IL-Specified time_zone parameter is not available."
+
+msgid "start_time parameter cannot precede current datetime."
+msgstr "he_IL-start_time parameter cannot precede current datetime."
+
+msgid "Invalid start_time parameter."
+msgstr "he_IL-Invalid start_time parameter."
+
+msgid "time_zone parameter is missing."
+msgstr "he_IL-time_zone parameter is missing."
+
+msgid "Attendees can be  added only in an upcoming class."
+msgstr "he_IL-Attendees can be  added only in an upcoming class."
+
+msgid "This class has been cancelled."
+msgstr "he_IL-This class has been cancelled."
+
+msgid "class_id is invalid."
+msgstr "he_IL-class_id is invalid."
+
+msgid "duration parameter cannot exceed  #MaxClassMinutes# minutes."
+msgstr "he_IL-duration parameter cannot exceed  #MaxClassMinutes# minutes."
+
+msgid "attendee_limit parameter cannot exceed #MaxUserPerClass# attendees."
+msgstr "he_IL-attendee_limit parameter cannot exceed #MaxUserPerClass# attendees."
+
+msgid "Only #MaxConcurrentClass# simultaneous classes are allowed."
+msgstr "he_IL-Only #MaxConcurrentClass# simultaneous classes are allowed."
+
+msgid "No record found."
+msgstr "he_IL-No record found."
+
+msgid "title parameter is missing."
+msgstr "he_IL-title parameter is missing."
+
+msgid "Cannot modify an in-progress class."
+msgstr "he_IL-Cannot modify an in-progress class."
+
+msgid "Cannot modify a completed class."
+msgstr "he_IL-Cannot modify a completed class."
+
+msgid "Cannot modify an expired class."
+msgstr "he_IL-Cannot modify an expired class."
+
+msgid "Cannot modify a deleted class."
+msgstr "he_IL-Cannot modify a deleted class."
+
+msgid "start_time parameter is missing."
+msgstr "he_IL-start_time parameter is missing."
+
+msgid "class_id parameter is missing."
+msgstr "he_IL-class_id parameter is missing."
+
+msgid "attendee_list parameter is missing."
+msgstr "he_IL-attendee_list parameter is missing."
+
+msgid "Datetime is not in valid format."
+msgstr "he_IL-Datetime is not in valid format."
+
+msgid "screen_name is missing."
+msgstr "he_IL-screen_name is missing."
+
+msgid "Please enter folder name."
+msgstr "he_IL-Please enter folder name."
+
+msgid "Can schedule class"
+msgstr "he_IL-Can schedule class"
+
+msgid "Teacher name"
+msgstr "he_IL-Teacher name"
+
+msgid "Edit Teacher"
+msgstr "he_IL-Edit Teacher"
+
+msgid "Please enter end date."
+msgstr "he_IL-Please enter end date."
+
+msgid "TEACHER"
+msgstr "he_IL-TEACHER"
+
+msgid "Class deleted successfully"
+msgstr "he_IL-Class deleted successfully"
+
+msgid "Please select user from right panel"
+msgstr "he_IL-Please select user from right panel"
+
+msgid "No classes available for this course"
+msgstr "he_IL-No classes available for this course"
+
+msgid "required"
+msgstr "he_IL-required"
+
+msgid "Please select week days."
+msgstr "he_IL-Please select week days."
+

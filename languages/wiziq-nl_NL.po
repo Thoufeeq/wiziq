@@ -1,0 +1,909 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: my-pluginname 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-06 13:46-0400\n"
+"PO-Revision-Date: 2014-07-24 13:24+0530\n"
+"Last-Translator: Gaurav <gvats@csgroupchd.com>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "API URL"
+msgstr "nl_NL-API URL"
+
+msgid "Recurring API URL"
+msgstr "nl_NL-Recurring API URL"
+
+msgid "Content URL"
+msgstr "nl_NL-Content URL"
+
+msgid "Access Key"
+msgstr "nl_NL-Access Key"
+
+msgid "Secret Key"
+msgstr "nl_NL-Secret Key"
+
+msgid "Content Language"
+msgstr "nl_NL-Content Language"
+
+msgid "Save Changes"
+msgstr "nl_NL-Save Changes"
+
+msgid "Course Name"
+msgstr "nl_NL-Course Name"
+
+msgid "Short Name"
+msgstr "nl_NL-Short Name"
+
+msgid "Start Date"
+msgstr "nl_NL-Start Date"
+
+msgid "End Date"
+msgstr "nl_NL-End Date"
+
+msgid "Description"
+msgstr "nl_NL-Description"
+
+msgid "Add New Course"
+msgstr "nl_NL-Add New Course"
+
+msgid "Save"
+msgstr "nl_NL-Save"
+
+msgid "WizIQ Courses"
+msgstr "nl_NL-WizIQ Courses"
+
+msgid "Please"
+msgstr "nl_NL-Please"
+
+msgid "Please enter course name."
+msgstr "nl_NL-Please enter course name."
+
+msgid "Please Enter Course Short Name"
+msgstr "nl_NL-Please Enter Course Short Name"
+
+msgid "Cancel"
+msgstr "nl_NL-Cancel"
+
+msgid "WizIQ Credentials"
+msgstr "nl_NL-WizIQ Credentials"
+
+msgid "Course created successfully"
+msgstr "nl_NL-Course created successfully"
+
+msgid "Courses deleted successfully"
+msgstr "nl_NL-Courses deleted successfully"
+
+msgid "Course deleted successfully"
+msgstr "nl_NL-Course deleted successfully"
+
+msgid "and courses"
+msgstr "nl_NL-and courses"
+
+msgid "Apply"
+msgstr "nl_NL-Apply"
+
+msgid "Delete"
+msgstr "nl_NL-Delete"
+
+msgid "Name"
+msgstr "nl_NL-Name"
+
+msgid "Manage Courses"
+msgstr "nl_NL-Manage Courses"
+
+msgid "Created By"
+msgstr "nl_NL-Created By"
+
+msgid "Number of Classes"
+msgstr "nl_NL-Number of Classes"
+
+msgid "View"
+msgstr "nl_NL-View"
+
+msgid "Completed"
+msgstr "nl_NL-Completed"
+
+msgid "Live Class"
+msgstr "nl_NL-Live Class"
+
+msgid "Expired"
+msgstr "nl_NL-Expired"
+
+msgid "View Recurring Classes"
+msgstr "nl_NL-View Recurring Classe"
+
+msgid "Refresh"
+msgstr "nl_NL-Refresh"
+
+msgid "Courses"
+msgstr "nl_NL-Courses"
+
+msgid "Content"
+msgstr "nl_NL-Content"
+
+msgid "Settings"
+msgstr "nl_NL-Settings"
+
+msgid "Edit"
+msgstr "nl_NL-Edit"
+
+msgid "Edit this item"
+msgstr "nl_NL-Edit this item"
+
+msgid "Move this item to the Trash"
+msgstr "nl_NL-Move this item to the Trash"
+
+msgid "Create Class"
+msgstr "nl_NL-Create Class"
+
+msgid "Enroll User"
+msgstr "nl_NL-Enroll User"
+
+msgid "WizIQ Content"
+msgstr "nl_NL-WizIQ Content"
+
+msgid "Upload Content"
+msgstr "nl_NL-Upload Content"
+
+msgid "My Content"
+msgstr "nl_NL-My Content"
+
+msgid "Content Name"
+msgstr "nl_NL-Content Name"
+
+msgid "Type"
+msgstr "nl_NL-Type"
+
+msgid "Inside"
+msgstr "nl_NL-Inside"
+
+msgid "Status"
+msgstr "nl_NL-Status"
+
+msgid "No content available"
+msgstr "nl_NL-No content available"
+
+msgid "Class title"
+msgstr "nl_NL-Class title"
+
+msgid "Class time"
+msgstr "nl_NL-Class time"
+
+msgid "Presenter"
+msgstr "nl_NL-Presenter"
+
+msgid "Attendance Report"
+msgstr "nl_NL-Attendance Report"
+
+msgid "Manage Class"
+msgstr "nl_NL-Manage Class"
+
+msgid "Upcoming"
+msgstr "nl_NL-Upcoming"
+
+msgid "WizIQ Classes"
+msgstr "nl_NL-WizIQ Classes"
+
+msgid "Add Class"
+msgstr "nl_NL-Add Class"
+
+msgid "Back To Courses"
+msgstr "nl_NL-Back To Courses"
+
+msgid "There are no user"
+msgstr "nl_NL-There are no user"
+
+msgid "Add New"
+msgstr "nl_NL-Add New"
+
+msgid "Enroll Users for Course"
+msgstr "nl_NL-Enroll Users for Course"
+
+msgid "General"
+msgstr "nl_NL-General"
+
+msgid "Class Duration (in minutes )"
+msgstr "nl_NL-Class Duration (in minutes )"
+
+msgid "Set Timing of the Class"
+msgstr "nl_NL-Set Timing of the Class"
+
+msgid "Choose Class Method"
+msgstr "Choose Class Method"
+
+msgid "Class Schedule"
+msgstr "nl_NL-Class Schedul"
+
+msgid "Select Date"
+msgstr "nl_NL-Select Date"
+
+msgid "Class Starting Time Date"
+msgstr "nl_NL-Class Starting Time Dat"
+
+msgid "Hours"
+msgstr "nl_NL-Hours"
+
+msgid "Minutes"
+msgstr "nl_NL-Minutes"
+
+msgid "Time zone"
+msgstr "nl_NL-Time zone"
+
+msgid "Repeat by"
+msgstr "nl_NL-Repeat by"
+
+msgid "Date"
+msgstr "nl_NL-Date"
+
+msgid "Day"
+msgstr "nl_NL-Day"
+
+msgid "of every month"
+msgstr "nl_NL-of every month"
+
+msgid "After classes"
+msgstr "nl_NL-After classes"
+
+msgid "On date"
+msgstr "nl_NL-On date"
+
+msgid "Setting of Wiziq Class"
+msgstr "nl_NL-Setting of Wiziq Class"
+
+msgid "Attendee limit in a class"
+msgstr "nl_NL-Attendee limit in a class"
+
+msgid "Record this class"
+msgstr "nl_NL-Record this class"
+
+msgid "Select a language"
+msgstr "nl_NL-Select a language"
+
+msgid "Yes"
+msgstr "nl_NL-Yes"
+
+msgid "No"
+msgstr "nl_NL-No"
+
+msgid "Want to schedule a single class"
+msgstr "nl_NL-Want to schedule a single class"
+
+msgid "Want to schedule a recurring class"
+msgstr "nl_NL-Want to schedule a recurring class"
+
+msgid "Select when class repeats"
+msgstr "nl_NL-Select when class repeats"
+
+msgid "Daily (all 7 Days)"
+msgstr "nl_NL-Daily (all 7 Days)"
+
+msgid "6 Days (Mon-Sat)"
+msgstr "nl_NL-6 Days (Mon-Sat)"
+
+msgid "5 Days (Mon-Fri)"
+msgstr "nl_NL-5 Days (Mon-Fri)"
+
+msgid "Weekly"
+msgstr "nl_NL-Weekly"
+
+msgid "Monthly"
+msgstr "nl_NL-Monthly"
+
+msgid "Please enter duration between 30 to 300 minutes."
+msgstr "nl_NL-Please enter duration between 30 to 300 minutes."
+
+msgid "No users enrolled in this course"
+msgstr "nl_NL-No users enrolled in this course"
+
+msgid "User Name"
+msgstr "nl_NL-User Name"
+
+msgid "Add"
+msgstr "nl_NL-Add"
+
+msgid "Remove"
+msgstr "nl_NL-Remove"
+
+msgid "User Permissions"
+msgstr "nl_NL-User Permissions"
+
+msgid "Download Recording"
+msgstr "nl_NL-Download Recording"
+
+msgid "Minimun 30 min and maximum 300 min"
+msgstr "nl_NL-Minimun 30 min and maximum 300 min"
+
+msgid "Schdelude right now"
+msgstr "nl_NL-Schdelude right now"
+
+msgid "You can add upto 60 classes"
+msgstr "nl_NL-You can add upto 60 classes"
+
+msgid "Please Select Week Days"
+msgstr "nl_NL-Please Select Week Days"
+
+msgid "Please enter number"
+msgstr "nl_NL-Please enter number"
+
+msgid "You can add upto 1000 attendees in a course"
+msgstr "nl_NL-You can add upto 1000 attendees in a course"
+
+msgid "Please enter number of classes"
+msgstr "nl_NL-Please enter number of classes"
+
+msgid "Please enter end date"
+msgstr "nl_NL-Please Enter end date"
+
+msgid "Start date required"
+msgstr "nl_NL-Start date required"
+
+msgid "Class name required"
+msgstr "nl_NL-Class name required"
+
+msgid "Back To Classes"
+msgstr "nl_NL-Back To Classes"
+
+msgid "Class updated successfully"
+msgstr "nl_NL-Class updated successfully"
+
+msgid "Class Detail"
+msgstr "nl_NL-Class Detail"
+
+msgid "Class name"
+msgstr "nl_NL-Class name"
+
+msgid "Teacher"
+msgstr "nl_NL-Teacher"
+
+msgid "You"
+msgstr "nl_NL-You"
+
+msgid "Class status"
+msgstr "nl_NL-Class status"
+
+msgid "Timing of class"
+msgstr "nl_NL-Timing of class"
+
+msgid "Duration (in minutes)"
+msgstr "nl_NL-Duration (in minutes)"
+
+msgid "Language in Classroom"
+msgstr "nl_NL-Language in Classroom"
+
+msgid "Recording opted"
+msgstr "nl_NL-Recording opted"
+
+msgid "Launch Class"
+msgstr "nl_NL-Launch Class"
+
+msgid "Go Back"
+msgstr "nl_NL-Go Back"
+
+msgid "Recording not opted"
+msgstr "nl_NL-Recording not opted"
+
+msgid "View list Of attendees"
+msgstr "nl_NL-View list Of attendees"
+
+msgid "View recording"
+msgstr "nl_NL-View recording"
+
+msgid "Download"
+msgstr "nl_NL-Download"
+
+msgid "Attendee report"
+msgstr "nl_NL-Attendee report"
+
+msgid "Attendee Detail"
+msgstr "nl_NL-Attendee Detail"
+
+msgid "Attendee Name"
+msgstr "nl_NL-Attendee Name"
+
+msgid "Entry Time"
+msgstr "nl_NL-Entry Time"
+
+msgid "Exit Time"
+msgstr "nl_NL-Exit Time"
+
+msgid "Attended Time"
+msgstr "nl_NL-Attended Time"
+
+msgid "Close"
+msgstr "nl_NL-Close"
+
+msgid "Cancelled"
+msgstr "nl_NL-Cancelled"
+
+msgid "Upload content in folder"
+msgstr "nl_NL-Upload content in folder"
+
+msgid "Create Folder"
+msgstr "nl_NL-Create Folder"
+
+msgid "Upload File"
+msgstr "nl_NL-Upload File"
+
+msgid "Allowed file type"
+msgstr "nl_NL-Allowed file type"
+
+msgid "Folder(s)"
+msgstr "nl_NL-Folder(s)"
+
+msgid "File(s)"
+msgstr "nl_NL-File (s)"
+
+msgid "Folder created successfully"
+msgstr "nl_NL-Folder created successfully"
+
+msgid "Inprogress"
+msgstr "nl_NL-Inprogress"
+
+msgid "Schedule for right now"
+msgstr "nl_NL-Schedule for right now"
+
+msgid "There is an error while processing your request please contact to wiziq support"
+msgstr "nl_NL-There is an error while processing your request please contact to wiziq support"
+
+msgid "There is an  error while processing your request please contact to wiziq support or try later"
+msgstr "nl_NL-There is an  error while processing your request please contact to wiziq support or try later"
+
+msgid "Start_time parameter cannot precede current datetime"
+msgstr "nl_NL-Start_time parameter cannot precede current datetime"
+
+msgid "There is  1005 error while processing your request. Invalid start_time parameter"
+msgstr "nl_NL-There is  1005 error while processing your request. Invalid start_time parameter"
+
+msgid "There is  1017 error while processing your request. Cannot modify an expired class"
+msgstr "nl_NL-There is  1017 error while processing your request. Cannot modify an expired class"
+
+msgid "The file type is not allowed"
+msgstr "nl_NL-The file type is not allowed"
+
+msgid "There is  1000 error while processing your request"
+msgstr "nl_NL-There is  1000 error while processing your request"
+
+msgid "Class API URL"
+msgstr "nl_NL-Class API URL"
+
+msgid "Content API URL"
+msgstr "nl_NL-Content API URL"
+
+msgid "VC Language Interface"
+msgstr "nl_NL-VC Language Interface"
+
+msgid " Please Enter Access Key"
+msgstr "nl_NL-Please Enter Access Key"
+
+msgid "Please Enter Secret Key"
+msgstr "nl_NL-Please Enter Secret Key"
+
+msgid "Alias"
+msgstr "nl_NL-Alias"
+
+msgid "You can enter upto 1000 characters."
+msgstr "nl_NL-You can enter upto 1000 characters."
+
+msgid "End date can not be empty"
+msgstr "nl_NL-End date can not be empty"
+
+msgid "End date should be one day greater than start date"
+msgstr "nl_NL-End date should be one day greater than start dat"
+
+msgid "Start date can not be empty"
+msgstr "nl_NL-Start date can not be empty"
+
+msgid "Edit Course"
+msgstr "nl_NL-Edit Course"
+
+msgid "Are you sure, you want to delete!"
+msgstr "nl_NL-Are you sure, you want to delete!"
+
+msgid "Please select classes to delete"
+msgstr "nl_NL-Please select classes to delete"
+
+msgid "Schedule right now"
+msgstr "nl_NL-Schedule right now"
+
+msgid "Schedule and Continue"
+msgstr "nl_NL-Schedule and Continue"
+
+msgid "Class Time"
+msgstr "nl_NL-Class Time"
+
+msgid "Ends"
+msgstr "nl_NL-Ends"
+
+msgid "Week"
+msgstr "nl_NL-Week"
+
+msgid "Repeat every week"
+msgstr "nl_NL-Repeat every week"
+
+msgid "View Classes"
+msgstr "nl_NL-View Classesn"
+
+msgid "Courses List"
+msgstr "nl_NL-Courses List"
+
+msgid "Create Course"
+msgstr "nl_NL-Create Course"
+
+msgid "Delete this course"
+msgstr "nl_NL-Delete this course"
+
+msgid "Edit this course"
+msgstr "nl_NL-Edit this course"
+
+msgid "View complete schedule"
+msgstr "nl_NL-View Complete Schedule"
+
+msgid "Edit this class"
+msgstr "nl_NL-Edit this class"
+
+msgid "Delete this class"
+msgstr "nl_NL-Delete this classe"
+
+msgid "Description not added"
+msgstr "nl_NL-Description not added"
+
+msgid "Start date not mentioned"
+msgstr "nl_NL-Start date not mentioned"
+
+msgid "End date not mentioned"
+msgstr "nl_NL-End date not mentioned"
+
+msgid "No Classes available for this course"
+msgstr "nl_NL-No Classes available for this course"
+
+msgid "Course"
+msgstr "nl_NL-Course"
+
+msgid "Please delete inner classes first"
+msgstr "nl_NL-Please delete inner classes first"
+
+msgid "Recurring classes"
+msgstr "nl_NL-Recurring classes"
+
+msgid "Classes"
+msgstr "nl_NL-Classes"
+
+msgid "ERROR"
+msgstr "nl_NL-ERROR"
+
+msgid "No course available"
+msgstr "nl_NL-No course available"
+
+msgid "Please select courses to delete"
+msgstr "nl_NL-Please select courses to delete"
+
+msgid "Please select content to delete"
+msgstr "nl_NL-Please select content to delete"
+
+msgid "Settings Updated"
+msgstr "nl_NL-Settings Updated"
+
+msgid "Please enter correct access key & secret key"
+msgstr "nl_NL-Please enter correct access key & secret key"
+
+msgid "Are you sure, you want to delete"
+msgstr "nl_NL-Are you sure, you want to delete"
+
+msgid "Please delete inner content first"
+msgstr "nl_NL-Please delete inner content first"
+
+msgid "Content List"
+msgstr "nl_NL-Content List"
+
+msgid "Folder Name"
+msgstr "nl_NL-Folder Name"
+
+msgid "Manage Content"
+msgstr "nl_NL-Manage Content"
+
+msgid "Update"
+msgstr "nl_NL-update"
+
+msgid "Teacher Name"
+msgstr "nl_NL-Teacher Name"
+
+msgid "Teacher Email"
+msgstr "nl_NL-Teacher Email"
+
+msgid "Teacher Password"
+msgstr "nl_NL-Teacher Password"
+
+msgid "Can Schedule Class"
+msgstr "nl_NL-Can Schedule Class"
+
+msgid "Activate"
+msgstr "nl_NL-Activate"
+
+msgid "Manage Teacher"
+msgstr "nl_NL-Manage Teacher"
+
+msgid "WizIQ Teachers"
+msgstr "nl_NL-WizIQ Teachers"
+
+msgid "Add Teachers"
+msgstr "nl_NL-Add Teachers"
+
+msgid "Select user"
+msgstr "nl_NL-Select user"
+
+msgid "Password"
+msgstr "nl_NL-Password"
+
+msgid "Active"
+msgstr "nl_NL-Active"
+
+msgid "About the teacher"
+msgstr "nl_NL-About the teacher"
+
+msgid "Add Teacher"
+msgstr "nl_NL-Add Teacher"
+
+msgid "Edit this teacher"
+msgstr "nl_NL-Edit this teacher"
+
+msgid "Teacher updated succesffully"
+msgstr "nl_NL-Teacher updated succesffully"
+
+msgid "Teacher added succesffully"
+msgstr "nl_NL-Teacher added succesffully"
+
+msgid "Please enter password"
+msgstr "nl_NL-Please enter password"
+
+msgid "Password length between 6 - 15 character"
+msgstr "nl_NL- Password length between 6 - 15 character"
+
+msgid "Add Course"
+msgstr "nl_NL-Add Course"
+
+msgid "Language of instruction"
+msgstr "nl_NL-Language of instruction"
+
+msgid "Course name"
+msgstr "nl_NL-Course name"
+
+msgid "Start date"
+msgstr "nl_NL-Start Date"
+
+msgid "End date"
+msgstr "nl_NL-End Date"
+
+msgid "My content"
+msgstr "nl_NL-My content"
+
+msgid "Select date"
+msgstr "nl_NL-Select date"
+
+msgid "Class title can't be empty."
+msgstr "nl_NL-Class title can't be empty."
+
+msgid "Start date required."
+msgstr "nl_NL-Start date required."
+
+msgid "Select teacher"
+msgstr "nl_NL-Select teacher"
+
+msgid "Class duration (in minutes )"
+msgstr "nl_NL-Class duration (in minutes )"
+
+msgid "View Recording"
+msgstr "nl_NL-View Recording"
+
+msgid "Time Zone"
+msgstr "nl_NL-Time Zone"
+
+msgid "Select User"
+msgstr "nl_NL-Select User"
+
+msgid "Bulk Actions"
+msgstr "nl_NL-Bulk Actions"
+
+msgid "Add new class"
+msgstr "nl_NL-Add new class"
+
+msgid "Enroll user"
+msgstr "nl_NL-Enroll user"
+
+msgid "Time Zone API URL"
+msgstr "nl_NL-Time Zone API URL"
+
+msgid "Clear"
+msgstr "nl_NL-Clear"
+
+msgid "Manage Course"
+msgstr "nl_NL-Manage Course"
+
+msgid "Add New Class"
+msgstr "nl_NL-Add New Class"
+
+msgid "Class Title"
+msgstr "nl_NL-Class Title"
+
+msgid "Minimum 30 min and maximum 300 min"
+msgstr "nl_NL-Minimum 30 min and maximum 300 min"
+
+msgid "Minimum 30 min and maximum 300 min."
+msgstr "nl_NL-Minimum 30 min and maximum 300 min."
+
+msgid "in minutes"
+msgstr "nl_NL-in minutes"
+
+msgid "Class duration"
+msgstr "nl_NL-Class duration"
+
+msgid "Please select when this class repeats."
+msgstr "nl_NL-Please select when this class repeats."
+
+msgid "Please enter number of classes."
+msgstr "nl_NL-Please enter number of classes."
+
+msgid "Class schedule"
+msgstr "nl_NL-Class schedule"
+
+msgid "Duration"
+msgstr "nl_NL-Duration"
+
+msgid "Language in classroom"
+msgstr "nl_NL-Language in classroom"
+
+msgid "Content name"
+msgstr "nl_NL-Content name"
+
+msgid "Upload file"
+msgstr "nl_NL-Upload file"
+
+msgid "Folder name"
+msgstr "nl_NL-Folder name"
+
+msgid "Please select file to upload."
+msgstr "nl_NL-Please select file to upload."
+
+msgid "The request has been successfully completed."
+msgstr "nl_NL-The request has been successfully completed."
+
+msgid "Not Modified: Operation ok. There was no new data to return."
+msgstr "nl_NL-Not Modified: Operation ok. There was no new data to return."
+
+msgid "Bad Request: The request is invalid. Error messages are returned for explanation purposes."
+msgstr "nl_NL-Bad Request: The request is invalid. Error messages are returned for explanation purposes."
+
+msgid "Not Authorized: The credentials provided are invalid or are needed for the operation."
+msgstr "nl_NL-Not Authorized: The credentials provided are invalid or are needed for the operation."
+
+msgid "Forbidden: The request is refused by the API."
+msgstr "nl_NL-Forbidden: The request is refused by the API."
+
+msgid "Not Found: The resource requested doesn’t exist. Ex: The provided car_id in the url doesn’t exist."
+msgstr "nl_NL-Not Found: The resource requested doesn’t exist. Ex: The provided car_id in the url doesn’t exist."
+
+msgid "Internal Server Error: An unrecoverable error has occurred at server side."
+msgstr "nl_NL-Internal Server Error: An unrecoverable error has occurred at server side."
+
+msgid "Bad Gateway: The API service is down or being upgraded."
+msgstr "nl_NL-Bad Gateway: The API service is down or being upgraded."
+
+msgid "Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+msgstr "nl_NL-Service Unavailable: The service is overloaded with a lot requests and can’t manage the incoming request."
+
+msgid "There is some error while processing your request."
+msgstr "nl_NL-There is some error while processing your request."
+
+msgid "presenter_id parameter is missing."
+msgstr "nl_NL-presenter_id parameter is missing."
+
+msgid "presenter_name parameter is missing."
+msgstr "nl_NL-presenter_name parameter is missing."
+
+msgid "Specified time_zone parameter is not available."
+msgstr "nl_NL-Specified time_zone parameter is not available."
+
+msgid "start_time parameter cannot precede current datetime."
+msgstr "nl_NL-start_time parameter cannot precede current datetime."
+
+msgid "Invalid start_time parameter."
+msgstr "nl_NL-Invalid start_time parameter."
+
+msgid "time_zone parameter is missing."
+msgstr "nl_NL-time_zone parameter is missing."
+
+msgid "Attendees can be  added only in an upcoming class."
+msgstr "nl_NL-Attendees can be  added only in an upcoming class."
+
+msgid "This class has been cancelled."
+msgstr "nl_NL-This class has been cancelled."
+
+msgid "class_id is invalid."
+msgstr "nl_NL-class_id is invalid."
+
+msgid "duration parameter cannot exceed  #MaxClassMinutes# minutes."
+msgstr "nl_NL-duration parameter cannot exceed  #MaxClassMinutes# minutes."
+
+msgid "attendee_limit parameter cannot exceed #MaxUserPerClass# attendees."
+msgstr "nl_NL-attendee_limit parameter cannot exceed #MaxUserPerClass# attendees."
+
+msgid "Only #MaxConcurrentClass# simultaneous classes are allowed."
+msgstr "nl_NL-Only #MaxConcurrentClass# simultaneous classes are allowed."
+
+msgid "No record found."
+msgstr "nl_NL-No record found."
+
+msgid "title parameter is missing."
+msgstr "nl_NL-title parameter is missing."
+
+msgid "Cannot modify an in-progress class."
+msgstr "nl_NL-Cannot modify an in-progress class."
+
+msgid "Cannot modify a completed class."
+msgstr "nl_NL-Cannot modify a completed class."
+
+msgid "Cannot modify an expired class."
+msgstr "nl_NL-Cannot modify an expired class."
+
+msgid "Cannot modify a deleted class."
+msgstr "nl_NL-Cannot modify a deleted class."
+
+msgid "start_time parameter is missing."
+msgstr "nl_NL-start_time parameter is missing."
+
+msgid "class_id parameter is missing."
+msgstr "nl_NL-class_id parameter is missing."
+
+msgid "attendee_list parameter is missing."
+msgstr "nl_NL-attendee_list parameter is missing."
+
+msgid "Datetime is not in valid format."
+msgstr "nl_NL-Datetime is not in valid format."
+
+msgid "screen_name is missing."
+msgstr "nl_NL-screen_name is missing."
+
+msgid "Please enter folder name."
+msgstr "nl_NL-Please enter folder name."
+
+msgid "Can schedule class"
+msgstr "nl_NL-Can schedule class"
+
+msgid "Teacher name"
+msgstr "nl_NL-Teacher name"
+
+msgid "Edit Teacher"
+msgstr "nl_NL-Edit Teacher"
+
+msgid "Please enter end date."
+msgstr "nl_NL-Please enter end date."
+
+msgid "TEACHER"
+msgstr "nl_NL-TEACHER"
+
+msgid "Class deleted successfully"
+msgstr "nl_NL-Class deleted successfully"
+
+msgid "Please select user from right panel"
+msgstr "nl_NL-Please select user from right panel"
+
+msgid "No classes available for this course"
+msgstr "nl_NL-No classes available for this course"
+
+msgid "required"
+msgstr "nl_NL-required"
+
+msgid "Please select week days."
+msgstr "nl_NL-Please select week days."
+
+
